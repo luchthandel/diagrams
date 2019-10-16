@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-16T14:20:52.694Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36 Edg/77.0.235.27" etag="ymGck73v2QiodvvlqlLk" version="12.1.1" type="github" pages="19">
+<mxfile host="www.draw.io" modified="2019-10-16T14:21:31.641Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36 Edg/77.0.235.27" etag="S2nQyQo5W4JC12KkEORl" version="12.1.1" type="github" pages="19">
   <diagram id="OAzPr29gZ-bUyklqUKg8" name="Communicatie">
     <mxGraphModel dx="1411" dy="827" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -322,7 +322,7 @@
         <mxCell id="yyVp9ms8LgXAaTYiDZeP-3" value="Blijvende HG Intern Ref Nr&#xa;Ontslagen HG Intern Ref Nr&#xa;Is er nieuwe HG?&#xa;Nieuwe HG Intern Ref Nr" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="yyVp9ms8LgXAaTYiDZeP-2" vertex="1">
           <mxGeometry y="30" width="167" height="70" as="geometry"/>
         </mxCell>
-        <mxCell id="E0ioBwcJGyvglRwUFWw6-0" value=" Hypotheekgever Mutatie Type" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;fillColor=#f5f5f5;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;strokeColor=#666666;fontColor=#333333;" parent="YiYAcxKk9vGQrexYrB2h-1" vertex="1">
+        <mxCell id="E0ioBwcJGyvglRwUFWw6-0" value=" Hypotheekg. Mutatie Type" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;fillColor=#f5f5f5;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;strokeColor=#666666;fontColor=#333333;" parent="YiYAcxKk9vGQrexYrB2h-1" vertex="1">
           <mxGeometry x="1885" y="-817" width="170.5" height="86" as="geometry">
             <mxRectangle x="890" y="-589" width="80" height="30" as="alternateBounds"/>
           </mxGeometry>
@@ -614,6 +614,9 @@
             <mxPoint x="1820" y="-711" as="sourcePoint"/>
             <mxPoint x="2115" y="-711" as="targetPoint"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="PmvTA2KfOMIwnWEkrhvn-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.212;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=ERmandOne;startFill=0;endArrow=ERmandOne;endFill=0;" edge="1" parent="YiYAcxKk9vGQrexYrB2h-1" source="pbP8Qryn5_uU61mNpqaL-5" target="pbP8Qryn5_uU61mNpqaL-34">
+          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
