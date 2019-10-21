@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-21T19:36:36.899Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36 Edg/77.0.235.27" etag="AwdBe-KbZKqNywTJ4qpA" version="12.1.3" type="github" pages="12">
+<mxfile host="www.draw.io" modified="2019-10-21T19:39:32.255Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36 Edg/77.0.235.27" etag="u5PLA1sNhdJY-nES1iHO" version="12.1.3" type="github" pages="12">
   <diagram id="ra9I0Hc_W1vuAM2sx4e9" name="model">
     <mxGraphModel dx="1660" dy="2663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -57,7 +57,7 @@
           <mxGeometry x="1812.5" y="1530" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="le96O0H31PqCpfMyESbZ-51" value="&lt;b&gt;Gewenste&lt;br&gt;Leningdelen&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="le96O0H31PqCpfMyESbZ-1">
-          <mxGeometry x="2012.5" y="1475" width="120" height="60" as="geometry"/>
+          <mxGeometry x="2013" y="1420" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="le96O0H31PqCpfMyESbZ-52" value="&lt;b&gt;Wijzigen waarde&lt;/b&gt;&lt;br&gt;&lt;b&gt;onderpand&lt;/b&gt;&lt;br&gt;(NWWI taxatie)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="le96O0H31PqCpfMyESbZ-1">
           <mxGeometry x="1615" y="1166" width="120" height="60" as="geometry"/>
@@ -84,10 +84,10 @@
             <mxPoint x="1823.0882352941176" y="1363.4117647058824" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="le96O0H31PqCpfMyESbZ-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=ERmandOne;startFill=0;endArrow=ERmandOne;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="le96O0H31PqCpfMyESbZ-1" source="le96O0H31PqCpfMyESbZ-49" target="le96O0H31PqCpfMyESbZ-51">
+        <mxCell id="le96O0H31PqCpfMyESbZ-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=ERmandOne;startFill=0;endArrow=ERmandOne;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="le96O0H31PqCpfMyESbZ-1" source="le96O0H31PqCpfMyESbZ-49" target="le96O0H31PqCpfMyESbZ-189">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1943.0882352941176" y="1438.4117647058824" as="sourcePoint"/>
-            <mxPoint x="2002.5" y="1498.4117647058824" as="targetPoint"/>
+            <mxPoint x="2012" y="1550" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="le96O0H31PqCpfMyESbZ-105" value="" style="group" vertex="1" connectable="0" parent="le96O0H31PqCpfMyESbZ-1">
@@ -459,7 +459,7 @@
         <mxCell id="le96O0H31PqCpfMyESbZ-177" value="OHA mutaties" style="text;html=1;fontSize=30;align=right;" vertex="1" parent="le96O0H31PqCpfMyESbZ-1">
           <mxGeometry x="1920.5" y="1068" width="145" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="le96O0H31PqCpfMyESbZ-178" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fontSize=30;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;" edge="1" parent="le96O0H31PqCpfMyESbZ-1" source="le96O0H31PqCpfMyESbZ-51" target="le96O0H31PqCpfMyESbZ-3">
+        <mxCell id="le96O0H31PqCpfMyESbZ-178" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fontSize=30;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="le96O0H31PqCpfMyESbZ-1" source="le96O0H31PqCpfMyESbZ-189" target="le96O0H31PqCpfMyESbZ-3">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="le96O0H31PqCpfMyESbZ-179" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fontSize=30;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;" edge="1" parent="le96O0H31PqCpfMyESbZ-1" source="le96O0H31PqCpfMyESbZ-46" target="le96O0H31PqCpfMyESbZ-8">
@@ -507,10 +507,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="le96O0H31PqCpfMyESbZ-188" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fontSize=30;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="le96O0H31PqCpfMyESbZ-1" source="le96O0H31PqCpfMyESbZ-48" target="le96O0H31PqCpfMyESbZ-5">
+        <mxCell id="le96O0H31PqCpfMyESbZ-189" value="&lt;b&gt;Gewenste&lt;br&gt;Leningdelen&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="le96O0H31PqCpfMyESbZ-1">
+          <mxGeometry x="2012.5" y="1530" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="le96O0H31PqCpfMyESbZ-190" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fontSize=30;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="le96O0H31PqCpfMyESbZ-1" source="le96O0H31PqCpfMyESbZ-51" target="le96O0H31PqCpfMyESbZ-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2082.5" y="1420" as="sourcePoint"/>
-            <mxPoint x="2082.978828510938" y="741.5" as="targetPoint"/>
+            <mxPoint x="2112.5" y="1540" as="sourcePoint"/>
+            <mxPoint x="2113" y="696.5" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
       </root>
