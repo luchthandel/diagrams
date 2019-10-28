@@ -1,11 +1,11 @@
-<mxfile host="www.draw.io" modified="2019-10-28T17:35:58.424Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36 Edg/77.0.235.27" etag="TD_xE_o6cRDxGsxvLW0I" version="12.1.7" type="github" pages="15">
+<mxfile host="www.draw.io" modified="2019-10-28T17:53:20.467Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36 Edg/77.0.235.27" etag="dgkIpVQWKXkmwAJKS8-l" version="12.1.7" type="github" pages="15">
   <diagram id="gM1qVeGNTGHOB_rX4ULl" name="Hypotheek-model">
     <mxGraphModel dx="4387" dy="2640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0QHoq1nqmkn73c4qlK0l-0"/>
         <mxCell id="0QHoq1nqmkn73c4qlK0l-1" parent="0QHoq1nqmkn73c4qlK0l-0"/>
         <mxCell id="d1SswsUoRuGwUSfedUKh-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;align=right;fillColor=#f5f5f5;strokeColor=none;fontColor=#333333;" vertex="1" parent="0QHoq1nqmkn73c4qlK0l-1">
-          <mxGeometry x="-1170" y="-1406" width="940" height="1056" as="geometry"/>
+          <mxGeometry x="-1170" y="-1406" width="1010" height="1056" as="geometry"/>
         </mxCell>
         <mxCell id="d1SswsUoRuGwUSfedUKh-1" value="&lt;font&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;&lt;i&gt;Conceptueel&lt;br&gt;&lt;/i&gt;&lt;/span&gt;Hypotheek model&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="0QHoq1nqmkn73c4qlK0l-1">
           <mxGeometry x="-1138" y="-1372.5" width="154" height="76" as="geometry"/>
@@ -95,7 +95,7 @@
         <mxCell id="d1SswsUoRuGwUSfedUKh-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="0QHoq1nqmkn73c4qlK0l-1" source="d1SswsUoRuGwUSfedUKh-29" target="d1SswsUoRuGwUSfedUKh-35">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="d1SswsUoRuGwUSfedUKh-29" value="&lt;b&gt;Rol&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0QHoq1nqmkn73c4qlK0l-1">
+        <mxCell id="d1SswsUoRuGwUSfedUKh-29" value="&lt;b&gt;Partij Rol&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0QHoq1nqmkn73c4qlK0l-1">
           <mxGeometry x="-522.9999999999998" y="-775" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="d1SswsUoRuGwUSfedUKh-30" value="&lt;b&gt;Hypotheekgever&lt;br&gt;(max 4)&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0QHoq1nqmkn73c4qlK0l-1">
@@ -160,14 +160,36 @@
             <mxGeometry x="-393.5" y="-1038.5" width="135" height="74" as="geometry"/>
           </mxCell>
         </UserObject>
-        <UserObject label="Waardeopbouw&lt;br&gt;&amp;nbsp; &amp;nbsp; - Sparen&lt;br&gt;&amp;nbsp; &amp;nbsp;- Beleggen&lt;br&gt;Overlijdensrisico" id="d1SswsUoRuGwUSfedUKh-51">
-          <mxCell style="text;html=1;" vertex="1" parent="0QHoq1nqmkn73c4qlK0l-1">
-            <mxGeometry x="-396.5" y="-849" width="135" height="74" as="geometry"/>
+        <UserObject label="ook wel:&lt;br&gt;Geldverstrekker&lt;br&gt;of geldgever" id="d1SswsUoRuGwUSfedUKh-53">
+          <mxCell style="text;html=1;align=right;" vertex="1" parent="0QHoq1nqmkn73c4qlK0l-1">
+            <mxGeometry x="-984" y="-1293.5" width="90" height="30" as="geometry"/>
           </mxCell>
         </UserObject>
-        <UserObject label="Bouwdepot&lt;br&gt;Verbouwdepot&lt;br&gt;Rentedepot&lt;br&gt;Energiedepot (EBV)" id="d1SswsUoRuGwUSfedUKh-52">
+        <UserObject label="*ook wel:&lt;br&gt;Geldnemer" id="d1SswsUoRuGwUSfedUKh-54">
           <mxCell style="text;html=1;" vertex="1" parent="0QHoq1nqmkn73c4qlK0l-1">
-            <mxGeometry x="-180" y="-972.5" width="135" height="74" as="geometry"/>
+            <mxGeometry x="-270" y="-695.5" width="90" height="30" as="geometry"/>
+          </mxCell>
+        </UserObject>
+        <mxCell id="d1SswsUoRuGwUSfedUKh-56" value="Een meeverbonden waarde &lt;br&gt;opbouwproduct&lt;br&gt;- Levensverzekering&lt;br&gt;- Beleggingsovereenkomst&lt;br&gt;- Spaarrekening Eigen Woning." style="text;html=1;" vertex="1" parent="0QHoq1nqmkn73c4qlK0l-1">
+          <mxGeometry x="-396.5" y="-845" width="180" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="4m4LHJ_-f-KEULC-KT4N-0" value="*ook wel:&lt;br&gt;contract" style="text;html=1;" vertex="1" parent="0QHoq1nqmkn73c4qlK0l-1">
+          <mxGeometry x="-515" y="-1145.5" width="110" height="22" as="geometry"/>
+        </mxCell>
+        <mxCell id="R8rWSUEqnYcqpHRuCSvo-0" value="*ook wel:&lt;br&gt;debiteur" style="text;html=1;align=left;" vertex="1" parent="0QHoq1nqmkn73c4qlK0l-1">
+          <mxGeometry x="-270" y="-496" width="60" height="30" as="geometry"/>
+        </mxCell>
+        <UserObject label="Overbruggingspand en/of &lt;br&gt;woonhuis, uitpandige &lt;br&gt;garage en/of stuk grond" id="oY2Ojmh9QM5uanY0J2Fh-0">
+          <mxCell style="text;html=1;" vertex="1" parent="0QHoq1nqmkn73c4qlK0l-1">
+            <mxGeometry x="-396.5" y="-1225" width="135" height="27" as="geometry"/>
+          </mxCell>
+        </UserObject>
+        <mxCell id="oY2Ojmh9QM5uanY0J2Fh-1" value="*behalve NHG is&lt;br&gt;borgstelling niet&lt;br&gt;bij Aegon mogelijk" style="text;html=1;align=left;" vertex="1" parent="0QHoq1nqmkn73c4qlK0l-1">
+          <mxGeometry x="-270" y="-579" width="100" height="59" as="geometry"/>
+        </mxCell>
+        <UserObject label="* vaak ouders&lt;br&gt;of familie" id="oY2Ojmh9QM5uanY0J2Fh-2">
+          <mxCell style="text;html=1;" vertex="1" parent="0QHoq1nqmkn73c4qlK0l-1">
+            <mxGeometry x="-270" y="-632" width="90" height="30" as="geometry"/>
           </mxCell>
         </UserObject>
       </root>
