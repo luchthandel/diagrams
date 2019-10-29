@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-29T15:48:45.156Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="cp8nT3OkQ_b25NKVGfSy" version="12.1.8" type="github" pages="15">
+<mxfile host="www.draw.io" modified="2019-10-29T15:48:56.903Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="0Zc3lQOghytZjrJTF4NY" version="12.1.8" type="github" pages="15">
   <diagram id="OAzPr29gZ-bUyklqUKg8" name="Communicatie">
     <mxGraphModel dx="942" dy="543" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -424,9 +424,6 @@
         <mxCell id="Fb6ymFtQ4Q4cH-7iTbbl-1" value="Hypotheek&lt;br&gt;(Max 9)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1AuU4kAsYq-H1071UyAH-1">
           <mxGeometry x="-652.5000000000001" y="-2140" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="Fb6ymFtQ4Q4cH-7iTbbl-4" value="&lt;b&gt;Hypotheekgever&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1AuU4kAsYq-H1071UyAH-1">
-          <mxGeometry x="30" y="-2007.5" width="120" height="60" as="geometry"/>
-        </mxCell>
         <mxCell id="2OGAShBPPJKgQsdmwNwX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1AuU4kAsYq-H1071UyAH-1" source="Fb6ymFtQ4Q4cH-7iTbbl-8" target="Fb6ymFtQ4Q4cH-7iTbbl-10">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
@@ -454,16 +451,6 @@
         <mxCell id="Fb6ymFtQ4Q4cH-7iTbbl-14" value="&lt;font&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;&lt;i&gt;Conceptueel&lt;br&gt;&lt;/i&gt;&lt;/span&gt;Hypotheek model&lt;br&gt;IX&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1AuU4kAsYq-H1071UyAH-1">
           <mxGeometry x="-189" y="-2310" width="154" height="76" as="geometry"/>
         </mxCell>
-        <UserObject label="Aanvragen op basis van geboortedtum -&amp;gt; 0,1 of meerdere contracten" id="Fb6ymFtQ4Q4cH-7iTbbl-15">
-          <mxCell style="text;html=1;" vertex="1" parent="1AuU4kAsYq-H1071UyAH-1">
-            <mxGeometry x="70" y="-1878" width="310" height="27" as="geometry"/>
-          </mxCell>
-        </UserObject>
-        <UserObject label="Aanvragen op basis van Hypotheeknummer (en geboortedatum) -&amp;gt; o of 1 contract" id="Fb6ymFtQ4Q4cH-7iTbbl-16">
-          <mxCell style="text;html=1;" vertex="1" parent="1AuU4kAsYq-H1071UyAH-1">
-            <mxGeometry x="50" y="-1781" width="310" height="27" as="geometry"/>
-          </mxCell>
-        </UserObject>
         <mxCell id="2OGAShBPPJKgQsdmwNwX-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1AuU4kAsYq-H1071UyAH-1" source="6FneugEmWq8oHB8olnB_-0" target="6FneugEmWq8oHB8olnB_-1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
