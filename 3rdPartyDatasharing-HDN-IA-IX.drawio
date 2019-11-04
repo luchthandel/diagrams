@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-10-30T10:34:59.747Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36 Edg/77.0.235.27" etag="0_lN2LP51Hg-i7MdJ-EZ" version="12.1.8" type="github" pages="20">
+<mxfile host="www.draw.io" modified="2019-11-04T12:41:00.182Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="Ad3m3HUChr7ygqLhLPFa" version="12.2.0" type="github" pages="20">
   <diagram id="OAzPr29gZ-bUyklqUKg8" name="Communicatie">
-    <mxGraphModel dx="1411" dy="746" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="942" dy="592" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -252,7 +252,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kKG5vJx3QUuXp1nGzNl0" name="IA Model">
-    <mxGraphModel dx="2238" dy="3084" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1769" dy="2930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="-Y4BT6iz6nSy4iRvqRnK-0"/>
         <mxCell id="-Y4BT6iz6nSy4iRvqRnK-1" parent="-Y4BT6iz6nSy4iRvqRnK-0"/>
@@ -399,15 +399,63 @@
           </mxCell>
         </UserObject>
         <UserObject label="Aanvragen op basis van TP-nr -&amp;gt; 0,1 of meerdere contracten" id="ub6A2Lv3Uq8_c8Ei45xq-0">
-          <mxCell style="text;html=1;" vertex="1" parent="-Y4BT6iz6nSy4iRvqRnK-1">
+          <mxCell style="text;html=1;" parent="-Y4BT6iz6nSy4iRvqRnK-1" vertex="1">
             <mxGeometry x="-401" y="-1890" width="310" height="27" as="geometry"/>
           </mxCell>
         </UserObject>
         <UserObject label="Aanvragen op basis van TP-nr -&amp;gt; 0,1 of meerdere contracten" id="ub6A2Lv3Uq8_c8Ei45xq-1">
-          <mxCell style="text;html=1;" vertex="1" parent="-Y4BT6iz6nSy4iRvqRnK-1">
+          <mxCell style="text;html=1;" parent="-Y4BT6iz6nSy4iRvqRnK-1" vertex="1">
             <mxGeometry x="-390" y="-1331.5" width="310" height="27" as="geometry"/>
           </mxCell>
         </UserObject>
+        <mxCell id="rZzFziZe8h-HlTZezs95-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;align=right;fillColor=#f5f5f5;strokeColor=none;fontColor=#333333;" vertex="1" parent="-Y4BT6iz6nSy4iRvqRnK-1">
+          <mxGeometry x="20" y="-2320" width="420" height="450" as="geometry"/>
+        </mxCell>
+        <mxCell id="rZzFziZe8h-HlTZezs95-1" value="&lt;b&gt;Tussenpersoon&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="-Y4BT6iz6nSy4iRvqRnK-1">
+          <mxGeometry x="180" y="-2152" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="rZzFziZe8h-HlTZezs95-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="-Y4BT6iz6nSy4iRvqRnK-1" source="rZzFziZe8h-HlTZezs95-4" target="rZzFziZe8h-HlTZezs95-10">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="rZzFziZe8h-HlTZezs95-4" value="&lt;b&gt;Hypotheekgever&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-Y4BT6iz6nSy4iRvqRnK-1">
+          <mxGeometry x="180" y="-2013" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="rZzFziZe8h-HlTZezs95-6" value="&lt;b&gt;Lening&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-Y4BT6iz6nSy4iRvqRnK-1">
+          <mxGeometry x="180" y="-2081" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="rZzFziZe8h-HlTZezs95-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="-Y4BT6iz6nSy4iRvqRnK-1" source="rZzFziZe8h-HlTZezs95-8" target="rZzFziZe8h-HlTZezs95-9">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="rZzFziZe8h-HlTZezs95-8" value="Informatie&lt;br&gt;Aanvraag (IA)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="-Y4BT6iz6nSy4iRvqRnK-1">
+          <mxGeometry x="60" y="-2281" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="rZzFziZe8h-HlTZezs95-9" value="Header" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="-Y4BT6iz6nSy4iRvqRnK-1">
+          <mxGeometry x="180" y="-2221" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="rZzFziZe8h-HlTZezs95-10" value="&lt;b&gt;Partij&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-Y4BT6iz6nSy4iRvqRnK-1">
+          <mxGeometry x="299.9999999999999" y="-1950" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="rZzFziZe8h-HlTZezs95-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="-Y4BT6iz6nSy4iRvqRnK-1" source="rZzFziZe8h-HlTZezs95-8" target="rZzFziZe8h-HlTZezs95-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="129.8571428571429" y="-2210.714285714286" as="sourcePoint"/>
+            <mxPoint x="189.8571428571429" y="-2180.714285714286" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rZzFziZe8h-HlTZezs95-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="-Y4BT6iz6nSy4iRvqRnK-1" source="rZzFziZe8h-HlTZezs95-8" target="rZzFziZe8h-HlTZezs95-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="129.8571428571429" y="-2210.714285714286" as="sourcePoint"/>
+            <mxPoint x="189.8571428571429" y="-2112.142857142857" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rZzFziZe8h-HlTZezs95-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="-Y4BT6iz6nSy4iRvqRnK-1" source="rZzFziZe8h-HlTZezs95-8" target="rZzFziZe8h-HlTZezs95-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="129.8571428571429" y="-2210.714285714286" as="sourcePoint"/>
+            <mxPoint x="189.8571428571429" y="-2043.5714285714284" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rZzFziZe8h-HlTZezs95-14" value="&lt;font&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;&lt;i&gt;Conceptueel&lt;br&gt;&lt;/i&gt;&lt;/span&gt;Hypotheek model&lt;br&gt;IA&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-Y4BT6iz6nSy4iRvqRnK-1">
+          <mxGeometry x="266" y="-2306" width="154" height="76" as="geometry"/>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
