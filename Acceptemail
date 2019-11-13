@@ -1,4 +1,4 @@
-<mxfile modified="2019-11-13T12:48:55.046Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.16 Safari/537.36 Edg/79.0.309.14" etag="m4MitzQM_zi2mKGgsqam" version="12.2.4" type="github" pages="8">
+<mxfile modified="2019-11-13T13:01:01.420Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.16 Safari/537.36 Edg/79.0.309.14" etag="0GjYE06cu63U3ui50C3F" version="12.2.4" type="github" pages="8">
   <diagram name="Overview v0.4" id="H0jc4HSHuazwS-fIL39_">
     <mxGraphModel dx="1411" dy="827" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="xMebUBSoMuRf3H9HUU81-15" value="CUSTOMER&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;dashed=1;strokeWidth=1;fillColor=none;fontSize=13;fontColor=#000000;align=center;fontStyle=1" parent="xMebUBSoMuRf3H9HUU81-1" vertex="1">
-          <mxGeometry x="574.9285714285714" y="94" width="30" height="60" as="geometry"/>
+          <mxGeometry x="533.9285714285714" y="94" width="30" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="xMebUBSoMuRf3H9HUU81-16" value="&lt;b&gt;Ideal&lt;br&gt;Transaction&lt;br&gt;&lt;/b&gt;&lt;br&gt;(bank ui)" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fillColor=#f8cecc;fontSize=13;align=center;strokeColor=#b85450;" parent="xMebUBSoMuRf3H9HUU81-1" vertex="1">
           <mxGeometry x="1064.0000000000002" y="84" width="80" height="80" as="geometry"/>
@@ -78,7 +78,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xMebUBSoMuRf3H9HUU81-37" value="redirect to &lt;br&gt;return url&lt;br&gt;" style="text;html=1;" parent="xMebUBSoMuRf3H9HUU81-1" vertex="1">
-          <mxGeometry x="927" y="63" width="50" height="30" as="geometry"/>
+          <mxGeometry x="972" y="63" width="50" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="xMebUBSoMuRf3H9HUU81-38" value="&lt;span style=&quot;font-size: 19px&quot;&gt;&lt;b&gt;Aegon Payment Request v0.2&lt;/b&gt;&lt;/span&gt;" style="text;html=1;" parent="xMebUBSoMuRf3H9HUU81-1" vertex="1">
           <mxGeometry x="25" y="11.5" width="234" height="42" as="geometry"/>
@@ -90,16 +90,24 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xMebUBSoMuRf3H9HUU81-128" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="xMebUBSoMuRf3H9HUU81-1" source="xMebUBSoMuRf3H9HUU81-47" target="xMebUBSoMuRf3H9HUU81-51" edge="1">
-          <mxGeometry relative="1" as="geometry"/>
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="145"/>
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="xMebUBSoMuRf3H9HUU81-151" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="xMebUBSoMuRf3H9HUU81-1" source="xMebUBSoMuRf3H9HUU81-47" target="xMebUBSoMuRf3H9HUU81-56" edge="1">
-          <mxGeometry relative="1" as="geometry"/>
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="949" y="145"/>
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="xMebUBSoMuRf3H9HUU81-47" value="&lt;b&gt;Payment&lt;br&gt;Page&lt;/b&gt;&lt;br&gt;&lt;br&gt;(aegon.nl)" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fillColor=#d5e8d4;fontSize=13;align=center;strokeColor=#82b366;" parent="xMebUBSoMuRf3H9HUU81-1" vertex="1">
           <mxGeometry x="752.0000000000006" y="85" width="80" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="xMebUBSoMuRf3H9HUU81-48" value="redirect to &lt;br&gt;ideal url&lt;br&gt;" style="text;html=1;" parent="xMebUBSoMuRf3H9HUU81-1" vertex="1">
-          <mxGeometry x="930" y="127" width="50" height="30" as="geometry"/>
+          <mxGeometry x="975" y="127" width="50" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="xMebUBSoMuRf3H9HUU81-129" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="xMebUBSoMuRf3H9HUU81-1" source="xMebUBSoMuRf3H9HUU81-51" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -156,7 +164,7 @@
           <mxGeometry x="707" y="141" width="26" height="26" as="geometry"/>
         </mxCell>
         <mxCell id="xMebUBSoMuRf3H9HUU81-65" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/letters-and-numbers-1/32/number_7_blue-128.png" parent="xMebUBSoMuRf3H9HUU81-1" vertex="1">
-          <mxGeometry x="493.5" y="302.5" width="30" height="30" as="geometry"/>
+          <mxGeometry x="507.5" y="225" width="30" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="xMebUBSoMuRf3H9HUU81-66" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/letters-and-numbers-1/32/number_8_blue-128.png" parent="xMebUBSoMuRf3H9HUU81-1" vertex="1">
           <mxGeometry x="482" y="444.5" width="30" height="30" as="geometry"/>
@@ -221,7 +229,7 @@
         <mxCell id="xMebUBSoMuRf3H9HUU81-134" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;" parent="xMebUBSoMuRf3H9HUU81-135" vertex="1">
           <mxGeometry width="107" height="107" as="geometry"/>
         </mxCell>
-        <mxCell id="xMebUBSoMuRf3H9HUU81-12" value="AcceptEmail" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;dashed=1;strokeWidth=1;fillColor=#f8cecc;fontSize=13;align=center;fontStyle=1;strokeColor=#b85450;" parent="xMebUBSoMuRf3H9HUU81-135" vertex="1">
+        <mxCell id="xMebUBSoMuRf3H9HUU81-12" value="Case Workflow" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;dashed=1;strokeWidth=1;fillColor=#f8cecc;fontSize=13;align=center;fontStyle=1;strokeColor=#b85450;" parent="xMebUBSoMuRf3H9HUU81-135" vertex="1">
           <mxGeometry x="36.928571428571445" y="14.999999999999773" width="30" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="xMebUBSoMuRf3H9HUU81-146" value="" style="group" parent="xMebUBSoMuRf3H9HUU81-1" vertex="1" connectable="0">
@@ -284,7 +292,7 @@
           <mxGeometry x="523" y="438" width="61" height="43" as="geometry"/>
         </mxCell>
         <mxCell id="5rK6SFEseusJCtuQgA3Z-7" value="Request Ideal redirect link&lt;br&gt;with bank.id, paylink token &lt;br&gt;and hashed order id" style="text;html=1;align=center;" parent="xMebUBSoMuRf3H9HUU81-1" vertex="1">
-          <mxGeometry x="1023.5" y="274.5" width="81" height="43" as="geometry"/>
+          <mxGeometry x="1023.5" y="259.5" width="81" height="43" as="geometry"/>
         </mxCell>
         <mxCell id="5rK6SFEseusJCtuQgA3Z-9" value="Use payment id and&lt;br&gt;order id as dynamo keys" style="text;html=1;align=right;" parent="xMebUBSoMuRf3H9HUU81-1" vertex="1">
           <mxGeometry x="1050.5" y="691.5" width="97" height="37" as="geometry"/>
@@ -359,10 +367,10 @@
           <mxGeometry x="876" y="522" width="28" height="28" as="geometry"/>
         </mxCell>
         <mxCell id="5rK6SFEseusJCtuQgA3Z-43" value="&lt;br&gt;&lt;br&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/letters-and-numbers-1/32/number_1_blue-128.png" parent="xMebUBSoMuRf3H9HUU81-1" vertex="1">
-          <mxGeometry x="928" y="163.5" width="28" height="28" as="geometry"/>
+          <mxGeometry x="973" y="163.5" width="28" height="28" as="geometry"/>
         </mxCell>
         <mxCell id="5rK6SFEseusJCtuQgA3Z-44" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/letters-and-numbers-1/32/number_5_blue-128.png" parent="xMebUBSoMuRf3H9HUU81-1" vertex="1">
-          <mxGeometry x="950" y="164" width="27" height="27" as="geometry"/>
+          <mxGeometry x="995" y="164" width="27" height="27" as="geometry"/>
         </mxCell>
         <mxCell id="5rK6SFEseusJCtuQgA3Z-52" value="&lt;br&gt;&lt;br&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/letters-and-numbers-1/32/number_1_blue-128.png" parent="xMebUBSoMuRf3H9HUU81-1" vertex="1">
           <mxGeometry x="1076" y="171" width="28" height="28" as="geometry"/>
@@ -375,9 +383,6 @@
         </mxCell>
         <mxCell id="5rK6SFEseusJCtuQgA3Z-55" value="&lt;br&gt;&lt;br&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/letters-and-numbers-1/32/number_1_blue-128.png" parent="xMebUBSoMuRf3H9HUU81-1" vertex="1">
           <mxGeometry x="782.5" y="14" width="28" height="28" as="geometry"/>
-        </mxCell>
-        <mxCell id="5rK6SFEseusJCtuQgA3Z-56" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/letters-and-numbers-1/32/number_7_blue-128.png" parent="xMebUBSoMuRf3H9HUU81-1" vertex="1">
-          <mxGeometry x="802" y="14" width="28" height="28" as="geometry"/>
         </mxCell>
         <mxCell id="5rK6SFEseusJCtuQgA3Z-57" value="Prepare daily batch &lt;br&gt;of AcceptEmails &lt;br&gt;to be send &lt;br&gt;to customers" style="text;html=1;align=right;" parent="xMebUBSoMuRf3H9HUU81-1" vertex="1">
           <mxGeometry x="309.5" y="448.5" width="66" height="65" as="geometry"/>
@@ -485,10 +490,10 @@
           <mxGeometry x="702.5" y="328.5" width="23" height="23" as="geometry"/>
         </mxCell>
         <mxCell id="Nu8tJJw4EkqW9ByDAQp4-19" value="&lt;br&gt;&lt;br&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/letters-and-numbers-1/32/number_1_blue-128.png" parent="xMebUBSoMuRf3H9HUU81-1" vertex="1">
-          <mxGeometry x="1037" y="250.5" width="28" height="28" as="geometry"/>
+          <mxGeometry x="1037" y="235.5" width="28" height="28" as="geometry"/>
         </mxCell>
         <mxCell id="Nu8tJJw4EkqW9ByDAQp4-20" value="&lt;br&gt;&lt;br&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/letters-and-numbers-1/32/number_1_blue-128.png" parent="xMebUBSoMuRf3H9HUU81-1" vertex="1">
-          <mxGeometry x="1053" y="251.5" width="28" height="28" as="geometry"/>
+          <mxGeometry x="1053" y="236.5" width="28" height="28" as="geometry"/>
         </mxCell>
         <mxCell id="Nu8tJJw4EkqW9ByDAQp4-21" value="return payment&lt;br&gt;details and&lt;br&gt;payment status" style="text;html=1;align=center;" parent="xMebUBSoMuRf3H9HUU81-1" vertex="1">
           <mxGeometry x="684" y="225" width="61" height="43" as="geometry"/>
@@ -498,6 +503,15 @@
         </mxCell>
         <mxCell id="Nu8tJJw4EkqW9ByDAQp4-9" value="Encrypt&lt;br&gt;payment.id &amp;amp;&lt;br&gt;order.id to&lt;br&gt;token" style="text;html=1;align=center;" parent="xMebUBSoMuRf3H9HUU81-1" vertex="1">
           <mxGeometry x="810.5" y="503.5" width="61" height="43" as="geometry"/>
+        </mxCell>
+        <mxCell id="oBk0Y5a72WHGW0FNfMvz-3" value="&lt;br&gt;&lt;br&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/letters-and-numbers-1/32/number_1_blue-128.png" vertex="1" parent="xMebUBSoMuRf3H9HUU81-1">
+          <mxGeometry x="973.5" y="18" width="28" height="28" as="geometry"/>
+        </mxCell>
+        <mxCell id="oBk0Y5a72WHGW0FNfMvz-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/letters-and-numbers-1/32/number_7_blue-128.png" vertex="1" parent="xMebUBSoMuRf3H9HUU81-1">
+          <mxGeometry x="993" y="18" width="28" height="28" as="geometry"/>
+        </mxCell>
+        <mxCell id="oBk0Y5a72WHGW0FNfMvz-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/letters-and-numbers-1/32/number_8_blue-128.png" vertex="1" parent="xMebUBSoMuRf3H9HUU81-1">
+          <mxGeometry x="802" y="14" width="30" height="30" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
