@@ -1,4 +1,4 @@
-<mxfile modified="2019-11-13T10:15:51.107Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="6k_M32CqsTitp8Qd-TMt" version="12.2.4" type="github" pages="8">
+<mxfile modified="2019-11-13T10:18:44.883Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="t9L52Y0meiv3H37jtTqs" version="12.2.4" type="github" pages="8">
   <diagram name="Overview v0.4" id="H0jc4HSHuazwS-fIL39_">
     <mxGraphModel dx="1422" dy="843" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -433,6 +433,19 @@
         </mxCell>
         <mxCell id="Nu8tJJw4EkqW9ByDAQp4-1" value="return&lt;br&gt;paylink url and&lt;br&gt;paylink token" style="text;html=1;align=center;" vertex="1" parent="xMebUBSoMuRf3H9HUU81-1">
           <mxGeometry x="735" y="697.5" width="61" height="59" as="geometry"/>
+        </mxCell>
+        <mxCell id="Nu8tJJw4EkqW9ByDAQp4-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="xMebUBSoMuRf3H9HUU81-1" source="eRnLyLFiFXlh-biELUQB-5" target="Nu8tJJw4EkqW9ByDAQp4-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="739" y="371.5" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nu8tJJw4EkqW9ByDAQp4-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="xMebUBSoMuRf3H9HUU81-1" source="eRnLyLFiFXlh-biELUQB-8" target="Nu8tJJw4EkqW9ByDAQp4-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="811" y="371.5" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nu8tJJw4EkqW9ByDAQp4-5" value="Encrypt/&lt;br&gt;Decrypt&lt;br&gt;Internal&lt;br&gt;(API Proxy)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="xMebUBSoMuRf3H9HUU81-1">
+          <mxGeometry x="756.5000000000005" y="307.49999999999994" width="80" height="80" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
