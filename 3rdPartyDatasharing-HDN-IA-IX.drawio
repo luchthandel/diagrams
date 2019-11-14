@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-14T12:52:32.385Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.16 Safari/537.36 Edg/79.0.309.14" etag="9WhdxTeCzwLbi2exTamv" version="12.2.6" type="github" pages="20">
+<mxfile host="www.draw.io" modified="2019-11-14T12:56:12.020Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.16 Safari/537.36 Edg/79.0.309.14" etag="1nE0w4WqrC_4lDoCKHuu" version="12.2.6" type="github" pages="20">
   <diagram id="OAzPr29gZ-bUyklqUKg8" name="Communicatie">
     <mxGraphModel dx="1411" dy="827" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1563,13 +1563,13 @@
         <mxCell id="nBChL31H7t3_pJN1xFqw-10" value="Hypotheekgever" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;fillColor=#f5f5f5;fontColor=#333333;rounded=1;fontSize=14;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;strokeColor=#666666;" parent="nBChL31H7t3_pJN1xFqw-1" vertex="1">
           <mxGeometry x="2261.5" y="-277" width="208" height="74" as="geometry"/>
         </mxCell>
-        <mxCell id="nBChL31H7t3_pJN1xFqw-11" value="Partij Ref (V)" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="nBChL31H7t3_pJN1xFqw-10" vertex="1">
+        <mxCell id="nBChL31H7t3_pJN1xFqw-11" value="&#xa;Partij Ref (V)" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="nBChL31H7t3_pJN1xFqw-10" vertex="1">
           <mxGeometry y="30" width="208" height="44" as="geometry"/>
         </mxCell>
         <mxCell id="nBChL31H7t3_pJN1xFqw-12" value="Informatie Aanvraag" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;fillColor=#d5e8d4;rounded=1;fontSize=14;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;strokeColor=#82b366;" parent="nBChL31H7t3_pJN1xFqw-1" vertex="1">
           <mxGeometry x="1985.5" y="-307" width="160" height="112" as="geometry"/>
         </mxCell>
-        <mxCell id="nBChL31H7t3_pJN1xFqw-13" value="+Header (V1)&#xa;+Tussenpersoon (V1)&#xa;+Hypotheek (V1)&#xa;+Hypotheekgever (V1)&#xa;+Partij (V2)" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="nBChL31H7t3_pJN1xFqw-12" vertex="1">
+        <mxCell id="nBChL31H7t3_pJN1xFqw-13" value="+Header (V1-1)&#xa;+Tussenpersoon (V1-1)&#xa;+Hypotheek (V1-1)&#xa;+Hypotheekgever (V1-2)&#xa;+Partij (V2-99)" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="nBChL31H7t3_pJN1xFqw-12" vertex="1">
           <mxGeometry y="30" width="160" height="82" as="geometry"/>
         </mxCell>
         <mxCell id="nBChL31H7t3_pJN1xFqw-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=ERmandOne;startFill=0;endArrow=ERmandOne;endFill=0;strokeWidth=2;fontSize=8;" parent="nBChL31H7t3_pJN1xFqw-1" source="nBChL31H7t3_pJN1xFqw-19" target="nBChL31H7t3_pJN1xFqw-12" edge="1">
