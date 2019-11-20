@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-20T15:28:00.794Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.16 Safari/537.36 Edg/79.0.309.14" etag="GI8yojjiAlPaPSo5utV0" version="12.2.7" type="github" pages="20">
+<mxfile host="www.draw.io" modified="2019-11-20T15:33:39.925Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.16 Safari/537.36 Edg/79.0.309.14" etag="lnba05MJSIOfivnUkTfc" version="12.2.7" type="github" pages="20">
   <diagram id="OAzPr29gZ-bUyklqUKg8" name="Communicatie">
     <mxGraphModel dx="1411" dy="827" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -663,7 +663,7 @@
         <mxCell id="1AuU4kAsYq-H1071UyAH-0"/>
         <mxCell id="1AuU4kAsYq-H1071UyAH-1" parent="1AuU4kAsYq-H1071UyAH-0"/>
         <mxCell id="CLoh8GRQIQ8n7KfDiUiJ-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;align=right;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Helvetica;" vertex="1" parent="1AuU4kAsYq-H1071UyAH-1">
-          <mxGeometry x="-2117" y="-4810" width="800" height="1230" as="geometry"/>
+          <mxGeometry x="-2117" y="-4810" width="800" height="1180" as="geometry"/>
         </mxCell>
         <mxCell id="05yOpAaTBi2iZCvkMyyz-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;align=right;fillColor=#f5f5f5;strokeColor=none;fontColor=#333333;fontFamily=Helvetica;" vertex="1" parent="1AuU4kAsYq-H1071UyAH-1">
           <mxGeometry x="-2060" y="-4303" width="693" height="86" as="geometry"/>
@@ -1177,7 +1177,7 @@
           <mxGeometry x="-98" y="-10" width="693" height="140" as="geometry"/>
         </mxCell>
         <mxCell id="05yOpAaTBi2iZCvkMyyz-35" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;align=right;fillColor=#f5f5f5;strokeColor=none;fontColor=#333333;fontFamily=Helvetica;" vertex="1" parent="05yOpAaTBi2iZCvkMyyz-31">
-          <mxGeometry x="-103" y="137" width="693" height="453" as="geometry"/>
+          <mxGeometry x="-103" y="137" width="693" height="403" as="geometry"/>
         </mxCell>
         <mxCell id="CLoh8GRQIQ8n7KfDiUiJ-4" value="Hypotheek&lt;br&gt;(1-9)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Helvetica;" vertex="1" parent="05yOpAaTBi2iZCvkMyyz-31">
           <mxGeometry y="142" width="120" height="60" as="geometry"/>
@@ -1192,13 +1192,13 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="CLoh8GRQIQ8n7KfDiUiJ-14" value="&lt;b&gt;Lening&lt;br&gt;(1-1)&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="05yOpAaTBi2iZCvkMyyz-31">
-          <mxGeometry x="123.5" y="320" width="120" height="60" as="geometry"/>
+          <mxGeometry x="123.5" y="270" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="CLoh8GRQIQ8n7KfDiUiJ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;" edge="1" parent="05yOpAaTBi2iZCvkMyyz-31" source="CLoh8GRQIQ8n7KfDiUiJ-4" target="CLoh8GRQIQ8n7KfDiUiJ-14">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="CLoh8GRQIQ8n7KfDiUiJ-15" value="&lt;b&gt;Leningdeel&lt;br&gt;(1-99)&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="05yOpAaTBi2iZCvkMyyz-31">
-          <mxGeometry x="248.50000000000023" y="380" width="120" height="60" as="geometry"/>
+          <mxGeometry x="248.50000000000023" y="330" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="CLoh8GRQIQ8n7KfDiUiJ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;" edge="1" parent="05yOpAaTBi2iZCvkMyyz-31" source="CLoh8GRQIQ8n7KfDiUiJ-14" target="CLoh8GRQIQ8n7KfDiUiJ-15">
           <mxGeometry relative="1" as="geometry"/>
@@ -1218,8 +1218,14 @@
         <mxCell id="05yOpAaTBi2iZCvkMyyz-7" value="&lt;p&gt;Depot Nr&lt;br&gt;Depot Type&amp;nbsp;&lt;br&gt;Depot Bedrag Resterend&lt;br&gt;Depot Bedrag Hoofdsom&lt;br&gt;Depot Looptijd In Maanden&lt;br&gt;Depot Periode Ingangsdatum&lt;br&gt;Depot Periode Einddatum&lt;br&gt;Depot Rente Percentage&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Helvetica;" vertex="1" parent="05yOpAaTBi2iZCvkMyyz-31">
           <mxGeometry x="248.5" y="206" width="169" height="112" as="geometry"/>
         </mxCell>
+        <mxCell id="05yOpAaTBi2iZCvkMyyz-59" value="&lt;span style=&quot;font-size: 24px&quot;&gt;&lt;i&gt;onderpand&lt;/i&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="05yOpAaTBi2iZCvkMyyz-31">
+          <mxGeometry x="480" y="-1.5" width="90" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="05yOpAaTBi2iZCvkMyyz-60" value="&lt;span style=&quot;font-size: 24px&quot;&gt;&lt;i&gt;hypotheek&lt;/i&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="05yOpAaTBi2iZCvkMyyz-31">
+          <mxGeometry x="480" y="152" width="90" height="40" as="geometry"/>
+        </mxCell>
         <mxCell id="05yOpAaTBi2iZCvkMyyz-26" value="" style="group" vertex="1" connectable="0" parent="05yOpAaTBi2iZCvkMyyz-31">
-          <mxGeometry x="127.00000000000023" y="450" width="394.9999999999998" height="129" as="geometry"/>
+          <mxGeometry x="130.00000000000023" y="400" width="394.9999999999998" height="129" as="geometry"/>
         </mxCell>
         <mxCell id="05yOpAaTBi2iZCvkMyyz-0" value="&lt;b&gt;TariefKlasse&lt;br&gt;(1-1)&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="05yOpAaTBi2iZCvkMyyz-26">
           <mxGeometry width="120" height="60" as="geometry"/>
@@ -1232,12 +1238,6 @@
         </mxCell>
         <mxCell id="05yOpAaTBi2iZCvkMyyz-6" value="&lt;p&gt;&lt;font&gt;Hypotheek Tariefklasse NHG?&lt;br&gt;&lt;/font&gt;&lt;font&gt;Hypotheek Tariefklasse Percentage Ondergrens&lt;br&gt;&lt;/font&gt;&lt;font&gt;Hypotheek Tariefklasse Percentage Bovengrens&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Helvetica;" vertex="1" parent="05yOpAaTBi2iZCvkMyyz-26">
           <mxGeometry x="124.99999999999977" y="12" width="270" height="50" as="geometry"/>
-        </mxCell>
-        <mxCell id="05yOpAaTBi2iZCvkMyyz-59" value="&lt;span style=&quot;font-size: 24px&quot;&gt;&lt;i&gt;onderpand&lt;/i&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="05yOpAaTBi2iZCvkMyyz-31">
-          <mxGeometry x="480" y="-1.5" width="90" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="05yOpAaTBi2iZCvkMyyz-60" value="&lt;span style=&quot;font-size: 24px&quot;&gt;&lt;i&gt;hypotheek&lt;/i&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="05yOpAaTBi2iZCvkMyyz-31">
-          <mxGeometry x="480" y="152" width="90" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="05yOpAaTBi2iZCvkMyyz-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;dashed=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1AuU4kAsYq-H1071UyAH-1" source="05yOpAaTBi2iZCvkMyyz-18" target="05yOpAaTBi2iZCvkMyyz-32">
           <mxGeometry relative="1" as="geometry">
