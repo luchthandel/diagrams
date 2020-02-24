@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-24T14:50:38.008Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="hZvBf1ey1_i96u8SJnaq" version="12.7.4" type="github" pages="5">
+<mxfile host="www.draw.io" modified="2020-02-24T15:26:52.049Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="aEzQliKiWmvcWs2DCSoT" version="12.7.4" type="github" pages="5">
   <diagram id="mkEHRjJTaVBPFosUXMDn" name="IX basis">
     <mxGraphModel dx="1884" dy="2261" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -418,19 +418,25 @@
           <mxGeometry x="-770.0032519531252" y="-1110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p3ZaJm9B_VBDequAnlg7-0" value="&lt;font style=&quot;font-size: 11px&quot;&gt;mutatieType&lt;/font&gt;&lt;font&gt;&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;VERWIJDER&lt;/font&gt;&lt;br&gt;&lt;b&gt;ONTSLAAN&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="KqTB8ohipPefm6tFN7YJ-1">
-          <mxGeometry x="-630.0032519531253" y="-938" width="120" height="60" as="geometry" />
+          <mxGeometry x="-520.0032519531253" y="-920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p3ZaJm9B_VBDequAnlg7-1" value="mutatieType&amp;nbsp;&lt;font style=&quot;font-size: 11px&quot;&gt;NIEUW&lt;/font&gt;&lt;br&gt;&lt;b&gt;TOEVOEGEN&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="KqTB8ohipPefm6tFN7YJ-1">
-          <mxGeometry x="-630.0032519531253" y="-800" width="120" height="60" as="geometry" />
+          <mxGeometry x="-530.0032519531253" y="-785.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="38j1LgF9Gnn0zTNXDZqR-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=22;dashed=1;" edge="1" parent="KqTB8ohipPefm6tFN7YJ-1" source="MfXqFhpN9fyF6z3F13fp-0" target="p3ZaJm9B_VBDequAnlg7-0">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MfXqFhpN9fyF6z3F13fp-0" value="Hypotheekgever#2&lt;br&gt;&lt;i&gt;bestaand&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="KqTB8ohipPefm6tFN7YJ-1">
           <mxGeometry x="-650.0032519531252" y="-980" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="38j1LgF9Gnn0zTNXDZqR-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontSize=22;" edge="1" parent="KqTB8ohipPefm6tFN7YJ-1" source="5ELPYKycaKSWYsI9IggN-0" target="p3ZaJm9B_VBDequAnlg7-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5ELPYKycaKSWYsI9IggN-0" value="Hypotheekgever#3&lt;br&gt;&lt;i&gt;nieuw&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="KqTB8ohipPefm6tFN7YJ-1">
           <mxGeometry x="-650.0032519531252" y="-840" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a3Z6Vka4k9MjccPMLuSl-0" value="Bij hypotheekgever, nieuw (toevoegen)&lt;br&gt;en verwijder (ontslaan) zijn geen mutatie&lt;br&gt;entiteiten nodig. &lt;b&gt;OF: moeten die er altijd zijn?&lt;/b&gt;" style="text;html=1;align=right;fontSize=22;fontStyle=2" vertex="1" parent="KqTB8ohipPefm6tFN7YJ-1">
-          <mxGeometry x="-240" y="-820" width="220" height="129" as="geometry" />
+        <mxCell id="a3Z6Vka4k9MjccPMLuSl-0" value="Bij hypotheekgever, nieuw &lt;br&gt;(toevoegen) en verwijder &lt;br&gt;(ontslaan) zijn geen mutatie&lt;br&gt;entiteiten nodig. &lt;br&gt;&lt;b&gt;OF: moeten die er altijd zijn?&lt;/b&gt;" style="text;html=1;align=right;fontSize=22;fontStyle=2" vertex="1" parent="KqTB8ohipPefm6tFN7YJ-1">
+          <mxGeometry x="-240" y="-840" width="220" height="129" as="geometry" />
         </mxCell>
         <mxCell id="jlaezCQLkWQQ6AbefGRS-0" value="&lt;b&gt;Wijzigen&lt;br&gt;Hypotheekgever&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=right;fontSize=22;" vertex="1" parent="KqTB8ohipPefm6tFN7YJ-1">
           <mxGeometry x="-250" y="-1144.5" width="220" height="129" as="geometry" />
@@ -438,11 +444,11 @@
         <mxCell id="YAfdZEx4W41F0n4dfWrK-0" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Niet wijzigen / geen mutatie entiteit&lt;/font&gt;" style="text;html=1;fontSize=22;" vertex="1" parent="KqTB8ohipPefm6tFN7YJ-1">
           <mxGeometry x="-520" y="-1040" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YAfdZEx4W41F0n4dfWrK-2" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Bij ontslaan / geen mutatie entiteit&lt;/font&gt;" style="text;html=1;fontSize=22;" vertex="1" parent="KqTB8ohipPefm6tFN7YJ-1">
+        <mxCell id="YAfdZEx4W41F0n4dfWrK-2" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Bij ontslaan -&amp;gt; wel/geen mutatie entiteit&lt;/font&gt;" style="text;html=1;fontSize=22;" vertex="1" parent="KqTB8ohipPefm6tFN7YJ-1">
           <mxGeometry x="-510" y="-970" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YAfdZEx4W41F0n4dfWrK-3" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Bij ontslaan / geen mutatie entiteit&lt;/font&gt;" style="text;html=1;fontSize=22;" vertex="1" parent="KqTB8ohipPefm6tFN7YJ-1">
-          <mxGeometry x="-510" y="-860" width="200" height="40" as="geometry" />
+        <mxCell id="YAfdZEx4W41F0n4dfWrK-3" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Bij nieuw-&amp;gt;&amp;nbsp; wel/geen mutatie entiteit&lt;/font&gt;" style="text;html=1;fontSize=22;" vertex="1" parent="KqTB8ohipPefm6tFN7YJ-1">
+          <mxGeometry x="-510" y="-840" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
