@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-25T14:21:54.610Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36 Edg/80.0.361.48" etag="yKjoM-DzO2ZZ2530V7Wq" version="12.7.4" type="github" pages="14">
+<mxfile host="www.draw.io" modified="2020-02-25T14:53:57.531Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36 Edg/80.0.361.48" etag="DbHgflbcg66sRRO7j1QG" version="12.7.4" type="github" pages="14">
   <diagram name="oldMX" id="7htacMhmGseS9mqIhgBY">
     <mxGraphModel dx="6098" dy="2296" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -2571,11 +2571,14 @@
         <mxCell id="X7ssPP5xgkyPUc-YRQqH-69" value="&lt;p&gt;1&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Spaarrekening&lt;br&gt;2&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Beleggingsrekening (alleen fondsen)&lt;br&gt;3&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Effectenrekening (losse aandelen)&lt;/p&gt;" style="text;html=1;" vertex="1" parent="UlwO5ugh8SQqdXdQUIzj-1">
           <mxGeometry x="1600" y="1580" width="240" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="mz_mpm4-YM0eedDFsEJo-1" value="&lt;p&gt;BancaireDekking is verplicht als AflossingsVorm heeft waarde&lt;br&gt;Spaarrekening&lt;br&gt;Beleggingshypotheek&lt;/p&gt;&lt;p&gt;&lt;br&gt;BancaireDekking is relevant als CodeDeelMij heeft waarde:&lt;br&gt;BEL&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;AE105&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;Aegon BeleggingsHypotheek (BEL)&lt;br&gt;BRS&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;AE120&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;Aegon Spaarbeurs Hypotheek (BRS)&lt;br&gt;BSH&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;AE104&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;Aegon BankSpaarHypotheek (BSH)&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" vertex="1" parent="UlwO5ugh8SQqdXdQUIzj-1">
+          <mxGeometry x="2845" y="1300" width="490" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="newSPEC2" id="S3nkn3wnX5-GieBFG-Wf">
-    <mxGraphModel dx="3206" dy="3000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="3206" dy="2571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="mcf3sKc3oswzArUFG6h1-0" />
         <mxCell id="mcf3sKc3oswzArUFG6h1-1" parent="mcf3sKc3oswzArUFG6h1-0" />
