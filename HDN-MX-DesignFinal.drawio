@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-26T13:35:09.021Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36 Edg/80.0.361.48" etag="d7iCENB4dF37YsNCm7sp" version="12.7.6" type="github" pages="7">
+<mxfile host="www.draw.io" modified="2020-02-26T13:47:47.324Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36 Edg/80.0.361.48" etag="4t0p5gUfbtyNPU8TOTSd" version="12.7.6" type="github" pages="7">
   <diagram id="mkEHRjJTaVBPFosUXMDn" name="IX basis">
     <mxGraphModel dx="1426" dy="2111" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -68,7 +68,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hA7Fp9oTWmx9jLAZvdmA" name="IX Extended">
-    <mxGraphModel dx="2852" dy="3538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="2596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="cwX66RvDyU_y_CMi2a0H-0" />
         <mxCell id="cwX66RvDyU_y_CMi2a0H-1" parent="cwX66RvDyU_y_CMi2a0H-0" />
@@ -156,14 +156,14 @@
         <mxCell id="LycQfjaosGD2U1lwfmxv-8" value="&lt;span&gt;BeheerInformatie&lt;br&gt;(0-1)&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;" parent="cwX66RvDyU_y_CMi2a0H-1" vertex="1">
           <mxGeometry x="177.99999999999983" y="-1164" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Dt5kES1TRTkvzrUJWJKH-0" value="&lt;b&gt;Mutatieverzoek&lt;/b&gt;&lt;br&gt;De&amp;nbsp;hypotheeknummer(s) bij Aegon: H1234567, H7654321&lt;br&gt;Gewenste mutatie: &amp;lt;BeheerMutatieType&amp;gt;" style="text;html=1;" vertex="1" parent="cwX66RvDyU_y_CMi2a0H-1">
-          <mxGeometry x="428" y="-1408.5" width="190" height="40" as="geometry" />
+        <mxCell id="Dt5kES1TRTkvzrUJWJKH-0" value="&lt;b&gt;Mutatieverzoek&lt;/b&gt;&lt;br&gt;De&amp;nbsp;hypotheeknummer(s) bij Aegon: H1234567, H7654321&lt;br&gt;Gewenste mutatie: &amp;lt;MutatieVerzoekMutatieType&amp;gt;" style="text;html=1;" vertex="1" parent="cwX66RvDyU_y_CMi2a0H-1">
+          <mxGeometry x="585" y="-1471" width="190" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Dt5kES1TRTkvzrUJWJKH-1" value="&lt;b&gt;Toets&lt;/b&gt;&lt;br&gt;Gebruikte Norm: &amp;lt;NormType&amp;gt;&lt;br&gt;Voldaan aan toets: &amp;lt;ToetsType&amp;gt;" style="text;html=1;" vertex="1" parent="cwX66RvDyU_y_CMi2a0H-1">
-          <mxGeometry x="430" y="-1277" width="190" height="40" as="geometry" />
+        <mxCell id="Dt5kES1TRTkvzrUJWJKH-1" value="&lt;b&gt;Toets&lt;/b&gt;&lt;br&gt;Gebruikte Norm: &amp;lt;NormType&amp;gt;&lt;br&gt;Voldaan aan toets: &amp;lt;ToetsType&amp;gt;&lt;br&gt;&lt;span style=&quot;white-space: normal&quot;&gt;Is woningbehoud mogelijk?: Ja&lt;/span&gt;" style="text;html=1;" vertex="1" parent="cwX66RvDyU_y_CMi2a0H-1">
+          <mxGeometry x="579" y="-1283" width="190" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Dt5kES1TRTkvzrUJWJKH-4" value="&lt;b&gt;BeheerMutatieType&lt;/b&gt;&lt;br&gt;Hoofdelijk Ontslag&lt;br&gt;Omzetten Lening&lt;br&gt;&lt;b&gt;&lt;br&gt;NormType&lt;/b&gt;&lt;br&gt;NHG&lt;br&gt;CHF&lt;br&gt;Geldverstrekker&lt;br&gt;Maatwerk&lt;br&gt;&lt;br&gt;&lt;b&gt;ToetsType&lt;/b&gt;&lt;br&gt;NHG BeheerToets&lt;br&gt;AcceptatieToets Geldverstrekker&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;ArbeidscontractType&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Bepaalde Tijd&lt;/div&gt;&lt;div&gt;Onbepaalde Tijd&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;HypotheekgeverMutatieType&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Hypotheekgever blijft&lt;/div&gt;&lt;div&gt;Hypotheekgever vertrekt&lt;/div&gt;&lt;div&gt;Nieuwe Hypotheekgever&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;InkomensBronType&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Werknemer \ Dienstverband&lt;/div&gt;&lt;div&gt;(Zelfstandig) ondernemer&lt;/div&gt;&lt;div&gt;Pensioengerechtigde (of binnen 3 jaar met pensioen)&lt;/div&gt;&lt;div&gt;Uitkeringsgerechtigde&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;OnderpandWaarderingsType&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Taxatie (marktwaarde)&lt;/div&gt;&lt;div&gt;WOZ waarde&lt;/div&gt;" style="text;html=1;" vertex="1" parent="cwX66RvDyU_y_CMi2a0H-1">
-          <mxGeometry x="930" y="-1571" width="160" height="531" as="geometry" />
+        <mxCell id="Dt5kES1TRTkvzrUJWJKH-4" value="&lt;b&gt;BeheerVerzoekMutatieType&lt;/b&gt;&lt;br&gt;Mutatie Aanvragen&lt;br&gt;Toetsing doen&lt;br&gt;Berekening doen&lt;br&gt;&lt;br&gt;&lt;b&gt;MutatieVerzoekMutatieType&lt;/b&gt;&lt;br&gt;Hoofdelijk Ontslag&lt;br&gt;Omzetten Lening&lt;br&gt;&lt;b&gt;&lt;br&gt;NormType&lt;/b&gt;&lt;br&gt;NHG&lt;br&gt;CHF&lt;br&gt;Geldverstrekker&lt;br&gt;Maatwerk&lt;br&gt;&lt;br&gt;&lt;b&gt;ToetsType&lt;/b&gt;&lt;br&gt;NHG BeheerToets&lt;br&gt;AcceptatieToets Geldverstrekker&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;ArbeidscontractType&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Bepaalde Tijd&lt;/div&gt;&lt;div&gt;Onbepaalde Tijd&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;HypotheekgeverMutatieType&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Hypotheekgever blijft&lt;/div&gt;&lt;div&gt;Hypotheekgever vertrekt&lt;/div&gt;&lt;div&gt;Nieuwe Hypotheekgever&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;InkomensBronType&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Werknemer \ Dienstverband&lt;/div&gt;&lt;div&gt;(Zelfstandig) ondernemer&lt;/div&gt;&lt;div&gt;Pensioengerechtigde (of binnen 3 jaar met pensioen)&lt;/div&gt;&lt;div&gt;Uitkeringsgerechtigde&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;OnderpandWaarderingsType&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Taxatie (marktwaarde)&lt;/div&gt;&lt;div&gt;WOZ waarde&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;FinancieringOverbedelingType&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Via geldgever&lt;/div&gt;&lt;div&gt;Zelf financieren&lt;/div&gt;&lt;div&gt;Anders&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;EigenFinancieringOverbedelingType&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Nieuwe aanvraag via HDN&lt;/div&gt;&lt;div&gt;Verhoging&lt;/div&gt;" style="text;html=1;" vertex="1" parent="cwX66RvDyU_y_CMi2a0H-1">
+          <mxGeometry x="2480" y="-1590" width="160" height="531" as="geometry" />
         </mxCell>
         <mxCell id="Dt5kES1TRTkvzrUJWJKH-5" value="Partij&lt;br&gt;(1-99)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="cwX66RvDyU_y_CMi2a0H-1">
           <mxGeometry x="298.4967480468744" y="-1094" width="120" height="60" as="geometry" />
@@ -234,8 +234,8 @@
         <mxCell id="Dt5kES1TRTkvzrUJWJKH-21" value="Inkomens-Vermogens&lt;br&gt;Toets&lt;br&gt;(0-1)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="cwX66RvDyU_y_CMi2a0H-1">
           <mxGeometry x="414.9967480468749" y="-1214" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Dt5kES1TRTkvzrUJWJKH-22" value="&lt;p&gt;&lt;b&gt;Inkomens en vermogens Toets&lt;br&gt;&lt;/b&gt;Maximale last blijvende hypotheekgever per maand: 1.200,00&lt;br&gt;Maximale last nieuwe hypotheekgever per maand: 800,00&lt;br&gt;Is woningbehoud mogelijk?: Ja&lt;br&gt;Toetsinkomen bepalen adhv SV-loon?: mJa&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="cwX66RvDyU_y_CMi2a0H-1">
-          <mxGeometry x="553" y="-1214" width="340" height="70" as="geometry" />
+        <mxCell id="Dt5kES1TRTkvzrUJWJKH-22" value="&lt;p&gt;&lt;b&gt;Inkomens en vermogens Toets&lt;br&gt;&lt;/b&gt;Maximale last blijvende hypotheekgever per maand: 1.200,00&lt;br&gt;Maximale last nieuwe hypotheekgever per maand: 800,00&lt;br&gt;Toetsinkomen bepalen adhv SV-loon?: Ja&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="cwX66RvDyU_y_CMi2a0H-1">
+          <mxGeometry x="578.25" y="-1214" width="340" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Dt5kES1TRTkvzrUJWJKH-24" value="Voorbehoud&lt;br&gt;(0-99)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;" vertex="1" parent="cwX66RvDyU_y_CMi2a0H-1">
           <mxGeometry x="319.9967480468745" y="1420" width="120" height="60" as="geometry" />
@@ -453,7 +453,7 @@
         <mxCell id="n04D-iMCGoKamlwwBbss-7" value="Externe&lt;br&gt;Identificatie&lt;br&gt;(0-1)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;" vertex="1" parent="cwX66RvDyU_y_CMi2a0H-1">
           <mxGeometry x="1589.9967480468745" y="-80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="n04D-iMCGoKamlwwBbss-10" value="&lt;span&gt;Overbedeling&lt;br&gt;bij Echtscheiding&lt;br&gt;(0-1)&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="cwX66RvDyU_y_CMi2a0H-1">
+        <mxCell id="n04D-iMCGoKamlwwBbss-10" value="&lt;span&gt;Financieren Overbedeling&lt;br&gt;(bij Echtscheiding)&lt;br&gt;(0-1)&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="cwX66RvDyU_y_CMi2a0H-1">
           <mxGeometry x="414.9967480468748" y="-1350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n04D-iMCGoKamlwwBbss-12" value="Inkomen&lt;br&gt;uit&lt;br&gt;loondienst" style="text;html=1;align=right;" vertex="1" parent="cwX66RvDyU_y_CMi2a0H-1">
@@ -481,6 +481,12 @@
         </mxCell>
         <mxCell id="n04D-iMCGoKamlwwBbss-21" value="&lt;span style=&quot;white-space: normal&quot;&gt;Contacpersoon&lt;br&gt;Gegevens&lt;br&gt;(0-1)&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;dashed=1;" vertex="1" parent="cwX66RvDyU_y_CMi2a0H-1">
           <mxGeometry x="545.9999999999997" y="-430.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CGaOfmmuQ5kZRSQiyQmi-1" value="&lt;p&gt;&lt;b&gt;Financieren overbedeling (Uitkoop)&lt;br&gt;&lt;/b&gt;Is er sprake van overbedeling?: Ja&lt;br&gt;Bij ja, voor welk bedrag?: 50.000,00&lt;br&gt;Waarvan overwaarde huis: 50.000,00&lt;br&gt;Hoe wilt u dit financieren via huidige geldgever? &amp;lt;&lt;span style=&quot;white-space: nowrap&quot;&gt;FinancieringOverbedelingType&amp;gt;&lt;br&gt;&lt;/span&gt;Betaald klant met eigen geld? Ja&lt;br&gt;&lt;span&gt;Hoe wil de klant dit zelf financieren? &amp;lt;EigenFinancieringOverbedelingType&amp;gt;&lt;br&gt;&lt;/span&gt;Bij nee, hoe betaald de klant dit? (anders)&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;Familielening&lt;br&gt;Wat zijn de eventuele lasten van financiering uitkoop?: 200,00&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;align=left;" vertex="1" parent="cwX66RvDyU_y_CMi2a0H-1">
+          <mxGeometry x="579" y="-1410" width="451" height="127" as="geometry" />
+        </mxCell>
+        <mxCell id="CGaOfmmuQ5kZRSQiyQmi-2" value="&lt;b&gt;Beheerverzoek&lt;/b&gt;&lt;br&gt;Gewenste ingangsdatum: 01012021&lt;br&gt;Gewenste beheerverzoek: &amp;lt;BeheerBerichtMutatieType&amp;gt;&lt;br&gt;Uw referentie: 202001DHBAEGH12345567" style="text;html=1;" vertex="1" parent="cwX66RvDyU_y_CMi2a0H-1">
+          <mxGeometry x="579" y="-1541" width="190" height="51" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
