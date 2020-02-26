@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-26T14:51:54.338Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36 Edg/80.0.361.48" etag="Lp60MqIoCEOkxhnqoS9z" version="12.7.6" type="github" pages="7">
+<mxfile host="www.draw.io" modified="2020-02-26T15:00:34.874Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36 Edg/80.0.361.48" etag="ciiU6fE8UkJAp2FKqJ60" version="12.7.6" type="github" pages="7">
   <diagram id="mkEHRjJTaVBPFosUXMDn" name="IX basis">
     <mxGraphModel dx="1426" dy="2111" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -527,23 +527,26 @@
         <mxCell id="CGaOfmmuQ5kZRSQiyQmi-3" value="&lt;p&gt;&lt;b&gt;Afhandelen bijverbanden (=Dekkingen)&lt;br&gt;&lt;/b&gt;Zijn er eventuele vermogensopbouw of dekkingen af te handelen?: Ja&lt;br&gt;Aantal actieve bijverbanden: 3&lt;/p&gt;&lt;p&gt;&lt;i&gt;Per bijverband (verzekering, dekking of bancair product)&lt;br&gt;&lt;/i&gt;Welke bijverbandnrs? L1234567, GB94BARC10201530093459, ING7654321&lt;br&gt;Naam product: Levensverzekering, Spaarrekening, Effectencontract&lt;br&gt;Maatschappij: &amp;lt;MaatschappijType&amp;gt;&lt;br&gt;Bijverbandtype: &amp;lt;BijverbandType&amp;gt;&lt;br&gt;Wat gebeurt er met het bijverband? &amp;lt;BijverbandMutatieType&amp;gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;align=left;" vertex="1" parent="cwX66RvDyU_y_CMi2a0H-1">
           <mxGeometry x="917" y="660.0000000000001" width="430" height="151.87" as="geometry" />
         </mxCell>
-        <mxCell id="CGaOfmmuQ5kZRSQiyQmi-14" value="Nieuw&lt;br&gt;Leningdeel&lt;br&gt;(0-6)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="cwX66RvDyU_y_CMi2a0H-1">
-          <mxGeometry x="537.2467480468745" y="1138.12" width="120" height="60" as="geometry" />
+        <mxCell id="CGaOfmmuQ5kZRSQiyQmi-14" value="Nieuw&lt;br&gt;Leningdeel&lt;br&gt;(0-6)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;dashed=1;" vertex="1" parent="cwX66RvDyU_y_CMi2a0H-1">
+          <mxGeometry x="539.4967480468745" y="1190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CGaOfmmuQ5kZRSQiyQmi-15" value="&lt;p&gt;&lt;b&gt;Nieuw leningdeel&lt;br&gt;&lt;/b&gt;&lt;span&gt;Gewenst LeningdeelType: &amp;lt;NieuwLeningdeelType&amp;gt;&lt;br&gt;&lt;/span&gt;Gewenste aflossingsvorm: &amp;lt;AflossingsVormType&amp;gt;&lt;br&gt;Gewenste looptijd in maanden: 60&lt;br&gt;Gewenst bedrag: 50.000,00&lt;br&gt;Gewenst bedrag box drie: 0,00&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;align=left;" vertex="1" parent="cwX66RvDyU_y_CMi2a0H-1">
-          <mxGeometry x="669.25" y="1118.12" width="300" height="100" as="geometry" />
+          <mxGeometry x="671.5" y="1170" width="300" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="CGaOfmmuQ5kZRSQiyQmi-17" value="Nieuwe&lt;br&gt;Lening&lt;br&gt;(0-9)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="cwX66RvDyU_y_CMi2a0H-1">
+        <mxCell id="CGaOfmmuQ5kZRSQiyQmi-17" value="Nieuwe&lt;br&gt;Lening&lt;br&gt;(0-9)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;dashed=1;" vertex="1" parent="cwX66RvDyU_y_CMi2a0H-1">
           <mxGeometry x="419.7467480468747" y="1067.12" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CGaOfmmuQ5kZRSQiyQmi-20" value="&lt;p&gt;&lt;b&gt;Bestaand leningdeel:&lt;br&gt;&lt;/b&gt;BestaandLeningdeelNr: H1234567-L1&lt;br&gt;HuidigeAflossingsVorm: Aflossingsvrij&lt;br&gt;HuidigeProresto: 100.000,00&lt;br&gt;HuidigeBedrag box drie: 0,00&lt;br&gt;HuidigeresterendeLooptijd in mndn: 40&lt;br&gt;MutatieType: &amp;lt;LeningdeelMutatieType&amp;gt;: Te Wijzigen&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;align=left;" vertex="1" parent="cwX66RvDyU_y_CMi2a0H-1">
           <mxGeometry x="684" y="528.88" width="370" height="111.12" as="geometry" />
         </mxCell>
-        <mxCell id="CGaOfmmuQ5kZRSQiyQmi-21" value="Wijzigingen&lt;br&gt;Leningdeel&lt;br&gt;(0-25)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="cwX66RvDyU_y_CMi2a0H-1">
+        <mxCell id="CGaOfmmuQ5kZRSQiyQmi-21" value="Wijzigingen&lt;br&gt;Leningdeel&lt;br&gt;(0-25)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;dashed=1;" vertex="1" parent="cwX66RvDyU_y_CMi2a0H-1">
           <mxGeometry x="542.2467480468745" y="887.12" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CGaOfmmuQ5kZRSQiyQmi-23" value="&lt;p&gt;&lt;b&gt;Wijzigingen bestaand leningdeel (bij bijv. Omzetten)&lt;br&gt;&lt;/b&gt;LeningdeelType: &amp;lt;LeningDeelType&amp;gt;: Wijzigen voor Omzetten&lt;br&gt;Gewenste aflossingsvorm: &amp;lt;AflossingsVormType&amp;gt;: &lt;span style=&quot;background-color: rgb(255 , 255 , 153)&quot;&gt;Annuitair&lt;/span&gt;&lt;br&gt;Gewenste looptijd in maanden: 40&lt;br&gt;Gewenst bedrag: 100.000,00&lt;br&gt;Gewenst bedrag box drie: 0,00&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;align=left;" vertex="1" parent="cwX66RvDyU_y_CMi2a0H-1">
           <mxGeometry x="672.25" y="877.12" width="340" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CGaOfmmuQ5kZRSQiyQmi-24" value="&lt;p&gt;&lt;b&gt;Nieuwe lening&lt;br&gt;&lt;/b&gt;Lening type: &amp;lt;nieuweleningType&amp;gt; Nieuwe aanvraag - Verhogen hoofdsom&lt;br&gt;Hoeveelheid leningdelen na wijzigingen: 4 (incl bestaande+gewijzigde)&lt;br&gt;Nieuwe Hoofdsom bedrag: 250.000,00&lt;br&gt;Bedrag gewenste Verhoging: 50.000,00&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;align=left;" vertex="1" parent="cwX66RvDyU_y_CMi2a0H-1">
+          <mxGeometry x="560" y="1080" width="412" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
