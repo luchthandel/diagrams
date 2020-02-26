@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-26T11:53:34.148Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36 Edg/80.0.361.48" etag="os0LmVEYam8OeyNkY8Sw" version="12.7.6" type="github" pages="7">
+<mxfile host="www.draw.io" modified="2020-02-26T12:40:37.001Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36 Edg/80.0.361.48" etag="q8fc4WunATFRsrGP3tp1" version="12.7.6" type="github" pages="7">
   <diagram id="mkEHRjJTaVBPFosUXMDn" name="IX basis">
     <mxGraphModel dx="1426" dy="2111" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -68,7 +68,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hA7Fp9oTWmx9jLAZvdmA" name="IX Extended">
-    <mxGraphModel dx="1426" dy="942" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1678" dy="2762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="cwX66RvDyU_y_CMi2a0H-0" />
         <mxCell id="cwX66RvDyU_y_CMi2a0H-1" parent="cwX66RvDyU_y_CMi2a0H-0" />
@@ -139,22 +139,93 @@
           <mxGeometry x="239.9967480468748" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LycQfjaosGD2U1lwfmxv-3" value="BeheerVerzoek&lt;br&gt;(1-1)&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;" parent="cwX66RvDyU_y_CMi2a0H-1" vertex="1">
-          <mxGeometry x="157.99999999999983" y="169" width="120" height="60" as="geometry" />
+          <mxGeometry x="177.99999999999983" y="-1481" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LycQfjaosGD2U1lwfmxv-4" value="BeheerBericht" style="rounded=1;whiteSpace=wrap;html=1;" parent="cwX66RvDyU_y_CMi2a0H-1" vertex="1">
-          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="-1610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LycQfjaosGD2U1lwfmxv-5" value="Header&lt;br&gt;(1-1)" style="rounded=1;whiteSpace=wrap;html=1;" parent="cwX66RvDyU_y_CMi2a0H-1" vertex="1">
-          <mxGeometry x="157.99999999999983" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="177.99999999999983" y="-1550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LycQfjaosGD2U1lwfmxv-6" value="&lt;span&gt;MutatieVerzoek&lt;br&gt;&quot;OHA&quot;&lt;br&gt;(0-1)&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;" parent="cwX66RvDyU_y_CMi2a0H-1" vertex="1">
-          <mxGeometry x="274.9967480468748" y="231.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="294.9967480468748" y="-1418.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LycQfjaosGD2U1lwfmxv-7" value="&lt;span&gt;Toets&lt;br&gt;(0-x)&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;" parent="cwX66RvDyU_y_CMi2a0H-1" vertex="1">
-          <mxGeometry x="277.4967480468748" y="297" width="120" height="60" as="geometry" />
+          <mxGeometry x="297.4967480468748" y="-1353" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LycQfjaosGD2U1lwfmxv-8" value="&lt;span&gt;BeheerInformatie&lt;br&gt;(0-1)&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;" parent="cwX66RvDyU_y_CMi2a0H-1" vertex="1">
-          <mxGeometry x="157.49999999999983" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="177.99999999999983" y="-1230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Dt5kES1TRTkvzrUJWJKH-0" value="&lt;b&gt;Mutatieverzoek&lt;/b&gt;&lt;br&gt;De&amp;nbsp;hypotheeknummer(s) bij Aegon: H1234567, H7654321&lt;br&gt;Gewenste mutatie: &amp;lt;BeheerMutatieType&amp;gt;" style="text;html=1;" vertex="1" parent="cwX66RvDyU_y_CMi2a0H-1">
+          <mxGeometry x="428" y="-1408.5" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Dt5kES1TRTkvzrUJWJKH-1" value="&lt;b&gt;Toets&lt;/b&gt;&lt;br&gt;Gebruikte Norm: &amp;lt;NormType&amp;gt;&lt;br&gt;Voldaan aan toets: &amp;lt;ToetsType&amp;gt;" style="text;html=1;" vertex="1" parent="cwX66RvDyU_y_CMi2a0H-1">
+          <mxGeometry x="430" y="-1343" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Dt5kES1TRTkvzrUJWJKH-4" value="&lt;b&gt;BeheerMutatieType&lt;/b&gt;&lt;br&gt;Hoofdelijk Ontslag&lt;br&gt;Omzetten Lening&lt;br&gt;&lt;b&gt;&lt;br&gt;NormType&lt;/b&gt;&lt;br&gt;NHG&lt;br&gt;CHF&lt;br&gt;Geldverstrekker&lt;br&gt;Maatwerk&lt;br&gt;&lt;br&gt;&lt;b&gt;ToetsType&lt;/b&gt;&lt;br&gt;NHG BeheerToets&lt;br&gt;AcceptatieToets Geldverstrekker&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;ArbeidscontractType&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Bepaalde Tijd&lt;/div&gt;&lt;div&gt;Onbepaalde Tijd&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;HypotheekgeverMutatieType&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Hypotheekgever blijft&lt;/div&gt;&lt;div&gt;Hypotheekgever vertrekt&lt;/div&gt;&lt;div&gt;Nieuwe Hypotheekgever&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;InkomensBronType&lt;/div&gt;&lt;div&gt;Werknemer&lt;/div&gt;&lt;div&gt;Zelfstandig ondernemer&lt;/div&gt;&lt;div&gt;Pensioengerechtigde (of binnen 3 jaar met pensioen)&lt;/div&gt;&lt;div&gt;Uitkeringsgerechtigde&lt;/div&gt;&lt;/div&gt;" style="text;html=1;" vertex="1" parent="cwX66RvDyU_y_CMi2a0H-1">
+          <mxGeometry x="930" y="-1571" width="160" height="531" as="geometry" />
+        </mxCell>
+        <mxCell id="Dt5kES1TRTkvzrUJWJKH-5" value="Partij&lt;br&gt;(1-99)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="cwX66RvDyU_y_CMi2a0H-1">
+          <mxGeometry x="298.4967480468744" y="-1160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Dt5kES1TRTkvzrUJWJKH-6" value="Natuurlijk Persoon&lt;br&gt;(1-99)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="cwX66RvDyU_y_CMi2a0H-1">
+          <mxGeometry x="421.4999999999998" y="-1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Dt5kES1TRTkvzrUJWJKH-7" value="Rechtspersoon&lt;br&gt;(0-99)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="cwX66RvDyU_y_CMi2a0H-1">
+          <mxGeometry x="421.4999999999998" y="-1034" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Dt5kES1TRTkvzrUJWJKH-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="cwX66RvDyU_y_CMi2a0H-1" source="Dt5kES1TRTkvzrUJWJKH-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="566.5" y="-1004" />
+              <mxPoint x="566.5" y="-1070" />
+              <mxPoint x="541.5" y="-1070" />
+            </Array>
+            <mxPoint x="541.5" y="-1004" as="sourcePoint" />
+            <mxPoint x="541.5" y="-1070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dt5kES1TRTkvzrUJWJKH-9" value="Contactpersoon" style="text;html=1;" vertex="1" parent="cwX66RvDyU_y_CMi2a0H-1">
+          <mxGeometry x="556" y="-1050" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Dt5kES1TRTkvzrUJWJKH-11" value="&lt;p&gt;&lt;b&gt;Tussenpersoon&lt;br&gt;&lt;/b&gt;Naam kantoor: De Hypotheekshop Uden B.V.&lt;br&gt;Beheren Adviseur? Ja&lt;br&gt;E-mailadres: hypotheekshop.uden@hpthshp.nl&lt;br&gt;Telefoonnummer:c099-1234567&lt;br&gt;Tussenpersoonnummer: 7162534&lt;br&gt;Contactpersoon Naam Voorletters: R.L.&lt;br&gt;Contactpersoon Naam Voornaam: Richard Leo&lt;br&gt;Contactpersoon Naam Tussenvoegsel: van der&lt;br&gt;Contactpersoon Naam Achternaam: Kaper&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="cwX66RvDyU_y_CMi2a0H-1">
+          <mxGeometry x="570.5" y="-830" width="305" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Dt5kES1TRTkvzrUJWJKH-13" value="Notaris&lt;br&gt;(0-1)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="cwX66RvDyU_y_CMi2a0H-1">
+          <mxGeometry x="420.49999999999915" y="-529" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Dt5kES1TRTkvzrUJWJKH-14" value="&lt;span style=&quot;white-space: normal&quot;&gt;Tussenpersoon&lt;/span&gt;&lt;br style=&quot;white-space: normal&quot;&gt;&lt;span style=&quot;white-space: normal&quot;&gt;(1-1)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;" vertex="1" parent="cwX66RvDyU_y_CMi2a0H-1">
+          <mxGeometry x="422.4999999999991" y="-847" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Dt5kES1TRTkvzrUJWJKH-15" value="Debiteur&lt;br&gt;(0-9)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="cwX66RvDyU_y_CMi2a0H-1">
+          <mxGeometry x="420.49999999999915" y="-656" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Dt5kES1TRTkvzrUJWJKH-16" value="Depothouder&lt;br&gt;(0-9)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="cwX66RvDyU_y_CMi2a0H-1">
+          <mxGeometry x="420.49999999999915" y="-592" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Dt5kES1TRTkvzrUJWJKH-17" value="Rol&lt;br&gt;(1-1)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="cwX66RvDyU_y_CMi2a0H-1">
+          <mxGeometry x="299.4967480468749" y="-970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Dt5kES1TRTkvzrUJWJKH-18" value="&lt;span style=&quot;white-space: normal&quot;&gt;Hypotheekgever /&amp;nbsp;&lt;br&gt;&lt;/span&gt;Geldnemer&lt;br style=&quot;white-space: normal&quot;&gt;&lt;span style=&quot;white-space: normal&quot;&gt;(0-9)&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;" vertex="1" parent="cwX66RvDyU_y_CMi2a0H-1">
+          <mxGeometry x="422.49999999999966" y="-910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Dt5kES1TRTkvzrUJWJKH-19" value="&lt;span style=&quot;white-space: normal&quot;&gt;Mede Hoofdelijk&lt;br&gt;&lt;/span&gt;Aansprakelijke&lt;br style=&quot;white-space: normal&quot;&gt;&lt;span style=&quot;white-space: normal&quot;&gt;(0-9)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="cwX66RvDyU_y_CMi2a0H-1">
+          <mxGeometry x="420.49999999999915" y="-719" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Dt5kES1TRTkvzrUJWJKH-20" value="Hypotheeknemer /&lt;br&gt;Geldgever&lt;br&gt;(0-9)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="cwX66RvDyU_y_CMi2a0H-1">
+          <mxGeometry x="421.4999999999998" y="-784" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Dt5kES1TRTkvzrUJWJKH-21" value="Inkomens-Vermogens&lt;br&gt;Toets&lt;br&gt;(0-1)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="cwX66RvDyU_y_CMi2a0H-1">
+          <mxGeometry x="414.9967480468749" y="-1280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Dt5kES1TRTkvzrUJWJKH-22" value="&lt;p&gt;&lt;b&gt;Inkomens en vermogens Toets&lt;/b&gt;&lt;br&gt;Maximale last blijvende hypotheekgever per maand: 1.200,00&lt;br&gt;Maximale last nieuwe hypotheekgever per maand: 800,00&lt;br&gt;Is woningbehoud mogelijk?: Ja&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="cwX66RvDyU_y_CMi2a0H-1">
+          <mxGeometry x="553" y="-1280" width="340" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Dt5kES1TRTkvzrUJWJKH-24" value="Voorbehoud&lt;br&gt;(0-99)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;" vertex="1" parent="cwX66RvDyU_y_CMi2a0H-1">
+          <mxGeometry x="319.9967480468745" y="1420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Dt5kES1TRTkvzrUJWJKH-25" value="&lt;p&gt;&lt;b&gt;VoorbehoudSoortType&lt;/b&gt;&lt;br&gt;Intermediairsverklaring&lt;br&gt;Financieringsopzet&lt;br&gt;Uniform pensioen overzicht&lt;br&gt;Toekenningsbesluit&lt;br&gt;Taxatierapport&lt;br&gt;Inkomensgegevens&lt;br&gt;Legitimatiebewijs&lt;br&gt;Concept akte van verdeling&lt;br&gt;Echtscheidingsconvenant&lt;br&gt;Echtscheidingsbeschikking&lt;br&gt;Inschrijving echtscheiding&lt;br&gt;Overzicht eigen middelen&lt;br&gt;Ontbinding geregistreerde partnerschapsvoorwaarden&lt;br&gt;Inschrijving ontbinding geregistreerde partnerschapsvoorwaarden&lt;br&gt;Registratie schenking&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="cwX66RvDyU_y_CMi2a0H-1">
+          <mxGeometry x="476" y="1420" width="244" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
