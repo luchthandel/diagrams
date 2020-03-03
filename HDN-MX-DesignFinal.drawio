@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-03T11:36:52.871Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36 Edg/80.0.361.48" etag="7i7qgVyeK6ZukMebU7fv" version="12.7.9" type="github" pages="7">
+<mxfile host="www.draw.io" modified="2020-03-03T12:41:09.614Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36 Edg/80.0.361.48" etag="SJqcIKJzfIXOK6rCyjZe" version="12.7.9" type="github" pages="7">
   <diagram id="6AWKWvLYqVDgw-C5PzLm" name="BeheerBericht">
     <mxGraphModel dx="1188" dy="745" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -139,7 +139,7 @@
         <mxCell id="kouToMkir8Yn-cUBNF96-41" value="&lt;span&gt;Financieren Overbedeling&lt;br&gt;(bij Echtscheiding)&lt;br&gt;(0-1)&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="AD0dinUnVYBBFNS8SBd9-1">
           <mxGeometry x="563.9967480468748" y="282" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kouToMkir8Yn-cUBNF96-42" value="&lt;span&gt;Opmerkingen&lt;br&gt;(0-1)&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="AD0dinUnVYBBFNS8SBd9-1">
+        <mxCell id="kouToMkir8Yn-cUBNF96-42" value="&lt;span&gt;Opmerkingen TP&lt;br&gt;(0-1)&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="AD0dinUnVYBBFNS8SBd9-1">
           <mxGeometry x="443.9967480468748" y="598.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kouToMkir8Yn-cUBNF96-43" value="Inkomens-Vermogens&lt;br&gt;Toets&lt;br&gt;(0-1)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="AD0dinUnVYBBFNS8SBd9-1">
@@ -1215,10 +1215,10 @@
         <mxCell id="9nmrQ2zcrnsCObw5KqMN-14" value="LooptijdVerkortenJN = &quot;Nee&quot;&lt;br&gt;Onderhandsverhogen = &quot;Nee&quot;&lt;br&gt;Lening_wijzigen = &quot;Ja&quot;&lt;br&gt;...." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="u-qZj3-potsxvcWUMQ-Q-1" vertex="1">
           <mxGeometry x="2568" y="-805" width="210" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="9nmrQ2zcrnsCObw5KqMN-15" value="LeningNrbestaand = H1234567&lt;br&gt;MutatieType = &quot;wijzigen&quot;&lt;br&gt;HuidigAantalLeningdelen = 3" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="u-qZj3-potsxvcWUMQ-Q-1" vertex="1">
-          <mxGeometry x="2568" y="-736" width="210" height="20" as="geometry" />
+        <mxCell id="9nmrQ2zcrnsCObw5KqMN-15" value="LeningNrbestaand = H1234567&lt;br&gt;MutatieType = &quot;wijzigen&quot;&lt;br&gt;ProResto = &quot;200.000,00&quot;&lt;br&gt;HuidigAantalLeningdelen = 3" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="u-qZj3-potsxvcWUMQ-Q-1" vertex="1">
+          <mxGeometry x="2568" y="-743" width="210" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="9nmrQ2zcrnsCObw5KqMN-16" value="MutatieType = &quot;verhogen&quot;&lt;br&gt;NieuweHoofdsom = &quot;250.000,00&quot;&lt;br&gt;NieuweAantalLeningdelen = 5" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="u-qZj3-potsxvcWUMQ-Q-1" vertex="1">
+        <mxCell id="9nmrQ2zcrnsCObw5KqMN-16" value="MutatieType = &quot;verhogen&quot;&lt;br&gt;VerhogingBedrag = &quot;50.000,00&quot;&lt;br&gt;GewensteHoofdsom = &quot;250.000,00&quot;&lt;br&gt;NieuweAantalLeningdelen = 5" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="u-qZj3-potsxvcWUMQ-Q-1" vertex="1">
           <mxGeometry x="2695" y="-665" width="210" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9nmrQ2zcrnsCObw5KqMN-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="u-qZj3-potsxvcWUMQ-Q-1" source="9nmrQ2zcrnsCObw5KqMN-18" target="9nmrQ2zcrnsCObw5KqMN-19" edge="1">
@@ -1251,7 +1251,7 @@
         <mxCell id="9nmrQ2zcrnsCObw5KqMN-26" value="Leningdeel#4" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0" parent="u-qZj3-potsxvcWUMQ-Q-1" vertex="1">
           <mxGeometry x="2554.996748046875" y="-165" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9nmrQ2zcrnsCObw5KqMN-27" value="InternId = 2&lt;br&gt;LeningDeelNrbestaand = H1234567-L2&lt;br&gt;MutatieType = &quot;wijzigen&quot;&lt;br&gt;&lt;span style=&quot;white-space: nowrap&quot;&gt;RestantSaldoHuidig = 100.000,00&lt;br&gt;AflosvormHuidig = &quot;Spaarrekening&quot;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="u-qZj3-potsxvcWUMQ-Q-1" vertex="1">
+        <mxCell id="9nmrQ2zcrnsCObw5KqMN-27" value="InternId = 2&lt;br&gt;LeningDeelNrbestaand = H1234567-L2&lt;br&gt;MutatieType = &quot;wijzigen&quot;&lt;br&gt;&lt;span style=&quot;white-space: nowrap&quot;&gt;RestantSaldoHuidig = 100.000,00&lt;br&gt;AflosvormHuidig = &quot;Lineair&quot;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="u-qZj3-potsxvcWUMQ-Q-1" vertex="1">
           <mxGeometry x="2694" y="-435" width="250" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9nmrQ2zcrnsCObw5KqMN-28" value="InternId = 3&lt;br&gt;LeningDeelNrbestaand = H1234567-L3&lt;br&gt;MutatieType = &quot;wijzigen&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="u-qZj3-potsxvcWUMQ-Q-1" vertex="1">
@@ -1260,13 +1260,13 @@
         <mxCell id="9nmrQ2zcrnsCObw5KqMN-29" value="InternId = 5&lt;br&gt;LeningDeelNrbestaand = NULL&lt;br&gt;MutatieType = &quot;nieuw&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="u-qZj3-potsxvcWUMQ-Q-1" vertex="1">
           <mxGeometry x="2688" y="-5" width="250" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="9nmrQ2zcrnsCObw5KqMN-30" value="MutatieType = &quot;omzetten Aflosvorm&quot;&lt;br&gt;NieuweAflosvorm = &quot;Annuitair&quot;&lt;br&gt;NieuwLeningdeelBedrag = &amp;lt;ZelfdeAlsHuidig&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="u-qZj3-potsxvcWUMQ-Q-1" vertex="1">
+        <mxCell id="9nmrQ2zcrnsCObw5KqMN-30" value="MutatieType = &quot;omzetten Aflosvorm&quot;&lt;br&gt;NieuweAflosvorm = &quot;Annuitair&quot;&lt;br&gt;GewenstBedrag = &amp;lt;ZelfdeAlsHuidig&amp;gt;&lt;br&gt;ResterendeLooptijd = &amp;lt;ZelfdeAlsHuidig&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="u-qZj3-potsxvcWUMQ-Q-1" vertex="1">
           <mxGeometry x="2815" y="-515" width="270" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9nmrQ2zcrnsCObw5KqMN-31" value="&lt;b&gt;Leningdeel#2&lt;/b&gt;&lt;br&gt;Mutatie" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="u-qZj3-potsxvcWUMQ-Q-1" vertex="1">
           <mxGeometry x="2677.996748046875" y="-375" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9nmrQ2zcrnsCObw5KqMN-32" value="MutatieType = &quot;wijzigen door splitsen&quot;&lt;br&gt;NieuweAflosvorm = &amp;lt;ZelfdeAlsHuidig&amp;gt;&lt;br&gt;NieuwLeningdeelBedrag = 70.000,00&lt;br&gt;SplitsPercentage = 70%&lt;br&gt;RefLeningdeelNrBestaand = H1234567-L2" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="u-qZj3-potsxvcWUMQ-Q-1" vertex="1">
+        <mxCell id="9nmrQ2zcrnsCObw5KqMN-32" value="MutatieType = &quot;wijzigen door splitsen&quot;&lt;br&gt;NieuweAflosvorm = &amp;lt;ZelfdeAlsHuidig&amp;gt;&lt;br&gt;ResterendeLooptijd = &amp;lt;ZelfdeAlsHuidig&amp;gt;&lt;br&gt;NieuwLeningdeelBedrag = 70.000,00&lt;br&gt;SplitsPercentage = 70%&lt;br&gt;RefLeningdeelNrBestaand = H1234567-L2" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="u-qZj3-potsxvcWUMQ-Q-1" vertex="1">
           <mxGeometry x="2815" y="-355" width="270" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9nmrQ2zcrnsCObw5KqMN-33" value="MutatieType = &quot;nieuw door splitsen&quot;&lt;br&gt;NieuweAflosvorm = &quot;annuitair&quot;&lt;br&gt;NieuwLeningdeelBedrag = 30.000,00&lt;br&gt;SplitsPercentage = 30%&lt;br&gt;RefLeningdeelNrBestaand = H1234567-L2" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="u-qZj3-potsxvcWUMQ-Q-1" vertex="1">
@@ -1287,7 +1287,7 @@
         <mxCell id="9nmrQ2zcrnsCObw5KqMN-38" value="InternId = 4&lt;br&gt;LeningDeelNrbestaand = NULL&lt;br&gt;MutatieType = &quot;nieuw&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="u-qZj3-potsxvcWUMQ-Q-1" vertex="1">
           <mxGeometry x="2694" y="-145" width="250" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="9nmrQ2zcrnsCObw5KqMN-39" value="MutatieType = &quot;nieuw door verhogen&quot;&lt;br&gt;NieuweAflosvorm = &quot;Aflossingsvrij&quot;&lt;br&gt;NieuwLeningdeelBedrag = 30.000,00" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="u-qZj3-potsxvcWUMQ-Q-1" vertex="1">
+        <mxCell id="9nmrQ2zcrnsCObw5KqMN-39" value="MutatieType = &quot;nieuw door verhogen&quot;&lt;br&gt;NieuweAflosvorm = &quot;Aflossingsvrij&quot;&lt;br&gt;NieuwLeningdeelBedrag = 30.000,00&lt;br&gt;ResterendeLooptijd=&amp;lt;ZelfdeAlsLening&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="u-qZj3-potsxvcWUMQ-Q-1" vertex="1">
           <mxGeometry x="2815" y="65" width="270" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9nmrQ2zcrnsCObw5KqMN-40" value="MutatieType = &quot;omzetten naar marktrente&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="u-qZj3-potsxvcWUMQ-Q-1" vertex="1">
