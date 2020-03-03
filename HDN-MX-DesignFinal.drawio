@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-03-03T13:46:05.646Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36 Edg/80.0.361.48" etag="6S0vm78AV5PndgRz2I_2" version="12.7.9" type="github" pages="7">
+<mxfile host="www.draw.io" modified="2020-03-03T13:47:59.581Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36 Edg/80.0.361.48" etag="SEO2_vjLj37a1nEptH0b" version="12.7.9" type="github" pages="7">
   <diagram id="6AWKWvLYqVDgw-C5PzLm" name="BeheerBericht">
-    <mxGraphModel dx="946" dy="642" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="942" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="AD0dinUnVYBBFNS8SBd9-0" />
         <mxCell id="AD0dinUnVYBBFNS8SBd9-1" parent="AD0dinUnVYBBFNS8SBd9-0" />
@@ -190,7 +190,7 @@
           <mxGeometry x="1271" y="-1171" width="410" height="4030" as="geometry" />
         </mxCell>
         <mxCell id="Hx6l2165iOSuCRWWUYxJ-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="cwX66RvDyU_y_CMi2a0H-1" vertex="1">
-          <mxGeometry x="419" y="-1030" width="1277" height="415" as="geometry" />
+          <mxGeometry x="419" y="-1030" width="821" height="415" as="geometry" />
         </mxCell>
         <mxCell id="FPJ-nvidB-mHobPlhPgL-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="cwX66RvDyU_y_CMi2a0H-1" vertex="1">
           <mxGeometry x="418" y="2349" width="661" height="749" as="geometry" />
@@ -582,9 +582,6 @@
         <mxCell id="TawpvXnyXMyj6oJdsm1j-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;Voorstel HDN Beheerbericht (BeheerVerzoek): MutatieVerzoek OHA v1&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;" parent="cwX66RvDyU_y_CMi2a0H-1" vertex="1">
           <mxGeometry x="261" y="-1214" width="1884" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2Nsixk7yX_QWLJvYvH3i-0" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;u&gt;Basismodel BeheerVerzoek&lt;/u&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;" parent="cwX66RvDyU_y_CMi2a0H-1" vertex="1">
-          <mxGeometry x="1221" y="2955" width="913" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="TWeU912ido8JSMVrs9V6-1" value="Wijzigen&lt;br style=&quot;font-size: 8px&quot;&gt;Hypotheek Dekking&lt;br style=&quot;font-size: 8px&quot;&gt;(0-1)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=8;" parent="cwX66RvDyU_y_CMi2a0H-1" vertex="1">
           <mxGeometry x="755" y="1037" width="70" height="40" as="geometry" />
         </mxCell>
@@ -706,7 +703,7 @@
         <mxCell id="FPJ-nvidB-mHobPlhPgL-32" value="Mutatie Depot&lt;br&gt;(0-1)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=2;fillColor=#e1d5e7;strokeColor=#9673a6;dashed=1;" parent="cwX66RvDyU_y_CMi2a0H-1" vertex="1">
           <mxGeometry x="796.7467480468749" y="1357" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FPJ-nvidB-mHobPlhPgL-39" value="&lt;p&gt;&lt;b&gt;MutatieVerzoek&quot;OHA&quot; (Specifiek)&lt;br&gt;&lt;/b&gt;&lt;span&gt;Wijzigen Hypotheek? JN&lt;br&gt;&lt;/span&gt;Wijzigen Hypotheekdekking? JN&lt;br&gt;Verlengen looptijd hypotheek gewenst? JN&lt;br&gt;Onderhands verhogen mogelijk? JN&lt;br&gt;Wijzigen Depot(s)? JN&lt;br&gt;Wijzigen Lening(-delen)? JN&lt;br&gt;Lopende starterslening van toepassing? JN&lt;br&gt;Omzetten van toepassing? JN&lt;br&gt;Omzetten naar marktrente? JN&lt;br&gt;Verhogen van toepassing? JN (&amp;lt;- nieuw leningdeel)&lt;br&gt;Verlagen van toepassing? (&amp;lt;- extra aflossing)&lt;br&gt;Wijzigen Leningdeeldekking? JN&lt;br&gt;Wijzigen Hypotheekgevers? JN&lt;br&gt;Nieuwe Hypotheekgever? JN&lt;br&gt;Wijzigen onderpand? JN&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Uitkoop&lt;br&gt;&lt;/b&gt;Overbedeling van toepassing? JN&lt;br&gt;Financiering via geldgever? JN&lt;br&gt;Verhoging tbv uitkoop op Beheertoets NHG getoetst? JN&lt;/p&gt;&lt;p&gt;&lt;b&gt;Toets&lt;br&gt;&lt;/b&gt;Draagkracht getoetst? JN&lt;br&gt;Woningbehoud mogelijk? JN&lt;br&gt;Voorbehouden van toepassing? JN&lt;br&gt;Gebruikte Norm: &amp;lt;NormType&amp;gt;&lt;br&gt;Beheertoets NHG positief? JN&lt;br&gt;Acceptatietoets geldgever positief? JN&lt;/p&gt;" style="text;html=1;" parent="cwX66RvDyU_y_CMi2a0H-1" vertex="1">
+        <mxCell id="FPJ-nvidB-mHobPlhPgL-39" value="&lt;p&gt;&lt;b&gt;MutatieVerzoek&quot;OHA&quot; (Aegon frecept)&lt;br&gt;&lt;/b&gt;&lt;span&gt;Wijzigen Hypotheek? JN&lt;br&gt;&lt;/span&gt;Wijzigen Hypotheekdekking? JN&lt;br&gt;Verlengen looptijd hypotheek gewenst? JN&lt;br&gt;Onderhands verhogen mogelijk? JN&lt;br&gt;Wijzigen Depot(s)? JN&lt;br&gt;Wijzigen Lening(-delen)? JN&lt;br&gt;Lopende starterslening van toepassing? JN&lt;br&gt;Omzetten van toepassing? JN&lt;br&gt;Omzetten naar marktrente? JN&lt;br&gt;Verhogen van toepassing? JN (&amp;lt;- nieuw leningdeel)&lt;br&gt;Verlagen van toepassing? (&amp;lt;- extra aflossing)&lt;br&gt;Wijzigen Leningdeeldekking? JN&lt;br&gt;Wijzigen Hypotheekgevers? JN&lt;br&gt;Nieuwe Hypotheekgever? JN&lt;br&gt;Wijzigen onderpand? JN&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Uitkoop&lt;br&gt;&lt;/b&gt;Overbedeling van toepassing? JN&lt;br&gt;Financiering via geldgever? JN&lt;br&gt;Verhoging tbv uitkoop op Beheertoets NHG getoetst? JN&lt;/p&gt;&lt;p&gt;&lt;b&gt;Toets&lt;br&gt;&lt;/b&gt;Draagkracht getoetst? JN&lt;br&gt;Woningbehoud mogelijk? JN&lt;br&gt;Voorbehouden van toepassing? JN&lt;br&gt;Gebruikte Norm: &amp;lt;NormType&amp;gt;&lt;br&gt;Beheertoets NHG positief? JN&lt;br&gt;Acceptatietoets geldgever positief? JN&lt;/p&gt;" style="text;html=1;" parent="cwX66RvDyU_y_CMi2a0H-1" vertex="1">
           <mxGeometry x="846" y="-1042" width="339" height="396" as="geometry" />
         </mxCell>
         <mxCell id="FPJ-nvidB-mHobPlhPgL-42" value="Mutatie Hypotheek&lt;br&gt;(0-1)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=2;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="cwX66RvDyU_y_CMi2a0H-1" vertex="1">
