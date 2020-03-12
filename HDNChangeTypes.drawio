@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-12T08:47:58.543Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36 Edg/80.0.361.48" etag="FTdBX0QjNffpg3CiSnda" version="12.8.4" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2020-03-12T08:53:54.406Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36 Edg/80.0.361.48" etag="RTKvyB2I1KrsEO5WXuDo" version="12.8.4" type="github" pages="3">
   <diagram id="U2Q95i_eIYNvRnpjLNzL" name="Mutaties">
     <mxGraphModel dx="1892" dy="1284" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -24,7 +24,7 @@
         <mxCell id="arAL8bdrMYMsqUM0ZBSV-4" value="Bestaande Lening (Te Wijzigen)" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;fillColor=#f5f5f5;rounded=1;fontSize=14;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;swimlaneLine=1;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="arAL8bdrMYMsqUM0ZBSV-1">
           <mxGeometry x="167" y="100" width="257" height="193" as="geometry" />
         </mxCell>
-        <mxCell id="arAL8bdrMYMsqUM0ZBSV-5" value="BestaandLeningNr=BestaandHypotheekNr&#xa;&#xa;&#xa;&lt;LeningDeelMutatieType&gt; Te Wijzigen&#xa;+Leningdelen" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="arAL8bdrMYMsqUM0ZBSV-4">
+        <mxCell id="arAL8bdrMYMsqUM0ZBSV-5" value="BestaandLeningNr=BestaandHypotheekNr&#xa;Oorspronkelijk Hoofdsom&#xa;ProResto Bedrag (=huidige hoofdsom)&#xa;&#xa;&lt;LeningMutatieType&gt; Te Wijzigen&#xa;+Leningdelen" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="arAL8bdrMYMsqUM0ZBSV-4">
           <mxGeometry y="30" width="257" height="163" as="geometry" />
         </mxCell>
         <mxCell id="arAL8bdrMYMsqUM0ZBSV-6" value="LeningDeel mutatie: Wijzig: Omzetten" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;fillColor=#f5f5f5;rounded=1;fontSize=14;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;swimlaneLine=1;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="arAL8bdrMYMsqUM0ZBSV-1">
@@ -107,15 +107,24 @@
           <mxGeometry x="499" y="1195" width="190" height="47" as="geometry" />
         </mxCell>
         <mxCell id="VY5HV8e08EdeMZanVI3K-15" value="Lening mutatie: Wijzig: Omzetten" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;fillColor=#f5f5f5;rounded=1;fontSize=14;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;swimlaneLine=1;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="arAL8bdrMYMsqUM0ZBSV-1">
-          <mxGeometry x="420.5" y="332" width="257" height="195" as="geometry" />
+          <mxGeometry x="420" y="293" width="257" height="111" as="geometry" />
         </mxCell>
-        <mxCell id="VY5HV8e08EdeMZanVI3K-16" value="BestaandLeningDeelNr&#xa;&lt;AflosvormType&gt;&#xa;ProResto Bedrag&#xa;Box 3 bedrag&#xa;Opgebouwde waarde bedrag Dekking(-en)&#xa;Resterende looptijd leningdeel in mndn&#xa;Resterende looptijd rentevast in mndn&#xa;Rentepercentage&#xa;NHG garantie? JN?&#xa;&lt;LeningDeelMutatieType&gt; Te Wijzigen&#xa;+LeningDeelMutatie(s)" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="VY5HV8e08EdeMZanVI3K-15">
-          <mxGeometry y="30" width="257" height="165" as="geometry" />
+        <mxCell id="VY5HV8e08EdeMZanVI3K-16" value="?&#xa;&#xa;&lt;LeningMutatieReden&gt; Omzetten" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="VY5HV8e08EdeMZanVI3K-15">
+          <mxGeometry y="30" width="257" height="81" as="geometry" />
         </mxCell>
         <mxCell id="VY5HV8e08EdeMZanVI3K-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="arAL8bdrMYMsqUM0ZBSV-1" source="arAL8bdrMYMsqUM0ZBSV-5" target="VY5HV8e08EdeMZanVI3K-16">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="297" y="324" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="VY5HV8e08EdeMZanVI3K-18" value="Lening mutatie: Wijzig: Verlagen" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;fillColor=#f5f5f5;rounded=1;fontSize=14;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;swimlaneLine=1;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="arAL8bdrMYMsqUM0ZBSV-1">
+          <mxGeometry x="420" y="410" width="257" height="111" as="geometry" />
+        </mxCell>
+        <mxCell id="VY5HV8e08EdeMZanVI3K-19" value="?&#xa;&#xa;&lt;LeningMutatieReden&gt; Verlagen" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="VY5HV8e08EdeMZanVI3K-18">
+          <mxGeometry y="30" width="257" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="VY5HV8e08EdeMZanVI3K-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="arAL8bdrMYMsqUM0ZBSV-1" source="arAL8bdrMYMsqUM0ZBSV-5" target="VY5HV8e08EdeMZanVI3K-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
