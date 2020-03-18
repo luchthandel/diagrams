@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-18T12:38:30.714Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="pkmI0r17HkIjDvRAHknn" version="12.8.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-03-18T12:41:49.407Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="hNTbCPMbIMeJkN-57tT7" version="12.8.5" type="github" pages="7">
   <diagram id="U2Q95i_eIYNvRnpjLNzL" name="Mutaties">
     <mxGraphModel dx="2066" dy="2425" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -178,6 +178,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e-r0mLJ0Z7q3ZbqwJKRv-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="sBV037C6b4hhOkvPHdRb-1" source="S7PGx11tk7qIQPUocfLZ-6" target="frbWhf_fVvLi17VmyzUv-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-r0mLJ0Z7q3ZbqwJKRv-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="sBV037C6b4hhOkvPHdRb-1" source="S7PGx11tk7qIQPUocfLZ-6" target="e-r0mLJ0Z7q3ZbqwJKRv-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="S7PGx11tk7qIQPUocfLZ-6" value="HYPOTHEEK" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;" parent="sBV037C6b4hhOkvPHdRb-1" vertex="1">
@@ -450,6 +453,12 @@
         <mxCell id="lCsYP--YghJ_NPWnHZ33-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="sBV037C6b4hhOkvPHdRb-1" source="3zWsdEyASRY6wj4_2gJ7-39" target="lCsYP--YghJ_NPWnHZ33-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="e-r0mLJ0Z7q3ZbqwJKRv-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="sBV037C6b4hhOkvPHdRb-1" source="3zWsdEyASRY6wj4_2gJ7-39" target="e-r0mLJ0Z7q3ZbqwJKRv-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-r0mLJ0Z7q3ZbqwJKRv-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="sBV037C6b4hhOkvPHdRb-1" source="3zWsdEyASRY6wj4_2gJ7-39" target="e-r0mLJ0Z7q3ZbqwJKRv-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3zWsdEyASRY6wj4_2gJ7-39" value="HYPOTHEEK-GEVER(s)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;" vertex="1" parent="sBV037C6b4hhOkvPHdRb-1">
           <mxGeometry x="1415.996748046875" y="617" width="120" height="60" as="geometry" />
         </mxCell>
@@ -480,10 +489,10 @@
         <mxCell id="lCsYP--YghJ_NPWnHZ33-1" value="HYPOTHEEKGEVER&lt;br&gt;BLIJFT&lt;br&gt;(niet wijzigen)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;dashed=1;" vertex="1" parent="sBV037C6b4hhOkvPHdRb-1">
           <mxGeometry x="1823.996748046875" y="616" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lCsYP--YghJ_NPWnHZ33-2" value="&lt;span style=&quot;font-size: 11px&quot;&gt;HYPOTHEKGEVER&lt;br&gt;BEINDIGEN:&lt;br&gt;ONTSLAAN&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="sBV037C6b4hhOkvPHdRb-1">
+        <mxCell id="lCsYP--YghJ_NPWnHZ33-2" value="&lt;span style=&quot;font-size: 11px&quot;&gt;HYPOTHEKGEVER&lt;br&gt;BEINDIGEN:&lt;br&gt;&lt;b&gt;ONTSLAAN&lt;/b&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="sBV037C6b4hhOkvPHdRb-1">
           <mxGeometry x="1542.996748046875" y="767" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lCsYP--YghJ_NPWnHZ33-3" value="&lt;span style=&quot;font-weight: normal&quot;&gt;HYPOTHEEKGEVER WIJZIGEN:&lt;/span&gt;&lt;br&gt;WIJZIGEN&lt;br&gt;PERSOONSGEGEVENS" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="sBV037C6b4hhOkvPHdRb-1">
+        <mxCell id="lCsYP--YghJ_NPWnHZ33-3" value="&lt;span style=&quot;font-weight: normal&quot;&gt;HYPOTHEEKGEVER WIJZIGEN:&lt;/span&gt;&lt;br&gt;AANPASSEN&lt;br&gt;PERSOONSGEGEVENS" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="sBV037C6b4hhOkvPHdRb-1">
           <mxGeometry x="1542.996748046875" y="692" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9VHHPXpKW6GHZCJ_P4O3-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="sBV037C6b4hhOkvPHdRb-1" source="5k-05u9kvM7ytH_9gFjt-2" target="9VHHPXpKW6GHZCJ_P4O3-17">
@@ -617,6 +626,15 @@
         </mxCell>
         <mxCell id="e-r0mLJ0Z7q3ZbqwJKRv-18" value="ONDERPAND&lt;br&gt;OBJECT&lt;br&gt;NIET WIJZIGEN" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;dashed=1;" vertex="1" parent="sBV037C6b4hhOkvPHdRb-1">
           <mxGeometry x="1817.996748046874" y="14" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e-r0mLJ0Z7q3ZbqwJKRv-20" value="&lt;span style=&quot;font-weight: normal&quot;&gt;HYPOTHEEK WIJZIGEN:&lt;/span&gt;&lt;br&gt;AANPASSEN&lt;br&gt;TARIEFKLASSE\RENTE" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="sBV037C6b4hhOkvPHdRb-1">
+          <mxGeometry x="1667.9967480468738" y="-362" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e-r0mLJ0Z7q3ZbqwJKRv-22" value="&lt;span style=&quot;font-weight: normal&quot;&gt;HYPOTHEEKGEVER WIJZIGEN:&lt;/span&gt;&lt;br&gt;AANWIJZEN&lt;br&gt;DEBITEUR" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="sBV037C6b4hhOkvPHdRb-1">
+          <mxGeometry x="1682.996748046875" y="692" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e-r0mLJ0Z7q3ZbqwJKRv-23" value="&lt;span style=&quot;font-weight: normal&quot;&gt;HYPOTHEEKGEVER WIJZIGEN:&lt;/span&gt;&lt;br&gt;AANWIJZEN&lt;br&gt;DEPOTHOUDER" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="sBV037C6b4hhOkvPHdRb-1">
+          <mxGeometry x="1823.996748046875" y="692" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
