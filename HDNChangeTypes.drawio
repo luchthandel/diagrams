@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-18T12:20:36.596Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="M6AVkRT7XXpTGWNo4_Bq" version="12.8.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-03-18T12:24:01.508Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="N6Y74HkuY9l4FAEQbOSm" version="12.8.5" type="github" pages="7">
   <diagram id="U2Q95i_eIYNvRnpjLNzL" name="Mutaties">
     <mxGraphModel dx="2951" dy="1101" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -536,6 +536,33 @@
         </mxCell>
         <mxCell id="9VHHPXpKW6GHZCJ_P4O3-41" value="HYPOTHEEK&lt;br&gt;DEKKING&lt;br&gt;VOORTZETTEN&lt;br&gt;(niet wijzigen)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;dashed=1;" vertex="1" parent="sBV037C6b4hhOkvPHdRb-1">
           <mxGeometry x="1817.996748046874" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="frbWhf_fVvLi17VmyzUv-0" value="OBJECT" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="sBV037C6b4hhOkvPHdRb-1">
+          <mxGeometry x="2653.996748046875" y="2419" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="frbWhf_fVvLi17VmyzUv-1" value="ONDERPAND" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;" vertex="1" parent="sBV037C6b4hhOkvPHdRb-1">
+          <mxGeometry x="2528.9967480468745" y="2297" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="frbWhf_fVvLi17VmyzUv-2" value="Wijzigen (totale) onderpand (markt/woz) waarde&lt;br&gt;alle objecten" style="text;html=1;" vertex="1" parent="sBV037C6b4hhOkvPHdRb-1">
+          <mxGeometry x="2784" y="2366" width="307" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="frbWhf_fVvLi17VmyzUv-3" value="Wijzigen object (markt/woz) waarde&lt;br&gt;Per object" style="text;html=1;" vertex="1" parent="sBV037C6b4hhOkvPHdRb-1">
+          <mxGeometry x="2903" y="2499" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="frbWhf_fVvLi17VmyzUv-4" value="&lt;span style=&quot;font-size: 11px&quot;&gt;OBJECT&lt;br&gt;AFVOEREN:&lt;br&gt;&lt;b&gt;VERWIJDEREN&lt;/b&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="sBV037C6b4hhOkvPHdRb-1">
+          <mxGeometry x="2681.996748046875" y="2608" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="frbWhf_fVvLi17VmyzUv-5" value="OBJECT&lt;br&gt;TOEVOEGEN:&lt;br&gt;&lt;b&gt;NIEUW&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="sBV037C6b4hhOkvPHdRb-1">
+          <mxGeometry x="2909.996748046875" y="2612" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="frbWhf_fVvLi17VmyzUv-6" value="OBJECT WIJZIGEN:&lt;br&gt;&lt;b&gt;AANPASSEN&lt;br&gt;WAARDE&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="sBV037C6b4hhOkvPHdRb-1">
+          <mxGeometry x="2436.9967480468745" y="2631" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="frbWhf_fVvLi17VmyzUv-8" value="OBJECT WIJZIGEN:&lt;br&gt;&lt;b&gt;AANPASSEN&lt;br&gt;ADRES/PERCEEL&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="sBV037C6b4hhOkvPHdRb-1">
+          <mxGeometry x="2440.9967480468745" y="2711" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="frbWhf_fVvLi17VmyzUv-9" value="ONDERPAND WIJZIGEN:&lt;br&gt;&lt;b&gt;AANPASSEN&lt;br&gt;WAARDE&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="sBV037C6b4hhOkvPHdRb-1">
+          <mxGeometry x="2426.9967480468745" y="2464" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
