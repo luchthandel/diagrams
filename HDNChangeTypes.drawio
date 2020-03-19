@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-03-19T10:37:17.432Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="dsPeCWHW2NNR5pAHkCya" version="12.8.8" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-03-19T10:49:51.039Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="G9PBDRaXYeUNYBwACSeb" version="12.8.8" type="github" pages="7">
   <diagram id="U2Q95i_eIYNvRnpjLNzL" name="Mutaties">
-    <mxGraphModel dx="7072" dy="3923" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="3235" dy="2448" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="sBV037C6b4hhOkvPHdRb-0" />
         <mxCell id="sBV037C6b4hhOkvPHdRb-1" parent="sBV037C6b4hhOkvPHdRb-0" />
@@ -710,7 +710,7 @@
         <mxCell id="1-ymrVDmYRzaBMF7XA1s-3" value="DEPOT&lt;br&gt;VOORTZETTEN&lt;br&gt;(niet wijzigen)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;dashed=1;" parent="sBV037C6b4hhOkvPHdRb-1" vertex="1">
           <mxGeometry x="1814.9967480468752" y="2488" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1-ymrVDmYRzaBMF7XA1s-4" value="DEPOT&lt;br&gt;TOEVOEGEN:&lt;br&gt;&lt;b&gt;NIEUW&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="sBV037C6b4hhOkvPHdRb-1" vertex="1">
+        <mxCell id="1-ymrVDmYRzaBMF7XA1s-4" value="DEPOT&lt;br&gt;TOEVOEGEN:&lt;br&gt;&lt;b&gt;NIEUW/BOUWDEPOT&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="sBV037C6b4hhOkvPHdRb-1" vertex="1">
           <mxGeometry x="1404.9967480468754" y="2864" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9VHHPXpKW6GHZCJ_P4O3-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="sBV037C6b4hhOkvPHdRb-1" source="9VHHPXpKW6GHZCJ_P4O3-38" target="9VHHPXpKW6GHZCJ_P4O3-41" edge="1">
@@ -1067,6 +1067,12 @@
         </mxCell>
         <mxCell id="I51SNiGZchMB3mqvSmT7-18" value="Lening\rente mutaties&lt;br&gt;&lt;span style=&quot;font-weight: 400 ; white-space: nowrap&quot;&gt;Aanpassingen mbt rente en tariefklasse&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="sBV037C6b4hhOkvPHdRb-1">
           <mxGeometry x="2347.000000000001" y="-787" width="157" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I51SNiGZchMB3mqvSmT7-20" value="&lt;span style=&quot;font-size: 11px&quot;&gt;DEPOT&lt;br&gt;BEINDIGEN:&lt;br&gt;&lt;b&gt;VOORTIJDIG&lt;br&gt;BEEINDIGEN&lt;/b&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="sBV037C6b4hhOkvPHdRb-1">
+          <mxGeometry x="1807.9967480468733" y="2789" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I51SNiGZchMB3mqvSmT7-21" value="DEPOT&lt;br&gt;TOEVOEGEN:&lt;br&gt;&lt;b&gt;NIEUW/ENERGIEDEPOT&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="sBV037C6b4hhOkvPHdRb-1">
+          <mxGeometry x="1540.9967480468754" y="2864" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
