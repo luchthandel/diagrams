@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-03-19T11:18:12.362Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="Y107KuwjP4OBTvntoYtN" version="12.8.8" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-03-19T13:28:34.279Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="HTGqr0UUr6bcdLA5DlAM" version="12.8.8" type="github" pages="7">
   <diagram id="U2Q95i_eIYNvRnpjLNzL" name="Mutaties">
-    <mxGraphModel dx="3235" dy="2448" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="3235" dy="2425" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="sBV037C6b4hhOkvPHdRb-0" />
         <mxCell id="sBV037C6b4hhOkvPHdRb-1" parent="sBV037C6b4hhOkvPHdRb-0" />
@@ -477,7 +477,7 @@
         <mxCell id="eSj8K3iGuysWfuUobkDv-12" value="LENINGDEEL&lt;br&gt;TOEVOEGEN:&lt;br&gt;&lt;b&gt;NIEUW/GESPLITST&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="sBV037C6b4hhOkvPHdRb-1" vertex="1">
           <mxGeometry x="1539.9967480468733" y="1443" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eSj8K3iGuysWfuUobkDv-13" value="LENINGDEEL&lt;br&gt;WIJZIGEN:&lt;br&gt;&lt;b&gt;OMZETTEN&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="sBV037C6b4hhOkvPHdRb-1" vertex="1">
+        <mxCell id="eSj8K3iGuysWfuUobkDv-13" value="LENINGDEEL&lt;br&gt;WIJZIGEN:&lt;br&gt;&lt;b&gt;OMZETTEN&lt;/b&gt;&lt;br&gt;&lt;b&gt;(WijzigenAflosvorm)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="sBV037C6b4hhOkvPHdRb-1" vertex="1">
           <mxGeometry x="1673.996748046874" y="1746" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eSj8K3iGuysWfuUobkDv-14" value="&lt;span style=&quot;font-size: 11px&quot;&gt;LENINGDEEL&lt;br&gt;&lt;/span&gt;BEINDIGEN&lt;br&gt;&lt;b&gt;AFLOSSEN&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="sBV037C6b4hhOkvPHdRb-1" vertex="1">
@@ -1100,6 +1100,12 @@
         </mxCell>
         <mxCell id="I51SNiGZchMB3mqvSmT7-34" value="&lt;span style=&quot;font-weight: normal&quot;&gt;HYPOTHEEK WIJZIGEN:&lt;/span&gt;&lt;br&gt;TOESTEMMING&amp;nbsp;&lt;br&gt;VERKOOP+VERLIES" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="sBV037C6b4hhOkvPHdRb-1">
           <mxGeometry x="974.9967480468747" y="-717" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I51SNiGZchMB3mqvSmT7-36" value="&lt;span style=&quot;font-weight: 400&quot;&gt;HYPOTHEEK WIJZIGEN:&lt;/span&gt;&lt;br&gt;AANPASSEN&lt;br&gt;INCASSO" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="sBV037C6b4hhOkvPHdRb-1">
+          <mxGeometry x="991.9967480468745" y="-1089" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I51SNiGZchMB3mqvSmT7-37" value="&lt;span style=&quot;font-weight: normal&quot;&gt;HYPOTHEEKGEVER WIJZIGEN:&lt;/span&gt;&lt;br&gt;AANPASSEN&lt;br&gt;ADRESGEGEVENS" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="sBV037C6b4hhOkvPHdRb-1">
+          <mxGeometry x="2082.996748046873" y="766" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
