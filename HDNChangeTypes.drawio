@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-19T10:49:51.039Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="G9PBDRaXYeUNYBwACSeb" version="12.8.8" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-03-19T10:58:15.307Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="VQerNY4ckrag3EBKE6ie" version="12.8.8" type="github" pages="7">
   <diagram id="U2Q95i_eIYNvRnpjLNzL" name="Mutaties">
     <mxGraphModel dx="3235" dy="2448" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -549,7 +549,7 @@
         <mxCell id="3zWsdEyASRY6wj4_2gJ7-3" value="LENINGDEEL&lt;br&gt;WIJZIGEN:&lt;br&gt;&lt;b&gt;VASTZETTEN VARIABELE RENTE&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="sBV037C6b4hhOkvPHdRb-1" vertex="1">
           <mxGeometry x="1673.996748046874" y="1821" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3zWsdEyASRY6wj4_2gJ7-4" value="LENINGDEEL&lt;br&gt;WIJZIGEN:&lt;br&gt;&lt;b&gt;OMZETTEN NAAR MARKT RENTE&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="sBV037C6b4hhOkvPHdRb-1" vertex="1">
+        <mxCell id="3zWsdEyASRY6wj4_2gJ7-4" value="LENINGDEEL&lt;br&gt;WIJZIGEN:&lt;br&gt;&lt;b&gt;OMZETTEN NAAR MARKTRENTE&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="sBV037C6b4hhOkvPHdRb-1" vertex="1">
           <mxGeometry x="1814.9967480468747" y="1821" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3zWsdEyASRY6wj4_2gJ7-5" value="LENINGDEEL&lt;br&gt;WIJZIGEN:&lt;br&gt;&lt;b&gt;AANPASSEN RENTEVASTPERIODE&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="sBV037C6b4hhOkvPHdRb-1" vertex="1">
@@ -1035,8 +1035,8 @@
         <mxCell id="I51SNiGZchMB3mqvSmT7-5" value="&lt;b&gt;Koppelen nieuwe\andere dekking&lt;/b&gt;&lt;br&gt;Een nieuwe dekking (polis/rekening/contract) koppelen&lt;br&gt;(verpanden) aan leningdeel. Kan ook een omzetting, of&lt;br&gt;fiscaal geruisloze voortzetting zijn (van externe polis)" style="text;html=1;align=left;" vertex="1" parent="sBV037C6b4hhOkvPHdRb-1">
           <mxGeometry x="2347" y="2412.5" width="226.5" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="I51SNiGZchMB3mqvSmT7-6" value="&lt;b&gt;Vervangen huidige dekking&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;br&gt;(verzekering/contract/rekening) wegens&lt;br&gt;omzetting of voortzetting nieuwe/andere&lt;br&gt;dekking.." style="text;html=1;align=left;" vertex="1" parent="sBV037C6b4hhOkvPHdRb-1">
-          <mxGeometry x="2347" y="2037" width="226.5" height="50" as="geometry" />
+        <mxCell id="I51SNiGZchMB3mqvSmT7-6" value="&lt;b&gt;Vervangen huidige dekking&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;br&gt;(verzekering/contract/rekening) wegens&lt;br&gt;omzetting of voortzetting nieuwe/andere&lt;br&gt;dekking.. Bijv. fiscaal geruisloze omzetting naar bankspaar" style="text;html=1;align=left;" vertex="1" parent="sBV037C6b4hhOkvPHdRb-1">
+          <mxGeometry x="2347" y="2037" width="369" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I51SNiGZchMB3mqvSmT7-7" value="&lt;b&gt;Aanpassen gegevens&lt;/b&gt;&lt;br&gt;Wijzigen gegevens van een gekoppelde&lt;br&gt;verzekering/contract/rekening" style="text;html=1;align=left;" vertex="1" parent="sBV037C6b4hhOkvPHdRb-1">
           <mxGeometry x="2347" y="2121" width="226.5" height="41" as="geometry" />
@@ -1073,6 +1073,15 @@
         </mxCell>
         <mxCell id="I51SNiGZchMB3mqvSmT7-21" value="DEPOT&lt;br&gt;TOEVOEGEN:&lt;br&gt;&lt;b&gt;NIEUW/ENERGIEDEPOT&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="sBV037C6b4hhOkvPHdRb-1">
           <mxGeometry x="1540.9967480468754" y="2864" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I51SNiGZchMB3mqvSmT7-23" value="&lt;span style=&quot;font-size: 11px&quot;&gt;LENINGDEEL&lt;br&gt;&lt;/span&gt;BEINDIGEN&lt;br&gt;&lt;b&gt;TOTALE.AFLOSSING&lt;br&gt;OVERBRUGGING&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="sBV037C6b4hhOkvPHdRb-1">
+          <mxGeometry x="2218.996748046875" y="1594" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I51SNiGZchMB3mqvSmT7-25" value="&lt;span style=&quot;font-size: 11px&quot;&gt;LENINGDEEL&lt;br&gt;WIJZIGEN&lt;b&gt;:&lt;br&gt;OPNEMEN/STORTEN&lt;br&gt;AKH?&lt;/b&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="sBV037C6b4hhOkvPHdRb-1">
+          <mxGeometry x="1814.9967480468747" y="1892" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I51SNiGZchMB3mqvSmT7-26" value="LENINGDEEL&lt;br&gt;WIJZIGEN:&lt;br&gt;&lt;b&gt;RENTEMIDDELEN&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="sBV037C6b4hhOkvPHdRb-1">
+          <mxGeometry x="2218.996748046875" y="1822" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
