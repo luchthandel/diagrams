@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-23T11:03:51.528Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.69 Safari/537.36 Edg/81.0.416.34" etag="mKI9ge5hj7KRa4EKOMPd" version="12.8.8" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-03-23T11:12:53.747Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.69 Safari/537.36 Edg/81.0.416.34" etag="oVhtDaxKW4IqJ4n9x5rl" version="12.8.8" type="github" pages="7">
   <diagram id="U2Q95i_eIYNvRnpjLNzL" name="Mutaties">
     <mxGraphModel dx="2431" dy="2561" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -582,7 +582,7 @@
         <mxCell id="3zWsdEyASRY6wj4_2gJ7-18" value="&lt;b&gt;Wijzigen leningdeel aflosvorm&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;white-space: normal&quot;&gt;Aflosvorm aanpassen en evt. leningdeel (proresto) splitsen&lt;/span&gt;" style="text;html=1;fontStyle=0;align=left;" parent="sBV037C6b4hhOkvPHdRb-1" vertex="1">
           <mxGeometry x="2346.9999999999986" y="1753" width="206" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="3zWsdEyASRY6wj4_2gJ7-19" value="&lt;b&gt;Wijzigen leningdeel rente(-vast) en tariefklasse&lt;/b&gt;&amp;nbsp;&lt;br&gt;Aanpassen tariefklasse, rente en rentevast periode&lt;br&gt;&lt;span style=&quot;text-indent: -24px ; white-space: normal ; background-color: rgb(255 , 255 , 255)&quot;&gt;Voor premierelevante leningdelen waarbij na tariefklasse aanpassing de rente niet automatisch wordt aangepast&lt;/span&gt;" style="text;html=1;fontStyle=0;align=left;" parent="sBV037C6b4hhOkvPHdRb-1" vertex="1">
+        <mxCell id="3zWsdEyASRY6wj4_2gJ7-19" value="&lt;b&gt;Aanpassen Rente&lt;br&gt;&lt;/b&gt;Aanpassen tariefklasse, rente en rentevast periode&lt;br&gt;&lt;span style=&quot;text-indent: -24px ; white-space: normal ; background-color: rgb(255 , 255 , 255)&quot;&gt;Voor premierelevante leningdelen waarbij na tariefklasse aanpassing de rente niet automatisch wordt aangepast&lt;/span&gt;" style="text;html=1;fontStyle=0;align=left;" parent="sBV037C6b4hhOkvPHdRb-1" vertex="1">
           <mxGeometry x="2347.000000000001" y="1814" width="290" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lCsYP--YghJ_NPWnHZ33-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="sBV037C6b4hhOkvPHdRb-1" source="3zWsdEyASRY6wj4_2gJ7-39" target="lCsYP--YghJ_NPWnHZ33-1" edge="1">
@@ -782,7 +782,7 @@
         <mxCell id="e-r0mLJ0Z7q3ZbqwJKRv-0" value="&lt;p&gt;&lt;span style=&quot;font-weight: 400 ; text-indent: -24px ; background-color: rgb(255 , 255 , 255)&quot;&gt;R&lt;/span&gt;&lt;span style=&quot;text-indent: -24px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;b&gt;ente aanpassen aan tariefklasse&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" parent="sBV037C6b4hhOkvPHdRb-1" vertex="1">
           <mxGeometry x="2347.000000000001" y="1523.5" width="323" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="e-r0mLJ0Z7q3ZbqwJKRv-1" value="LENINGDEEL&lt;br&gt;WIJZIGEN:&lt;br&gt;&lt;b&gt;AANPASSEN RENTE/TARIEFKLASSE&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="sBV037C6b4hhOkvPHdRb-1" vertex="1">
+        <mxCell id="e-r0mLJ0Z7q3ZbqwJKRv-1" value="LENINGDEEL&lt;br&gt;WIJZIGEN:&lt;br&gt;&lt;b&gt;AANPASSEN RENTE=TARIEFKLASSE&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="sBV037C6b4hhOkvPHdRb-1" vertex="1">
           <mxGeometry x="2090.9967480468736" y="1821" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e-r0mLJ0Z7q3ZbqwJKRv-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="sBV037C6b4hhOkvPHdRb-1" source="frbWhf_fVvLi17VmyzUv-0" target="frbWhf_fVvLi17VmyzUv-6" edge="1">
@@ -1195,7 +1195,7 @@
           <mxGeometry x="1000.9967480468745" y="-743" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0zCFnOb6ReJKbU7TInm5-6" value="LENINGDEEL&lt;br&gt;TARIEFKLASSE" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="sBV037C6b4hhOkvPHdRb-1">
-          <mxGeometry x="1404.9967480468745" y="1629" width="120" height="60" as="geometry" />
+          <mxGeometry x="1026.9967480468745" y="1618" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0zCFnOb6ReJKbU7TInm5-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="sBV037C6b4hhOkvPHdRb-1" source="0zCFnOb6ReJKbU7TInm5-8" target="0zCFnOb6ReJKbU7TInm5-9">
           <mxGeometry relative="1" as="geometry" />
@@ -1219,13 +1219,28 @@
           <mxGeometry x="1186" y="3111" width="105" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0zCFnOb6ReJKbU7TInm5-20" value="LENINGDEEL&lt;br&gt;INCASSO AFSPRAAK" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="sBV037C6b4hhOkvPHdRb-1">
-          <mxGeometry x="1404.9967480468745" y="1698" width="120" height="60" as="geometry" />
+          <mxGeometry x="1026.9967480468745" y="1687" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0zCFnOb6ReJKbU7TInm5-21" value="Aanvragen &lt;br&gt;Verhoging" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="sBV037C6b4hhOkvPHdRb-1">
           <mxGeometry x="1186" y="2958" width="141" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0zCFnOb6ReJKbU7TInm5-23" value="LENINGDEEL&lt;br&gt;RENTEVAST&lt;br&gt;PERIODE" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="sBV037C6b4hhOkvPHdRb-1">
-          <mxGeometry x="1398.9967480468745" y="1775" width="120" height="60" as="geometry" />
+          <mxGeometry x="1020.9967480468745" y="1764" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0zCFnOb6ReJKbU7TInm5-24" value="&lt;span style=&quot;font-weight: normal&quot;&gt;HYPOTHEEK WIJZIGEN:&lt;/span&gt;&lt;br&gt;HERZIEN&lt;br&gt;RENTEVASTPERIODE" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="sBV037C6b4hhOkvPHdRb-1">
+          <mxGeometry x="1811.9967480468742" y="-803" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0zCFnOb6ReJKbU7TInm5-25" value="Aanpassen Rente" style="text;html=1;" vertex="1" parent="sBV037C6b4hhOkvPHdRb-1">
+          <mxGeometry x="1413.9964705882355" y="1833.9958823529414" width="115" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="0zCFnOb6ReJKbU7TInm5-26" value="Omzetten Leningdeel" style="text;html=1;" vertex="1" parent="sBV037C6b4hhOkvPHdRb-1">
+          <mxGeometry x="1410.4964705882355" y="1761.9958823529414" width="115" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="0zCFnOb6ReJKbU7TInm5-27" value="Aanpassen Looptijd" style="text;html=1;" vertex="1" parent="sBV037C6b4hhOkvPHdRb-1">
+          <mxGeometry x="1413.9964705882355" y="1684.9958823529414" width="115" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="0zCFnOb6ReJKbU7TInm5-28" value="Aanpassen Leenbedrag" style="text;html=1;" vertex="1" parent="sBV037C6b4hhOkvPHdRb-1">
+          <mxGeometry x="1407.4964705882355" y="1610.9958823529414" width="115" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
