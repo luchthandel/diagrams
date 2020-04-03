@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-03T12:06:36.509Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.83 Safari/537.36 Edg/81.0.416.41" etag="Mz9vuZRGHJ5SeOPFFzVi" version="12.9.6" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-04-03T12:11:01.108Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.83 Safari/537.36 Edg/81.0.416.41" etag="xlTMXUGcIqeXZZCZTXxK" version="12.9.6" type="github" pages="8">
   <diagram id="o6DXPlxMXwV910LR9hnJ" name="Epic Context Toets">
     <mxGraphModel dx="3235" dy="1598" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1765,10 +1765,10 @@
         <mxCell id="cvNYlD-6hTDbq5myJxM9-9" value="&lt;div&gt;&lt;span style=&quot;font-size: 10px ; font-weight: 400&quot;&gt;Send SX OHA&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;verticalAlign=middle;align=center;fontStyle=1;strokeColor=#000000;fontColor=#000000;fillColor=#00B050;" vertex="1" parent="hZotDE2XY2DxPxalHAqO-1">
           <mxGeometry x="864" y="469" width="83.5" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="cvNYlD-6hTDbq5myJxM9-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#FF0000;strokeWidth=2;fontColor=#000000;" edge="1" parent="hZotDE2XY2DxPxalHAqO-1" source="cvNYlD-6hTDbq5myJxM9-9">
+        <mxCell id="cvNYlD-6hTDbq5myJxM9-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#FF0000;strokeWidth=2;fontColor=#000000;" edge="1" parent="hZotDE2XY2DxPxalHAqO-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="892" y="363.0000000000002" as="sourcePoint" />
-            <mxPoint x="906" y="238" as="targetPoint" />
+            <mxPoint x="905.75" y="467" as="sourcePoint" />
+            <mxPoint x="906" y="236" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cvNYlD-6hTDbq5myJxM9-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#FF0000;strokeWidth=2;fontColor=#000000;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="hZotDE2XY2DxPxalHAqO-1">
@@ -1776,6 +1776,18 @@
             <mxPoint x="772" y="466.5" as="sourcePoint" />
             <mxPoint x="772.25" y="235.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="cvNYlD-6hTDbq5myJxM9-12" value="&lt;div&gt;&lt;span style=&quot;font-size: 10px ; font-weight: 400&quot;&gt;Send BX OHA&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;verticalAlign=middle;align=center;fontStyle=1;strokeColor=#000000;fontColor=#000000;fillColor=#00B050;" vertex="1" parent="hZotDE2XY2DxPxalHAqO-1">
+          <mxGeometry x="705.5" y="228" width="83.5" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="cvNYlD-6hTDbq5myJxM9-13" value="&lt;div&gt;&lt;span style=&quot;font-size: 10px ; font-weight: 400&quot;&gt;Receive SX OHA&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;verticalAlign=middle;align=center;fontStyle=1;strokeColor=#000000;fontColor=#000000;fillColor=#00B050;" vertex="1" parent="hZotDE2XY2DxPxalHAqO-1">
+          <mxGeometry x="887.51" y="230" width="83.5" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="cvNYlD-6hTDbq5myJxM9-14" value="&lt;div&gt;&lt;span style=&quot;font-size: 10px ; font-weight: 400&quot;&gt;Send IA&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;verticalAlign=middle;align=center;fontStyle=1;strokeColor=#000000;fontColor=#000000;fillColor=#00B050;" vertex="1" parent="hZotDE2XY2DxPxalHAqO-1">
+          <mxGeometry x="704.01" y="192" width="83.5" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="cvNYlD-6hTDbq5myJxM9-15" value="&lt;div&gt;&lt;span style=&quot;font-size: 10px ; font-weight: 400&quot;&gt;Receive IX&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;verticalAlign=middle;align=center;fontStyle=1;strokeColor=#000000;fontColor=#000000;fillColor=#00B050;" vertex="1" parent="hZotDE2XY2DxPxalHAqO-1">
+          <mxGeometry x="892" y="192" width="83.5" height="17" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
