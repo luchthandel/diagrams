@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-06T06:59:07.031Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Safari/537.36 Edg/80.0.361.109" etag="8dPHji_yuIFJFiRm6Gy5" version="12.9.8" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-04-06T07:00:44.965Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Safari/537.36 Edg/80.0.361.109" etag="SU4KD39Nh9621Xe5x1nh" version="12.9.8" type="github" pages="8">
   <diagram id="o6DXPlxMXwV910LR9hnJ" name="Epic Context Toets">
     <mxGraphModel dx="3235" dy="1594" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1495,7 +1495,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="EIAM: BX Flow" id="ueHB-S1KoOfCe9dQxTa2">
-    <mxGraphModel dx="3235" dy="1594" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2066" dy="1594" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="hZotDE2XY2DxPxalHAqO-0" />
         <mxCell id="hZotDE2XY2DxPxalHAqO-1" parent="hZotDE2XY2DxPxalHAqO-0" />
@@ -1652,9 +1652,6 @@
         <mxCell id="MczvcWc-RaQncal6kNNB-22" value="Out-of-scope" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FF3333;fontSize=11;" parent="hZotDE2XY2DxPxalHAqO-1" vertex="1">
           <mxGeometry x="917.51" y="163" width="100" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="MczvcWc-RaQncal6kNNB-31" value="&lt;b&gt;&amp;lt; / &amp;gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="hZotDE2XY2DxPxalHAqO-1" vertex="1">
-          <mxGeometry x="-302" y="261" width="40" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="MczvcWc-RaQncal6kNNB-38" value="" style="group" parent="hZotDE2XY2DxPxalHAqO-1" vertex="1" connectable="0">
           <mxGeometry x="797" y="235" width="83.5" height="41" as="geometry" />
         </mxCell>
@@ -1687,15 +1684,6 @@
         </mxCell>
         <mxCell id="MczvcWc-RaQncal6kNNB-68" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 11px&quot;&gt;c&lt;br style=&quot;font-size: 11px&quot;&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#7030A0;verticalAlign=bottom;textDirection=ltr;fontSize=11;fontStyle=1;strokeColor=#7030A0;" parent="MczvcWc-RaQncal6kNNB-43" vertex="1">
           <mxGeometry x="-6" y="8" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="MczvcWc-RaQncal6kNNB-48" value="" style="group" parent="hZotDE2XY2DxPxalHAqO-1" vertex="1" connectable="0">
-          <mxGeometry x="-239.75" y="216" width="83.5" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="MczvcWc-RaQncal6kNNB-46" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Storage__Content_Delivery_Amazon_S3_Bucket_with_Objects-128.png;fillColor=#FF3333;fontColor=#000000;" parent="MczvcWc-RaQncal6kNNB-48" vertex="1">
-          <mxGeometry x="22.75" y="14" width="38" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="MczvcWc-RaQncal6kNNB-47" value="&lt;div&gt;&lt;span style=&quot;font-size: 10px ; font-weight: 400&quot;&gt;S3 Bucket&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;verticalAlign=middle;align=center;fontStyle=1;strokeColor=#000000;fontColor=#000000;fillColor=#0070C0;" parent="MczvcWc-RaQncal6kNNB-48" vertex="1">
-          <mxGeometry width="83.5" height="17" as="geometry" />
         </mxCell>
         <mxCell id="MczvcWc-RaQncal6kNNB-51" value="" style="group" parent="hZotDE2XY2DxPxalHAqO-1" vertex="1" connectable="0">
           <mxGeometry x="593" y="325" width="83.5" height="52" as="geometry" />
@@ -1837,6 +1825,9 @@
         </mxCell>
         <mxCell id="Q9DQMlCj1NfBcEgVPT1F-14" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 11px&quot;&gt;c&lt;br style=&quot;font-size: 11px&quot;&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#7030A0;verticalAlign=bottom;textDirection=ltr;fontSize=11;fontStyle=1;strokeColor=#7030A0;" vertex="1" parent="Q9DQMlCj1NfBcEgVPT1F-6">
           <mxGeometry x="72" y="88" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9DQMlCj1NfBcEgVPT1F-15" value="&lt;div&gt;&lt;span style=&quot;font-size: 10px ; font-weight: 400&quot;&gt;Send OX OHA&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;verticalAlign=middle;align=center;fontStyle=1;strokeColor=#000000;fontColor=#000000;fillColor=#FFFF00;" vertex="1" parent="hZotDE2XY2DxPxalHAqO-1">
+          <mxGeometry x="864" y="529" width="83.5" height="17" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
