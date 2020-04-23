@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-23T08:39:57.874Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36 Edg/81.0.416.62" etag="j1ZcKgnVu2VMcbaeq8zW" version="13.0.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-04-23T10:32:19.069Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36 Edg/81.0.416.62" etag="POEtbF1rHo0tKgx1CRBS" version="13.0.1" type="github" pages="8">
   <diagram name="Epic Context BX" id="DSy3QqIJWJwCsPCJKM30">
     <mxGraphModel dx="3235" dy="1628" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -3399,7 +3399,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MBLiamdAgmtIjl82X5ms-116" value="&lt;b&gt;Beheer Proces&lt;br&gt;&lt;/b&gt;(BeheerVerzoek -&amp;gt; a.k.a. &#39;het beheerproces&#39;)" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;dashed=1;align=center;" parent="MBLiamdAgmtIjl82X5ms-1" vertex="1">
+        <mxCell id="MBLiamdAgmtIjl82X5ms-116" value="&lt;b&gt;Bedrijfsproces &quot;Beheren hypotheek&quot;&lt;br&gt;&lt;/b&gt;(BeheerVerzoek -&amp;gt; a.k.a. &#39;het beheerproces&#39;)" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;dashed=1;align=center;" parent="MBLiamdAgmtIjl82X5ms-1" vertex="1">
           <mxGeometry x="2380" y="478.5" width="360" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MBLiamdAgmtIjl82X5ms-121" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="MBLiamdAgmtIjl82X5ms-1" source="MBLiamdAgmtIjl82X5ms-117" target="MBLiamdAgmtIjl82X5ms-116" edge="1">
@@ -3549,7 +3549,7 @@
         <mxCell id="GgZNi6Bs4sswGRY8vPXG-49" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="MBLiamdAgmtIjl82X5ms-1" source="MBLiamdAgmtIjl82X5ms-179" target="GgZNi6Bs4sswGRY8vPXG-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MBLiamdAgmtIjl82X5ms-179" value="&lt;b&gt;Aanvraag bedrijfsproces&lt;br&gt;&lt;/b&gt;(OfferteVerzoek-&amp;gt; a.k.a. &#39;de aanvraagmodule&#39;)" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;dashed=1;align=center;" parent="MBLiamdAgmtIjl82X5ms-1" vertex="1">
+        <mxCell id="MBLiamdAgmtIjl82X5ms-179" value="&lt;b&gt;Bedrijfsproces &quot;Aanvragen hypotheek&quot;&lt;br&gt;&lt;/b&gt;(OfferteVerzoek-&amp;gt; a.k.a. &#39;de aanvraagmodule&#39;)" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;dashed=1;align=center;" parent="MBLiamdAgmtIjl82X5ms-1" vertex="1">
           <mxGeometry x="2380" y="338" width="360" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SaRw6pm5IAEbPPGxYZH4-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="MBLiamdAgmtIjl82X5ms-1" vertex="1">
@@ -3597,7 +3597,7 @@
         <mxCell id="GgZNi6Bs4sswGRY8vPXG-6" value="Fraude/&lt;br&gt;Krediet&lt;br&gt;Check&lt;br&gt;API" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;align=center;" vertex="1" parent="MBLiamdAgmtIjl82X5ms-1">
           <mxGeometry x="1949" y="699" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="GgZNi6Bs4sswGRY8vPXG-10" value="Status (SX)&lt;br&gt;Bericht kan niet aangenomen worden door INTAKE regels&lt;br&gt;(FEEDBACK)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MBLiamdAgmtIjl82X5ms-1">
+        <mxCell id="GgZNi6Bs4sswGRY8vPXG-10" value="Status (SX)&lt;br&gt;Bericht kan niet aangenomen worden door INTAKE of TOETS regels&lt;br&gt;(FEEDBACK)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MBLiamdAgmtIjl82X5ms-1">
           <mxGeometry x="1860" y="274" width="123.62" height="32" as="geometry" />
         </mxCell>
         <mxCell id="GgZNi6Bs4sswGRY8vPXG-14" value="Bericht kan niet aangenomen worden&lt;br&gt;door auth checks" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MBLiamdAgmtIjl82X5ms-1">
@@ -3652,10 +3652,13 @@
           <mxGeometry x="2380" y="225" width="255" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GgZNi6Bs4sswGRY8vPXG-51" value="&lt;b&gt;Verwerken MutatieVerzoek&lt;/b&gt;&lt;br&gt;Omzetten Hypotheek" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;dashed=1;align=center;" vertex="1" parent="MBLiamdAgmtIjl82X5ms-1">
-          <mxGeometry x="2740" y="610" width="230" height="80" as="geometry" />
+          <mxGeometry x="2815" y="675" width="230" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GgZNi6Bs4sswGRY8vPXG-52" value="&lt;b&gt;Verwerken MutatieVerzoek&lt;/b&gt;&lt;br&gt;Verhogen hypotheek" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;dashed=1;align=center;" vertex="1" parent="MBLiamdAgmtIjl82X5ms-1">
-          <mxGeometry x="2970" y="610" width="230" height="80" as="geometry" />
+          <mxGeometry x="2894" y="740" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GgZNi6Bs4sswGRY8vPXG-53" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; float: none ; display: inline&quot;&gt;&lt;b&gt;De wasstraat&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="MBLiamdAgmtIjl82X5ms-1">
+          <mxGeometry x="1930.25" y="379" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
