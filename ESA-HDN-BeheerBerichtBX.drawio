@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-23T07:27:02.480Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36 Edg/81.0.416.62" etag="IkdyRCQRalkus0OMfbml" version="13.0.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-04-23T07:29:12.246Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36 Edg/81.0.416.62" etag="qH0Yq-OEdOgG7q8AsqXM" version="13.0.1" type="github" pages="8">
   <diagram name="Epic Context BX" id="DSy3QqIJWJwCsPCJKM30">
     <mxGraphModel dx="3235" dy="1628" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -3369,14 +3369,6 @@
         <mxCell id="GgZNi6Bs4sswGRY8vPXG-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="MBLiamdAgmtIjl82X5ms-1" source="MBLiamdAgmtIjl82X5ms-113" target="MBLiamdAgmtIjl82X5ms-174">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GgZNi6Bs4sswGRY8vPXG-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="MBLiamdAgmtIjl82X5ms-1" source="MBLiamdAgmtIjl82X5ms-113" target="MBLiamdAgmtIjl82X5ms-112">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1311" y="500" />
-              <mxPoint x="1045" y="500" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="GgZNi6Bs4sswGRY8vPXG-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.96;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="MBLiamdAgmtIjl82X5ms-1" source="MBLiamdAgmtIjl82X5ms-113" target="MBLiamdAgmtIjl82X5ms-112">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -3596,11 +3588,11 @@
         <mxCell id="GgZNi6Bs4sswGRY8vPXG-6" value="Fraude/&lt;br&gt;Krediet&lt;br&gt;Check&lt;br&gt;API" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;align=center;" vertex="1" parent="MBLiamdAgmtIjl82X5ms-1">
           <mxGeometry x="1659" y="659" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="GgZNi6Bs4sswGRY8vPXG-10" value="Status (SX)&lt;br&gt;Bericht kan niet aangenomen worden door INTAKE regels" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MBLiamdAgmtIjl82X5ms-1">
+        <mxCell id="GgZNi6Bs4sswGRY8vPXG-10" value="Status (SX)&lt;br&gt;Bericht kan niet aangenomen worden door INTAKE regels&lt;br&gt;(FEEDBACK)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MBLiamdAgmtIjl82X5ms-1">
           <mxGeometry x="1591.13" y="248.5" width="123.62" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="GgZNi6Bs4sswGRY8vPXG-14" value="Status (SX)&lt;br&gt;Bericht kan niet aangenomen worden&lt;br&gt;door auth checks" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MBLiamdAgmtIjl82X5ms-1">
-          <mxGeometry x="1090" y="520" width="123.62" height="40" as="geometry" />
+        <mxCell id="GgZNi6Bs4sswGRY8vPXG-14" value="Bericht kan niet aangenomen worden&lt;br&gt;door auth checks" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MBLiamdAgmtIjl82X5ms-1">
+          <mxGeometry x="1106.81" y="450" width="123.62" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GgZNi6Bs4sswGRY8vPXG-17" value="Status (SX)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MBLiamdAgmtIjl82X5ms-1">
           <mxGeometry x="1133.62" y="419" width="70" height="20" as="geometry" />
@@ -3646,6 +3638,9 @@
         </mxCell>
         <mxCell id="GgZNi6Bs4sswGRY8vPXG-39" value="FHS Mutatie(s)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MBLiamdAgmtIjl82X5ms-1">
           <mxGeometry x="2320" y="242" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GgZNi6Bs4sswGRY8vPXG-43" value="Of bericht kan niet aangenomen worden door INTAKE regels&lt;br&gt;(FEEDBACK)&lt;br&gt;&lt;br&gt;Of wegens technische redenen?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MBLiamdAgmtIjl82X5ms-1">
+          <mxGeometry x="1107.06" y="508" width="123.62" height="82" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
