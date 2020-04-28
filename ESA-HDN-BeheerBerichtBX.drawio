@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-28T06:50:12.973Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36 Edg/81.0.416.64" etag="TdHXGTTYnoZOvUKAsH15" version="13.0.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-04-28T06:53:56.475Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36 Edg/81.0.416.64" etag="whl8NaCAp6hOlkzkKghl" version="13.0.2" type="github" pages="8">
   <diagram id="D7fRKJuoDMkJqX4qy3BQ" name="Page-8">
     <mxGraphModel dx="3258" dy="998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -696,7 +696,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GgZNi6Bs4sswGRY8vPXG-73" value="&lt;b&gt;Verwerken MutatieVerzoek MVP&lt;/b&gt;&lt;br&gt;OHA API on internal gateway&lt;br&gt;(GOM-&amp;gt;GIM-&amp;gt;C4L)" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;dashed=1;align=center;" parent="MBLiamdAgmtIjl82X5ms-1" vertex="1">
-          <mxGeometry x="2408" y="1134.5" width="360" height="80" as="geometry" />
+          <mxGeometry x="2408" y="1130.5" width="360" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GgZNi6Bs4sswGRY8vPXG-74" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.625;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" parent="MBLiamdAgmtIjl82X5ms-1" source="GgZNi6Bs4sswGRY8vPXG-75" target="GgZNi6Bs4sswGRY8vPXG-58" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -732,7 +732,7 @@
         <mxCell id="GgZNi6Bs4sswGRY8vPXG-127" value="HDN&lt;br&gt;Entiteiten&lt;br&gt;Model" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="MBLiamdAgmtIjl82X5ms-1" vertex="1">
           <mxGeometry x="1424.12" y="1060" width="69.5" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="GgZNi6Bs4sswGRY8vPXG-161" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="MBLiamdAgmtIjl82X5ms-1" source="GgZNi6Bs4sswGRY8vPXG-130" target="GgZNi6Bs4sswGRY8vPXG-152" edge="1">
+        <mxCell id="GgZNi6Bs4sswGRY8vPXG-161" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="MBLiamdAgmtIjl82X5ms-1" source="GgZNi6Bs4sswGRY8vPXG-130" target="TcRdmbTgtszyKYvCkmrb-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GgZNi6Bs4sswGRY8vPXG-130" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="MBLiamdAgmtIjl82X5ms-1" vertex="1">
@@ -755,7 +755,7 @@
           <mxGeometry x="2860" y="1397.5" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GgZNi6Bs4sswGRY8vPXG-139" value="Of bericht kan niet aangenomen worden door INTAKE regels&lt;br&gt;(FEEDBACK)&lt;br&gt;&lt;br&gt;Of wegens technische redenen?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="MBLiamdAgmtIjl82X5ms-1" vertex="1">
-          <mxGeometry x="1397.06" y="1268" width="123.62" height="82" as="geometry" />
+          <mxGeometry x="1397.06" y="1277" width="123.62" height="82" as="geometry" />
         </mxCell>
         <mxCell id="GgZNi6Bs4sswGRY8vPXG-147" value="Aanvraag&lt;br&gt;Module" style="rounded=0;whiteSpace=wrap;html=1;" parent="MBLiamdAgmtIjl82X5ms-1" vertex="1">
           <mxGeometry x="1570" y="926.5" width="122.5" height="119" as="geometry" />
@@ -774,11 +774,10 @@
         <mxCell id="GgZNi6Bs4sswGRY8vPXG-151" value="IX&lt;br&gt;Check" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;align=center;" parent="MBLiamdAgmtIjl82X5ms-1" vertex="1">
           <mxGeometry x="2120" y="1292" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="TcRdmbTgtszyKYvCkmrb-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="MBLiamdAgmtIjl82X5ms-1" source="GgZNi6Bs4sswGRY8vPXG-152" target="GgZNi6Bs4sswGRY8vPXG-63">
+        <mxCell id="TcRdmbTgtszyKYvCkmrb-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="MBLiamdAgmtIjl82X5ms-1" source="GgZNi6Bs4sswGRY8vPXG-152" target="GgZNi6Bs4sswGRY8vPXG-63">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2080" y="1214" />
-              <mxPoint x="2080" y="1260" />
+              <mxPoint x="2040" y="1260" />
               <mxPoint x="1662" y="1260" />
             </Array>
           </mxGeometry>
@@ -790,7 +789,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GgZNi6Bs4sswGRY8vPXG-152" value="&lt;b&gt;Intake / beheerproces&lt;br&gt;(Appian?) placeholder&lt;/b&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;dashed=1;align=center;" parent="MBLiamdAgmtIjl82X5ms-1" vertex="1">
-          <mxGeometry x="1810" y="1133.5" width="460" height="80" as="geometry" />
+          <mxGeometry x="1810" y="1129.5" width="460" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GgZNi6Bs4sswGRY8vPXG-156" value="MutatieVerzoek OHA&lt;br&gt;(synchroon in MVP)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="MBLiamdAgmtIjl82X5ms-1" vertex="1">
           <mxGeometry x="2320" y="1225" width="121.25" height="35" as="geometry" />
@@ -802,7 +801,7 @@
           <mxGeometry x="1794.8200000000002" y="1378" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GgZNi6Bs4sswGRY8vPXG-165" value="BeheerBericht&lt;br&gt;(placeholder)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="MBLiamdAgmtIjl82X5ms-1" vertex="1">
-          <mxGeometry x="1719.51" y="1134.5" width="60" height="20" as="geometry" />
+          <mxGeometry x="1760.94" y="1139" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GgZNi6Bs4sswGRY8vPXG-168" value="Toets Api" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="MBLiamdAgmtIjl82X5ms-1" vertex="1">
           <mxGeometry x="2233.75" y="1292" width="70" height="70" as="geometry" />
@@ -820,7 +819,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TcRdmbTgtszyKYvCkmrb-4" value="OHA&lt;br&gt;Api" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;align=center;" vertex="1" parent="MBLiamdAgmtIjl82X5ms-1">
-          <mxGeometry x="2320" y="1138.5" width="70" height="70" as="geometry" />
+          <mxGeometry x="2320" y="1134.5" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TcRdmbTgtszyKYvCkmrb-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="MBLiamdAgmtIjl82X5ms-1" source="TcRdmbTgtszyKYvCkmrb-6" target="GgZNi6Bs4sswGRY8vPXG-136">
           <mxGeometry relative="1" as="geometry" />
@@ -831,17 +830,26 @@
         <mxCell id="TcRdmbTgtszyKYvCkmrb-7" value="GOM&lt;br&gt;Api" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;align=center;" vertex="1" parent="MBLiamdAgmtIjl82X5ms-1">
           <mxGeometry x="2463" y="1274.5000000000002" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="TcRdmbTgtszyKYvCkmrb-12" value="Status" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MBLiamdAgmtIjl82X5ms-1">
-          <mxGeometry x="1640.69" y="1250" width="121.25" height="35" as="geometry" />
+        <mxCell id="TcRdmbTgtszyKYvCkmrb-12" value="Status Event&lt;br&gt;(op queue)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MBLiamdAgmtIjl82X5ms-1">
+          <mxGeometry x="1979.3700000000001" y="1240.5" width="121.25" height="35" as="geometry" />
         </mxCell>
         <mxCell id="TcRdmbTgtszyKYvCkmrb-13" value="(BX in intern Aegon model =&amp;nbsp; Beheerbericht)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MBLiamdAgmtIjl82X5ms-1">
-          <mxGeometry x="1699.63" y="1179" width="99.75" height="45" as="geometry" />
+          <mxGeometry x="1748.94" y="1081.5" width="99.75" height="45" as="geometry" />
         </mxCell>
         <mxCell id="TcRdmbTgtszyKYvCkmrb-15" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;helvetica&quot;&gt;Beheer &#39;Module&quot;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="MBLiamdAgmtIjl82X5ms-1">
-          <mxGeometry x="1720" y="1079" width="600" height="40" as="geometry" />
+          <mxGeometry x="1723.75" y="1080" width="546.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TcRdmbTgtszyKYvCkmrb-17" value="&lt;div&gt;&lt;font face=&quot;helvetica&quot;&gt;OHA Api MVP&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="MBLiamdAgmtIjl82X5ms-1">
           <mxGeometry x="2310" y="1084" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TcRdmbTgtszyKYvCkmrb-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="MBLiamdAgmtIjl82X5ms-1" source="TcRdmbTgtszyKYvCkmrb-21" target="GgZNi6Bs4sswGRY8vPXG-152">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TcRdmbTgtszyKYvCkmrb-21" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/LinspireClear/22x22/actions/queue.png;align=center;" vertex="1" parent="MBLiamdAgmtIjl82X5ms-1">
+          <mxGeometry x="1697.51" y="1158.5" width="22" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="TcRdmbTgtszyKYvCkmrb-22" value="HCS plaatst &#39;topic&#39; (event) op queue" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MBLiamdAgmtIjl82X5ms-1">
+          <mxGeometry x="1695.0700000000002" y="1185" width="99.75" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
