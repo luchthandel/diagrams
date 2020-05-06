@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-05-06T10:13:51.652Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36 Edg/81.0.416.68" etag="202X5lvv6jQd7BtxKMfK" version="13.0.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-05-06T13:06:37.139Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36 Edg/81.0.416.68" etag="hcDarTdbUzbezsHwRqP1" version="13.0.8" type="github" pages="8">
   <diagram id="D7fRKJuoDMkJqX4qy3BQ" name="Page-8">
-    <mxGraphModel dx="1773" dy="1723" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2252" dy="1754" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="MBLiamdAgmtIjl82X5ms-0" />
         <mxCell id="MBLiamdAgmtIjl82X5ms-1" parent="MBLiamdAgmtIjl82X5ms-0" />
@@ -851,68 +851,71 @@
         <mxCell id="TcRdmbTgtszyKYvCkmrb-22" value="HCS plaatst &#39;topic&#39; (event) op queue" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="MBLiamdAgmtIjl82X5ms-1" vertex="1">
           <mxGeometry x="1695.0700000000002" y="1185" width="99.75" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="80E8MQffoEhwXmv0Xzyw-0" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="MBLiamdAgmtIjl82X5ms-1">
+        <mxCell id="80E8MQffoEhwXmv0Xzyw-0" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="MBLiamdAgmtIjl82X5ms-1" vertex="1">
           <mxGeometry x="1843" y="-314" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="80E8MQffoEhwXmv0Xzyw-1" value="BeheerVerzoek(-en)" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=1" vertex="1" parent="MBLiamdAgmtIjl82X5ms-1">
+        <mxCell id="80E8MQffoEhwXmv0Xzyw-1" value="BeheerVerzoek(-en)" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=1" parent="MBLiamdAgmtIjl82X5ms-1" vertex="1">
           <mxGeometry x="1895" y="-370" width="484" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="80E8MQffoEhwXmv0Xzyw-2" value="InformatieVerzoek" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=1" vertex="1" parent="MBLiamdAgmtIjl82X5ms-1">
+        <mxCell id="80E8MQffoEhwXmv0Xzyw-2" value="InformatieVerzoek" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=1" parent="MBLiamdAgmtIjl82X5ms-1" vertex="1">
           <mxGeometry x="1913" y="-324" width="154" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="80E8MQffoEhwXmv0Xzyw-3" value="ToetsVerzoek" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=1" vertex="1" parent="MBLiamdAgmtIjl82X5ms-1">
+        <mxCell id="80E8MQffoEhwXmv0Xzyw-3" value="ToetsVerzoek" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=1" parent="MBLiamdAgmtIjl82X5ms-1" vertex="1">
           <mxGeometry x="2057" y="-325" width="154" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="80E8MQffoEhwXmv0Xzyw-4" value="MutatieVerzoek" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=1" vertex="1" parent="MBLiamdAgmtIjl82X5ms-1">
+        <mxCell id="80E8MQffoEhwXmv0Xzyw-4" value="MutatieVerzoek" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=1" parent="MBLiamdAgmtIjl82X5ms-1" vertex="1">
           <mxGeometry x="2200" y="-325" width="154" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="80E8MQffoEhwXmv0Xzyw-5" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.envelope_(message);" vertex="1" parent="MBLiamdAgmtIjl82X5ms-1">
+        <mxCell id="80E8MQffoEhwXmv0Xzyw-5" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.envelope_(message);" parent="MBLiamdAgmtIjl82X5ms-1" vertex="1">
           <mxGeometry x="1805" y="-356" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="80E8MQffoEhwXmv0Xzyw-6" value="&lt;span style=&quot;font-family: helvetica; font-size: 12px; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); float: none; display: inline;&quot;&gt;BeheerBericht bevat een BeheerVerzoek&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="MBLiamdAgmtIjl82X5ms-1">
+        <mxCell id="80E8MQffoEhwXmv0Xzyw-6" value="&lt;span style=&quot;font-family: helvetica; font-size: 12px; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); float: none; display: inline;&quot;&gt;BeheerBericht bevat een BeheerVerzoek&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=2" parent="MBLiamdAgmtIjl82X5ms-1" vertex="1">
           <mxGeometry x="1758" y="-316" width="119" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="80E8MQffoEhwXmv0Xzyw-7" value="Hoofdelijk Ontslag" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="MBLiamdAgmtIjl82X5ms-1">
+        <mxCell id="80E8MQffoEhwXmv0Xzyw-7" value="Hoofdelijk Ontslag" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="MBLiamdAgmtIjl82X5ms-1" vertex="1">
           <mxGeometry x="2224" y="-291" width="91" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="80E8MQffoEhwXmv0Xzyw-8" value="Omzetten&lt;br&gt;Lening" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="MBLiamdAgmtIjl82X5ms-1">
+        <mxCell id="80E8MQffoEhwXmv0Xzyw-8" value="Omzetten&lt;br&gt;Lening" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="MBLiamdAgmtIjl82X5ms-1" vertex="1">
           <mxGeometry x="2238" y="-255" width="91" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="80E8MQffoEhwXmv0Xzyw-9" value="Verlagen&lt;br&gt;Lening" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="MBLiamdAgmtIjl82X5ms-1">
+        <mxCell id="80E8MQffoEhwXmv0Xzyw-9" value="Verlagen&lt;br&gt;Lening" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="MBLiamdAgmtIjl82X5ms-1" vertex="1">
           <mxGeometry x="2256" y="-219" width="91" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="80E8MQffoEhwXmv0Xzyw-10" value="Actuele&lt;br&gt;Lening&lt;br&gt;Gegevens (IX)" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="MBLiamdAgmtIjl82X5ms-1">
+        <mxCell id="80E8MQffoEhwXmv0Xzyw-10" value="Actuele&lt;br&gt;Lening&lt;br&gt;Gegevens (IX)" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="MBLiamdAgmtIjl82X5ms-1" vertex="1">
           <mxGeometry x="1944" y="-288" width="91" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="80E8MQffoEhwXmv0Xzyw-11" value="(deels)&lt;br&gt;Royement" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="MBLiamdAgmtIjl82X5ms-1">
+        <mxCell id="80E8MQffoEhwXmv0Xzyw-11" value="(deels)&lt;br&gt;Royement" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="MBLiamdAgmtIjl82X5ms-1" vertex="1">
           <mxGeometry x="2273" y="-183" width="91" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="80E8MQffoEhwXmv0Xzyw-12" value="Jaar&lt;br&gt;opgave(n)" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="MBLiamdAgmtIjl82X5ms-1">
+        <mxCell id="80E8MQffoEhwXmv0Xzyw-12" value="Jaar&lt;br&gt;opgave(n)" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="MBLiamdAgmtIjl82X5ms-1" vertex="1">
           <mxGeometry x="1965" y="-247" width="91" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="80E8MQffoEhwXmv0Xzyw-13" value="Toestemming&lt;br&gt;Verhuur" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="MBLiamdAgmtIjl82X5ms-1">
+        <mxCell id="80E8MQffoEhwXmv0Xzyw-13" value="Toestemming&lt;br&gt;Verhuur" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="MBLiamdAgmtIjl82X5ms-1" vertex="1">
           <mxGeometry x="1981" y="-209" width="91" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="80E8MQffoEhwXmv0Xzyw-14" value="NHG Volledigheids&lt;br&gt;Toets" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="MBLiamdAgmtIjl82X5ms-1">
+        <mxCell id="80E8MQffoEhwXmv0Xzyw-14" value="NHG Volledigheids&lt;br&gt;Toets" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="MBLiamdAgmtIjl82X5ms-1" vertex="1">
           <mxGeometry x="2074" y="-288" width="91" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="80E8MQffoEhwXmv0Xzyw-15" value="NHG &lt;br&gt;Beheer&lt;br&gt;Toets" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="MBLiamdAgmtIjl82X5ms-1">
+        <mxCell id="80E8MQffoEhwXmv0Xzyw-15" value="NHG &lt;br&gt;Beheer&lt;br&gt;Toets" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="MBLiamdAgmtIjl82X5ms-1" vertex="1">
           <mxGeometry x="2110" y="-248" width="91" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="80E8MQffoEhwXmv0Xzyw-16" value="Aegon&lt;br&gt;Acceptatie Toets" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="MBLiamdAgmtIjl82X5ms-1">
+        <mxCell id="80E8MQffoEhwXmv0Xzyw-16" value="Aegon&lt;br&gt;Acceptatie Toets" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="MBLiamdAgmtIjl82X5ms-1" vertex="1">
           <mxGeometry x="2126" y="-204" width="91" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="80E8MQffoEhwXmv0Xzyw-17" value="&lt;span style=&quot;font-family: helvetica; font-size: 12px; font-style: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); float: none; display: inline;&quot;&gt;BX&lt;br&gt;BeheerBericht&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=1;align=center;" vertex="1" parent="MBLiamdAgmtIjl82X5ms-1">
+        <mxCell id="80E8MQffoEhwXmv0Xzyw-17" value="&lt;span style=&quot;font-family: helvetica; font-size: 12px; font-style: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); float: none; display: inline;&quot;&gt;BX&lt;br&gt;BeheerBericht&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=1;align=center;" parent="MBLiamdAgmtIjl82X5ms-1" vertex="1">
           <mxGeometry x="1802" y="-408" width="36" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="80E8MQffoEhwXmv0Xzyw-18" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; float: none ; display: inline&quot;&gt;BeheerVerzoek kan een verzoek om Informatie, Toetsen of Mutatie zijn..&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="MBLiamdAgmtIjl82X5ms-1">
+        <mxCell id="80E8MQffoEhwXmv0Xzyw-18" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; float: none ; display: inline&quot;&gt;BeheerVerzoek kan een verzoek om Informatie, Toetsen of Mutatie zijn..&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=2" parent="MBLiamdAgmtIjl82X5ms-1" vertex="1">
           <mxGeometry x="1934.75" y="-408" width="432" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="80E8MQffoEhwXmv0Xzyw-19" value="" style="endArrow=classic;html=1;exitX=0.767;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="MBLiamdAgmtIjl82X5ms-1" source="80E8MQffoEhwXmv0Xzyw-5" target="80E8MQffoEhwXmv0Xzyw-1">
+        <mxCell id="80E8MQffoEhwXmv0Xzyw-19" value="" style="endArrow=classic;html=1;exitX=0.767;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="MBLiamdAgmtIjl82X5ms-1" source="80E8MQffoEhwXmv0Xzyw-5" target="80E8MQffoEhwXmv0Xzyw-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1839" y="-188" as="sourcePoint" />
             <mxPoint x="1889" y="-238" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="twZ9QiOuIPanAN8Yd0We-0" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/AEGON_%28logo%29.svg/1200px-AEGON_%28logo%29.svg.png&quot; alt=&quot;Aegon N.V. - Wikipedia&quot;&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="MBLiamdAgmtIjl82X5ms-1">
+          <mxGeometry x="2463" y="-500" width="1264" height="317" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
