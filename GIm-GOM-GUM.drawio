@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-19T06:56:00.999Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edg/81.0.416.72" etag="PVieTEAWn6T1pyy99JLB" version="13.1.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-05-19T06:58:07.035Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edg/81.0.416.72" etag="AXN6trEka1xw5NWqIxwP" version="13.1.2" type="github" pages="4">
   <diagram id="bb1rwEXbkB4w-7_O-BKD" name="HDN Beheerproces">
     <mxGraphModel dx="13773" dy="5333" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Informatie vs Mutaties" id="mCkRLN5sdkSEZ_MhNsX1">
-    <mxGraphModel dx="4338" dy="3169" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3305" dy="2769" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="u3E6rbgGzF0nq8R-q8aw-0" />
         <mxCell id="u3E6rbgGzF0nq8R-q8aw-1" parent="u3E6rbgGzF0nq8R-q8aw-0" />
@@ -150,7 +150,7 @@
         <mxCell id="u3E6rbgGzF0nq8R-q8aw-30" value="&lt;font style=&quot;font-size: 19px&quot;&gt;IX-Bericht&lt;/font&gt;&lt;br&gt;HypotheekInformatie (bestaande/huidige situatie)&lt;br&gt;Hypotheekversie x.xx / op dag, uur, versie" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="u3E6rbgGzF0nq8R-q8aw-1" vertex="1">
           <mxGeometry x="930" y="-1050" width="550" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="u3E6rbgGzF0nq8R-q8aw-56" value="&lt;font style=&quot;font-size: 19px&quot;&gt;BA-Bericht&lt;/font&gt;&lt;br&gt;BeheerBericht (BeheerAanvraag) met MutatieVerzoek&amp;nbsp;&lt;br&gt;Hypotheekversie x.xx / op dag, uur, versie" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="u3E6rbgGzF0nq8R-q8aw-1" vertex="1">
+        <mxCell id="u3E6rbgGzF0nq8R-q8aw-56" value="&lt;font style=&quot;font-size: 19px&quot;&gt;BA/BX-Bericht&lt;/font&gt;&lt;br&gt;BeheerBericht (BeheerAanvraag) met MutatieVerzoek&amp;nbsp;&lt;br&gt;Hypotheekversie x.xx / op dag, uur, versie" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="u3E6rbgGzF0nq8R-q8aw-1" vertex="1">
           <mxGeometry x="1758" y="-1057" width="550" height="90" as="geometry" />
         </mxCell>
         <mxCell id="u3E6rbgGzF0nq8R-q8aw-68" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 19px; font-style: normal; font-weight: 700; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); float: none; display: inline;&quot;&gt;Verhoging middels Aanvullende Lening&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="u3E6rbgGzF0nq8R-q8aw-1" vertex="1">
@@ -441,7 +441,7 @@
         <mxCell id="zo0-YzEjXa1ZmHchovTu-49" value="&lt;span style=&quot;font-size: 19px&quot;&gt;HypotheekBeheerInformatie&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;(bestaande/huidige situatie)&lt;br&gt;&lt;/span&gt;&lt;br&gt;... wat de IX is voor BeheerInformatie ...&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="u3E6rbgGzF0nq8R-q8aw-1" vertex="1">
           <mxGeometry x="2610" y="-1097" width="550" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="zo0-YzEjXa1ZmHchovTu-50" value="&lt;span style=&quot;font-size: 19px&quot;&gt;HypotheekBeheerVerzoek \ MutatieVerzoek&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;(gewenste situatie)&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 19px&quot;&gt;... is de BX voor BeheerMutaties ...&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 19px&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="u3E6rbgGzF0nq8R-q8aw-1" vertex="1">
+        <mxCell id="zo0-YzEjXa1ZmHchovTu-50" value="&lt;span style=&quot;font-size: 19px&quot;&gt;HypotheekBeheerVerzoek \ MutatieVerzoek&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;(gewenste situatie)&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 19px&quot;&gt;... is de BA/BX voor BeheerVerzoeken en Mutaties ...&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 19px&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="u3E6rbgGzF0nq8R-q8aw-1" vertex="1">
           <mxGeometry x="3466" y="-1104" width="550" height="90" as="geometry" />
         </mxCell>
         <mxCell id="4lnKSVulvKLK2QYhLcTC-10" value="&lt;span style=&quot;font-size: 19px&quot;&gt;Meerdere Mutaties op 1 Entiteit&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="u3E6rbgGzF0nq8R-q8aw-1" vertex="1">
@@ -677,6 +677,12 @@
         </mxCell>
         <mxCell id="IuxL16F_D5ajvLqRxJpy-29" value="Looptijd" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=none;" parent="u3E6rbgGzF0nq8R-q8aw-1" vertex="1">
           <mxGeometry x="5430" y="-220.74" width="115" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="fuhvYLAyS09JYH-0in_U-0" value="" style="shape=flexArrow;endArrow=classic;html=1;fontColor=#000000;" edge="1" parent="u3E6rbgGzF0nq8R-q8aw-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1542.999999999999" y="-540.5" as="sourcePoint" />
+            <mxPoint x="1605" y="-540.9999999999995" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
