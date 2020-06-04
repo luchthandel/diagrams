@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-04T07:17:01.938Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36 Edg/83.0.478.44" etag="PqifjHMg_oR30hNr5sT5" version="13.1.14" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-06-04T07:23:15.869Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36 Edg/83.0.478.44" etag="q4XKucsA5yPrCsgvzDcb" version="13.1.14" type="github" pages="2">
   <diagram id="ksQ7iF-nCBCZgvP6AJ4O" name="Page-1">
     <mxGraphModel dx="946" dy="3153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1697,7 +1697,7 @@
         <mxCell id="SSRvt8yQrPhEsXSBSj9G-119" value="&lt;span style=&quot;font-weight: 400&quot;&gt;BESTAAND:&lt;br&gt;&lt;/span&gt;LENING" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="SSRvt8yQrPhEsXSBSj9G-1" vertex="1">
           <mxGeometry x="-960.0032519531255" y="225" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SSRvt8yQrPhEsXSBSj9G-120" value="&lt;span style=&quot;font-weight: 400&quot;&gt;WIJZIGEN:&lt;/span&gt;&lt;br&gt;OMZETTEN LENING" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="SSRvt8yQrPhEsXSBSj9G-1" vertex="1">
+        <mxCell id="SSRvt8yQrPhEsXSBSj9G-120" value="&lt;span style=&quot;font-weight: 400&quot;&gt;WIJZIGEN:&lt;/span&gt;&lt;br&gt;WIJZIGEN LENING" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="SSRvt8yQrPhEsXSBSj9G-1" vertex="1">
           <mxGeometry x="-830.0032519531255" y="301" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SSRvt8yQrPhEsXSBSj9G-121" value="LENING&lt;br&gt;ONGEWIJZIGD&lt;br&gt;VOORTZETTEN" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;dashed=1;" parent="SSRvt8yQrPhEsXSBSj9G-1" vertex="1">
@@ -1766,14 +1766,14 @@
         <mxCell id="SSRvt8yQrPhEsXSBSj9G-142" value="&lt;p&gt;Lening.Nummer&lt;br&gt;Lening.Hoofdsom.Oorspronkelijk = 300.000,00&lt;br&gt;Lening.Hoofdsom.Proresto = 200.000,00&lt;br&gt;Lening.ActieveLeningdelen = 3&lt;br&gt;NHG = Ja&lt;br&gt;GarntieNummer = 462352748&lt;br&gt;&lt;span&gt;LeningMutatieType = Te Wijzigen&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="SSRvt8yQrPhEsXSBSj9G-1" vertex="1">
           <mxGeometry x="-820" y="192" width="320" height="108" as="geometry" />
         </mxCell>
-        <mxCell id="SSRvt8yQrPhEsXSBSj9G-144" value="&lt;span style=&quot;font-weight: 400&quot;&gt;WIJZIGEN:&lt;/span&gt; AANPASSEN PRORESTO" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="SSRvt8yQrPhEsXSBSj9G-1" vertex="1">
-          <mxGeometry x="-170.00325195312553" y="305" width="120" height="60" as="geometry" />
+        <mxCell id="SSRvt8yQrPhEsXSBSj9G-144" value="&lt;span style=&quot;font-weight: 400&quot;&gt;WIJZIGEN:&lt;/span&gt; VERHOGEN HOOFDSOM" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="SSRvt8yQrPhEsXSBSj9G-1" vertex="1">
+          <mxGeometry x="-55.50325195312553" y="305" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SSRvt8yQrPhEsXSBSj9G-145" value="&lt;span style=&quot;font-weight: 400&quot;&gt;WIJZIGEN:&lt;/span&gt;&lt;br&gt;AANPASSEN RENTE" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="SSRvt8yQrPhEsXSBSj9G-1" vertex="1">
-          <mxGeometry x="-40.00325195312553" y="305" width="120" height="60" as="geometry" />
+          <mxGeometry x="69.99674804687447" y="305" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SSRvt8yQrPhEsXSBSj9G-146" value="&lt;span style=&quot;font-weight: 400&quot;&gt;WIJZIGEN:&lt;/span&gt;&lt;br&gt;AANPASSEN&lt;br&gt;LOOPTIJD" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="SSRvt8yQrPhEsXSBSj9G-1" vertex="1">
-          <mxGeometry x="89.99674804687447" y="305" width="120" height="60" as="geometry" />
+          <mxGeometry x="199.99674804687447" y="305" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SSRvt8yQrPhEsXSBSj9G-147" value="&lt;p&gt;FinancieleDekkingType&lt;br&gt;- Risicoverzekering&lt;br&gt;- Beleggingsverzekering&lt;br&gt;- Erfrente polis&lt;br&gt;- Hybride verzekering&lt;br&gt;- Levensverzekering&lt;br&gt;- Lijfrente polis&lt;br&gt;- Spaarverzekering&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="SSRvt8yQrPhEsXSBSj9G-1" vertex="1">
           <mxGeometry x="-304" y="-634" width="174" height="120" as="geometry" />
@@ -1891,6 +1891,21 @@
         </mxCell>
         <mxCell id="af-YWqP31oKkFm00ffZR-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/iconic-1/32/x_alt-128.png" vertex="1" parent="SSRvt8yQrPhEsXSBSj9G-1">
           <mxGeometry x="121.5" y="671" width="51" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="af-YWqP31oKkFm00ffZR-4" value="&lt;span style=&quot;font-weight: 400&quot;&gt;WIJZIGEN:&lt;/span&gt;&lt;br&gt;OMZETTEN LENING" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="SSRvt8yQrPhEsXSBSj9G-1">
+          <mxGeometry x="-184.50325195312553" y="305" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="af-YWqP31oKkFm00ffZR-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/iconic-1/32/x_alt-128.png" vertex="1" parent="SSRvt8yQrPhEsXSBSj9G-1">
+          <mxGeometry x="-21" y="350" width="51" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="af-YWqP31oKkFm00ffZR-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/iconic-1/32/x_alt-128.png" vertex="1" parent="SSRvt8yQrPhEsXSBSj9G-1">
+          <mxGeometry x="110" y="350" width="51" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="af-YWqP31oKkFm00ffZR-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/iconic-1/32/x_alt-128.png" vertex="1" parent="SSRvt8yQrPhEsXSBSj9G-1">
+          <mxGeometry x="249.5" y="350" width="51" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="af-YWqP31oKkFm00ffZR-8" value="&lt;span style=&quot;font-weight: 400&quot;&gt;WIJZIGEN:&lt;/span&gt;&lt;br&gt;OMZETTEN LENING" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="SSRvt8yQrPhEsXSBSj9G-1">
+          <mxGeometry x="-180.00325195312553" y="-739" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
