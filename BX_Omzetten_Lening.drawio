@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-06-04T08:00:02.877Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36 Edg/83.0.478.44" etag="5VOOCCW9swEHNmL13qba" version="13.1.14" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-06-04T08:01:38.733Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36 Edg/83.0.478.44" etag="kx1m50Lahdgt3EK41afE" version="13.1.14" type="github" pages="5">
   <diagram name="OmzettenHigh" id="5W6F1nHTlcOH9VOWFjr7">
-    <mxGraphModel dx="3689" dy="3441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="4230" dy="3825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0l8Q5jDnbpzscQWyGeu8-0" />
         <mxCell id="0l8Q5jDnbpzscQWyGeu8-1" parent="0l8Q5jDnbpzscQWyGeu8-0" />
@@ -39,15 +39,6 @@
         </mxCell>
         <mxCell id="0l8Q5jDnbpzscQWyGeu8-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=none;fontColor=#333333;" vertex="1" parent="0l8Q5jDnbpzscQWyGeu8-1">
           <mxGeometry x="-1360.0000000000002" y="-824" width="1171" height="68" as="geometry" />
-        </mxCell>
-        <mxCell id="0l8Q5jDnbpzscQWyGeu8-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=none;fontColor=#333333;" vertex="1" parent="0l8Q5jDnbpzscQWyGeu8-1">
-          <mxGeometry x="-1360.0000000000002" y="-421" width="1171" height="68" as="geometry" />
-        </mxCell>
-        <mxCell id="0l8Q5jDnbpzscQWyGeu8-33" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=none;fontColor=#333333;" vertex="1" parent="0l8Q5jDnbpzscQWyGeu8-1">
-          <mxGeometry x="-1359.9999999999995" y="-502" width="1171" height="68" as="geometry" />
-        </mxCell>
-        <mxCell id="0l8Q5jDnbpzscQWyGeu8-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=none;fontColor=#333333;" vertex="1" parent="0l8Q5jDnbpzscQWyGeu8-1">
-          <mxGeometry x="-1360.0000000000002" y="-582" width="1171" height="68" as="geometry" />
         </mxCell>
         <mxCell id="0l8Q5jDnbpzscQWyGeu8-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="0l8Q5jDnbpzscQWyGeu8-1" source="0l8Q5jDnbpzscQWyGeu8-19" target="0l8Q5jDnbpzscQWyGeu8-96">
           <mxGeometry relative="1" as="geometry" />
@@ -100,7 +91,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0l8Q5jDnbpzscQWyGeu8-59" value="HYPOTHEEK&lt;br&gt;(1-9)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="0l8Q5jDnbpzscQWyGeu8-1">
-          <mxGeometry x="-1220.0032519531255" y="-1066" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1220.0032519531255" y="-1062" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0l8Q5jDnbpzscQWyGeu8-70" value="FINANCIELE&amp;nbsp;&lt;br&gt;DEKKING HYPOTHEEK&lt;br&gt;(0-99)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="0l8Q5jDnbpzscQWyGeu8-1">
           <mxGeometry x="-1090.0032519531255" y="-985" width="120" height="60" as="geometry" />
@@ -134,6 +125,32 @@
         </mxCell>
         <mxCell id="iNbtggtaSTVtpV2qVydY-0" value="SERVICE-&lt;br&gt;PROVIDER&lt;br&gt;(0-1)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="0l8Q5jDnbpzscQWyGeu8-1">
           <mxGeometry x="-1100.0032519531255" y="-1147" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="kEksSi-a8bFNBdBn-7cn" name="Patroon">
+    <mxGraphModel dx="2115" dy="672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="SHWlY8es64aqo-5oXrSn-0" />
+        <mxCell id="SHWlY8es64aqo-5oXrSn-1" parent="SHWlY8es64aqo-5oXrSn-0" />
+        <mxCell id="SHWlY8es64aqo-5oXrSn-2" value="&lt;span style=&quot;font-weight: 400&quot;&gt;BESTAAND:&lt;br&gt;&lt;/span&gt;LENINGDEEL-&lt;br&gt;DEKKING" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="SHWlY8es64aqo-5oXrSn-1">
+          <mxGeometry x="-720.0032519531255" y="855" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SHWlY8es64aqo-5oXrSn-3" value="&lt;span style=&quot;font-weight: 400&quot;&gt;WIJZIGEN:&lt;br&gt;&lt;/span&gt;WIJZIGEN LENINGDEEL-DEKKING" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="SHWlY8es64aqo-5oXrSn-1">
+          <mxGeometry x="-590.0032519531255" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SHWlY8es64aqo-5oXrSn-4" value="&lt;span style=&quot;font-weight: 400&quot;&gt;BEINDIGEN:&lt;br&gt;&lt;/span&gt;WIJZIGEN LENINGDEEL-DEKKING" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="SHWlY8es64aqo-5oXrSn-1">
+          <mxGeometry x="-590.0032519531255" y="1024" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SHWlY8es64aqo-5oXrSn-5" value="DEKKING&lt;br&gt;ONGEWIJZIGD&lt;br&gt;VOORTZETTEN" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;dashed=1;" vertex="1" parent="SHWlY8es64aqo-5oXrSn-1">
+          <mxGeometry x="-344.0032519531246" y="862" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SHWlY8es64aqo-5oXrSn-6" value="LENINGDEEL-&lt;br&gt;DEKKING&lt;br&gt;(0-99)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="SHWlY8es64aqo-5oXrSn-1">
+          <mxGeometry x="-840.0032519531255" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SHWlY8es64aqo-5oXrSn-7" value="&lt;span style=&quot;font-weight: 400&quot;&gt;NIEUW:&lt;br&gt;&lt;/span&gt;NIEUWE LENINGDEEL-DEKKING" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="SHWlY8es64aqo-5oXrSn-1">
+          <mxGeometry x="-710.0032519531255" y="1101" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
