@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-16T08:33:11.971Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 Edg/83.0.478.45" etag="rkv3lC7wl3khgT4ng4nx" version="13.2.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-06-16T10:53:36.070Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 Edg/83.0.478.45" etag="9hTx89SmXXZBl9dSmMLt" version="13.2.4" type="github" pages="8">
   <diagram name="OmzettenHigh" id="5W6F1nHTlcOH9VOWFjr7">
     <mxGraphModel dx="3026" dy="2852" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1354,10 +1354,13 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Datamodel OL" id="uxgQKJviA8lgjbfGJnK7">
-    <mxGraphModel dx="5252" dy="4504" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="4078" dy="3802" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="88W4B-ZiEIaFhAs7xRh_-0" />
         <mxCell id="88W4B-ZiEIaFhAs7xRh_-1" parent="88W4B-ZiEIaFhAs7xRh_-0" />
+        <mxCell id="6PYVYY5M0xbDe9V5LC2C-81" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="88W4B-ZiEIaFhAs7xRh_-1">
+          <mxGeometry x="-957" y="205" width="648" height="254" as="geometry" />
+        </mxCell>
         <mxCell id="6PYVYY5M0xbDe9V5LC2C-57" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=none;fontColor=#333333;" vertex="1" parent="88W4B-ZiEIaFhAs7xRh_-1">
           <mxGeometry x="-1357.6500000000005" y="-1629" width="797.6539589442807" height="68" as="geometry" />
         </mxCell>
@@ -1563,10 +1566,10 @@
           <mxGeometry x="-1324.0032519531255" y="-1697" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="88W4B-ZiEIaFhAs7xRh_-25" value="BEHEER&lt;br&gt;VERZOEK&lt;br&gt;(1-1)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" parent="88W4B-ZiEIaFhAs7xRh_-1" vertex="1">
-          <mxGeometry x="-1202.0032519531258" y="-1542" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1202.0032519531258" y="-1546" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="88W4B-ZiEIaFhAs7xRh_-26" value="HEADER&lt;br&gt;(1-1)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" parent="88W4B-ZiEIaFhAs7xRh_-1" vertex="1">
-          <mxGeometry x="-1202.0032519531258" y="-1622" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1202.0032519531258" y="-1625" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6PYVYY5M0xbDe9V5LC2C-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="88W4B-ZiEIaFhAs7xRh_-1" source="88W4B-ZiEIaFhAs7xRh_-28" target="6PYVYY5M0xbDe9V5LC2C-62">
           <mxGeometry relative="1" as="geometry" />
@@ -1672,6 +1675,27 @@
         </mxCell>
         <mxCell id="6PYVYY5M0xbDe9V5LC2C-62" value="WIJZIGING&lt;br&gt;(0-9)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;" vertex="1" parent="88W4B-ZiEIaFhAs7xRh_-1">
           <mxGeometry x="-1082.0032519531253" y="-1223" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6PYVYY5M0xbDe9V5LC2C-74" value="&lt;p&gt;Omzetten Lening&lt;br&gt;Ontslag Hoofdelijke Aansprakelijkheid&lt;br&gt;Uitvoeren BeheerToets&lt;br&gt;Uitvoeren AcceptatieToets&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="88W4B-ZiEIaFhAs7xRh_-1">
+          <mxGeometry x="-1065" y="-1544" width="223" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="6PYVYY5M0xbDe9V5LC2C-75" value="WIJZIGING&lt;br&gt;(0-9)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;" vertex="1" parent="88W4B-ZiEIaFhAs7xRh_-1">
+          <mxGeometry x="-820.0032519531248" y="349" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6PYVYY5M0xbDe9V5LC2C-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="88W4B-ZiEIaFhAs7xRh_-1" source="6PYVYY5M0xbDe9V5LC2C-76" target="6PYVYY5M0xbDe9V5LC2C-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6PYVYY5M0xbDe9V5LC2C-76" value="ENTITEIT&lt;br&gt;(0-99)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="88W4B-ZiEIaFhAs7xRh_-1">
+          <mxGeometry x="-940.0032519531255" y="278" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6PYVYY5M0xbDe9V5LC2C-78" value="&lt;p&gt;&lt;b&gt;Generiek&lt;br&gt;&lt;/b&gt;Wijziging.Id = 0984-4567-2345-3456-1 (changeRequestId)&lt;br&gt;Wijziging.RangOrde = 2 (changeRequestOrder)&lt;br&gt;Wijziging.Ingangsdatum = 01012021 (changeRequestEffectiveDate)&lt;br&gt;&lt;b&gt;Specifiek&lt;br&gt;&lt;/b&gt;Wijziging.MutatieSoortType &quot; ... &quot;&lt;br&gt;....&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="88W4B-ZiEIaFhAs7xRh_-1">
+          <mxGeometry x="-685" y="349" width="410" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="6PYVYY5M0xbDe9V5LC2C-79" value="&lt;p&gt;&lt;b&gt;Generiek&lt;br&gt;&lt;/b&gt;Entiteit.Id&lt;br&gt;Entiteit.MutatieType = &quot;Te Wijzigen&quot;&lt;br&gt;&lt;b&gt;Specifiek&lt;br&gt;&lt;/b&gt;....&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="88W4B-ZiEIaFhAs7xRh_-1">
+          <mxGeometry x="-802" y="268.5" width="410" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="6PYVYY5M0xbDe9V5LC2C-80" value="&lt;b style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 24px ; font-style: normal ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;i&gt;Wijzigingen model&lt;/i&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="88W4B-ZiEIaFhAs7xRh_-1">
+          <mxGeometry x="-948" y="209" width="300.53" height="45.41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
