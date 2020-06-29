@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-29T10:57:50.703Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36 Edg/83.0.478.56" etag="E9P7rBDeWLeEywYvnvnM" version="13.3.4" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2020-06-29T10:58:55.653Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36 Edg/83.0.478.56" etag="p_iLI3f6GYhshgGNl299" version="13.3.4" type="github" pages="13">
   <diagram id="c_9E0Xf2HpdbllDihKoy" name="Onderpand">
     <mxGraphModel dx="3278" dy="4602" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -1299,7 +1299,7 @@
             <mxPoint x="-1916.0032519531255" y="-216" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W33fyoVoqXPDFGUGTqcr-77" value="PARTY&lt;br&gt;(1-1)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="hNq6cn439rkbLL0t0-5C-1">
+        <mxCell id="W33fyoVoqXPDFGUGTqcr-77" value="PARTY&lt;br&gt;(1-1)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;" vertex="1" parent="hNq6cn439rkbLL0t0-5C-1">
           <mxGeometry x="-1976.0032519531255" y="-295" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W33fyoVoqXPDFGUGTqcr-78" value="INSURANCE&lt;br&gt;CONTRACTS&lt;br&gt;(0-99)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="hNq6cn439rkbLL0t0-5C-1">
@@ -1311,22 +1311,22 @@
         <mxCell id="W33fyoVoqXPDFGUGTqcr-80" value="BANK&lt;br&gt;CONTRACTS&lt;br&gt;(0-99)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="hNq6cn439rkbLL0t0-5C-1">
           <mxGeometry x="-1514.0032519531255" y="1076" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="W33fyoVoqXPDFGUGTqcr-81" value="COLLATERAL&lt;br&gt;(0-1)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="hNq6cn439rkbLL0t0-5C-1">
+        <mxCell id="W33fyoVoqXPDFGUGTqcr-81" value="COLLATERAL&lt;br&gt;(0-1)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;" vertex="1" parent="hNq6cn439rkbLL0t0-5C-1">
           <mxGeometry x="-1976.0032519531255" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="W33fyoVoqXPDFGUGTqcr-82" value="OBJECTS&lt;br&gt;(1-4)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="hNq6cn439rkbLL0t0-5C-1">
+        <mxCell id="W33fyoVoqXPDFGUGTqcr-82" value="OBJECTS&lt;br&gt;(1-4)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;" vertex="1" parent="hNq6cn439rkbLL0t0-5C-1">
           <mxGeometry x="-1856.0032519531255" y="351" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="W33fyoVoqXPDFGUGTqcr-83" value="MORTGAEE&lt;br&gt;(0-1)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="hNq6cn439rkbLL0t0-5C-1">
+        <mxCell id="W33fyoVoqXPDFGUGTqcr-83" value="MORTGAEE&lt;br&gt;(0-1)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;" vertex="1" parent="hNq6cn439rkbLL0t0-5C-1">
           <mxGeometry x="-1858.0032519531255" y="-212" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="W33fyoVoqXPDFGUGTqcr-84" value="DEPOTHOLDER&lt;br&gt;(0-1)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="hNq6cn439rkbLL0t0-5C-1">
+        <mxCell id="W33fyoVoqXPDFGUGTqcr-84" value="DEPOTHOLDER&lt;br&gt;(0-1)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;" vertex="1" parent="hNq6cn439rkbLL0t0-5C-1">
           <mxGeometry x="-1858.0032519531255" y="111" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="W33fyoVoqXPDFGUGTqcr-85" value="DEBTOR&lt;br&gt;(0-1)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="hNq6cn439rkbLL0t0-5C-1">
+        <mxCell id="W33fyoVoqXPDFGUGTqcr-85" value="DEBTOR&lt;br&gt;(0-1)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;" vertex="1" parent="hNq6cn439rkbLL0t0-5C-1">
           <mxGeometry x="-1858.0032519531255" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="W33fyoVoqXPDFGUGTqcr-86" value="NOTARY&lt;br&gt;(0-1)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="hNq6cn439rkbLL0t0-5C-1">
+        <mxCell id="W33fyoVoqXPDFGUGTqcr-86" value="NOTARY&lt;br&gt;(0-1)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;" vertex="1" parent="hNq6cn439rkbLL0t0-5C-1">
           <mxGeometry x="-1858.0032519531255" y="-52" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W33fyoVoqXPDFGUGTqcr-87" value="LENING&lt;br&gt;(1-9)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="hNq6cn439rkbLL0t0-5C-1">
