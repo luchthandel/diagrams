@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-29T06:32:25.438Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36 Edg/83.0.478.56" etag="o_fp30ZJyTwytI_tui6S" version="13.3.4" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2020-06-29T06:35:21.646Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36 Edg/83.0.478.56" etag="94Z8500kMgRsT4OOlFOA" version="13.3.4" type="github" pages="12">
   <diagram id="c_9E0Xf2HpdbllDihKoy" name="Onderpand">
     <mxGraphModel dx="1426" dy="4452" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -194,17 +194,47 @@
         <mxCell id="Wco3htgfprYHiSn4MXm1-19" value="&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Bankcontractrollen:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Bank / filiaal&lt;br&gt;Contractant&lt;br&gt;Debiteur&lt;br&gt;Rekeninghouder&lt;br&gt;Adviseur&lt;/p&gt;&lt;p&gt;&lt;b&gt;Verz. polis rollen:&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Verzekeraar&lt;br&gt;Verzekeringnemer /&amp;nbsp;&lt;br&gt;Polishouder&lt;br&gt;Verzekerde&lt;br&gt;Tussenpersoon&lt;br&gt;Begunstigde&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="LgVAtKEWgkHnH-iLbs5F-1">
           <mxGeometry x="560" y="-2190" width="120" height="240" as="geometry" />
         </mxCell>
+        <mxCell id="Wco3htgfprYHiSn4MXm1-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="LgVAtKEWgkHnH-iLbs5F-1" source="Wco3htgfprYHiSn4MXm1-20" target="Wco3htgfprYHiSn4MXm1-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Wco3htgfprYHiSn4MXm1-20" value="REKENING" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="LgVAtKEWgkHnH-iLbs5F-1">
           <mxGeometry x="379.9967480468745" y="-2050" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Wco3htgfprYHiSn4MXm1-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="LgVAtKEWgkHnH-iLbs5F-1" source="Wco3htgfprYHiSn4MXm1-21" target="Wco3htgfprYHiSn4MXm1-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Wco3htgfprYHiSn4MXm1-21" value="DEKKING" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="LgVAtKEWgkHnH-iLbs5F-1">
           <mxGeometry x="219.99674804687447" y="-2050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wco3htgfprYHiSn4MXm1-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="LgVAtKEWgkHnH-iLbs5F-1" source="Wco3htgfprYHiSn4MXm1-22" target="Wco3htgfprYHiSn4MXm1-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Wco3htgfprYHiSn4MXm1-22" value="LENING" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="LgVAtKEWgkHnH-iLbs5F-1">
           <mxGeometry x="59.99674804687447" y="-2050" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Wco3htgfprYHiSn4MXm1-24" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;contactpersoon&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="LgVAtKEWgkHnH-iLbs5F-1">
           <mxGeometry x="870" y="-2050" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wco3htgfprYHiSn4MXm1-26" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;1 partij kan in 0,1 of meerdere rollen voorkomen&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="LgVAtKEWgkHnH-iLbs5F-1">
+          <mxGeometry x="695" y="-2250" width="145" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Wco3htgfprYHiSn4MXm1-27" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Op een overeenkomst komen 2 of meer rollen voor...&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="LgVAtKEWgkHnH-iLbs5F-1">
+          <mxGeometry x="367.5" y="-2250" width="145" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Wco3htgfprYHiSn4MXm1-28" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;(2-99)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="LgVAtKEWgkHnH-iLbs5F-1">
+          <mxGeometry x="420" y="-2280" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wco3htgfprYHiSn4MXm1-29" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;(0-99)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="LgVAtKEWgkHnH-iLbs5F-1">
+          <mxGeometry x="740" y="-2280" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wco3htgfprYHiSn4MXm1-33" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Opgebouwde waarde&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="LgVAtKEWgkHnH-iLbs5F-1">
+          <mxGeometry x="395" y="-1980" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wco3htgfprYHiSn4MXm1-34" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Verzekerde waarde&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="LgVAtKEWgkHnH-iLbs5F-1">
+          <mxGeometry x="235" y="-1980" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wco3htgfprYHiSn4MXm1-35" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Hoofdsom&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="LgVAtKEWgkHnH-iLbs5F-1">
+          <mxGeometry x="75" y="-1974" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
