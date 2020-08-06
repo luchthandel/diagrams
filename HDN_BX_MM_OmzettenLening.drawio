@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-06T11:20:02.868Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36 Edg/84.0.522.52" etag="A7rPJfdSE1HEVu_OkW31" version="13.5.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-08-06T11:30:58.108Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36 Edg/84.0.522.52" etag="wNlYpOoUDMnV_fAU00za" version="13.5.8" type="github" pages="2">
   <diagram id="ObZ0XpegDKFJXaOT6aB5" name="Datamodel OL">
     <mxGraphModel dx="4085" dy="-1487" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -775,11 +775,35 @@
         <mxCell id="UjCHhjuu47h8h4I76NvU-20" value="OBJECT" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="-390.0032519531251" y="506.5000000000002" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UjCHhjuu47h8h4I76NvU-19" value="Registreren&lt;br&gt;overbedeling" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="UjCHhjuu47h8h4I76NvU-19" value="Registreren&lt;br&gt;kosten / overbedeling" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-372.5" y="556.4999999999997" width="85" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="UjCHhjuu47h8h4I76NvU-21" value="FINANCIERING&lt;br&gt;OVERBEDELING" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="-840.0032519531251" y="239.00000000000023" width="120" height="60" as="geometry" />
+        <mxCell id="UjCHhjuu47h8h4I76NvU-21" value="KOSTEN / VERKRIJGEN IN EIGENDOM" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-483.0032519531251" y="80.00000000000023" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UjCHhjuu47h8h4I76NvU-22" value="KOSTEN / &lt;br&gt;UITKOOP |&amp;nbsp;&lt;br&gt;FINANCIERING&lt;br&gt;OVERBEDELING" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-612" y="80.00000000000023" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UjCHhjuu47h8h4I76NvU-23" value="KOSTEN /&lt;br&gt;&amp;nbsp;ENERGIE&amp;nbsp; BUDGET | -MAATREGELEN" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-742" y="80.00000000000023" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UjCHhjuu47h8h4I76NvU-24" value="KOSTEN /&lt;br&gt;&amp;nbsp;KWALITEITS-VERBETERING" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-871" y="80.00000000000023" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UjCHhjuu47h8h4I76NvU-25" value="BEHEER-/&lt;br&gt;ACCEPTATIE-&lt;br&gt;TOETS" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-1000.0032519531251" y="80.00000000000023" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V_r6ZtXlsTCXtD9KNrgJ-1" value="FINANCIELE&lt;br&gt;GEGEVENS&lt;br&gt;(1-1)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="-1440.003251953126" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V_r6ZtXlsTCXtD9KNrgJ-2" value="FINANCIELE&lt;br&gt;GEGEVENS&lt;br&gt;(1-1)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="-1311.253251953126" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V_r6ZtXlsTCXtD9KNrgJ-3" value="Registreren financiele gegevens" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-1290" y="769.9999999999997" width="85" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="V_r6ZtXlsTCXtD9KNrgJ-4" value="Registreren financiele gegevens" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-1415" y="769.9999999999997" width="85" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
