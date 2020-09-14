@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-14T07:15:37.407Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 Edg/85.0.564.51" etag="NkZyraYQrmijlH7SGOI6" version="13.6.9" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-09-14T07:17:45.506Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 Edg/85.0.564.51" etag="EJPcPU8cvnGsfQBiZbOx" version="13.6.9" type="github" pages="5">
   <diagram id="XsI-VP8F_wyI25iaynHB" name="BX Entiteiten - Datamodel OL">
     <mxGraphModel dx="2590" dy="-1287" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1915,7 +1915,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="AttribuutModel OHA" id="woXwwJJjdvGIrEc_Eblh">
-    <mxGraphModel dx="7666" dy="1451" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="11503" dy="3403" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="yYa5gmls0bjg0UyGlrCh-0" />
         <mxCell id="yYa5gmls0bjg0UyGlrCh-1" parent="yYa5gmls0bjg0UyGlrCh-0" />
@@ -2591,7 +2591,7 @@
         <mxCell id="8EmbFgdWQER7ruhx5VxX-69" value="&lt;span style=&quot;font-weight: 400&quot;&gt;Verlagen door aflossen (door afkoop dekking)(13)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="yYa5gmls0bjg0UyGlrCh-1" vertex="1">
           <mxGeometry x="-3612" y="1225.9999999999995" width="87" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="8EmbFgdWQER7ruhx5VxX-72" value="&lt;span style=&quot;font-weight: 400&quot;&gt;Beëindigen&lt;/span&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;&amp;nbsp;door totaal aflossen met afkoopwaarde dekking (32)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="yYa5gmls0bjg0UyGlrCh-1" vertex="1">
+        <mxCell id="8EmbFgdWQER7ruhx5VxX-72" value="&lt;span style=&quot;font-weight: 400&quot;&gt;Beëindigen&lt;/span&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;&amp;nbsp;door totaal aflossen met afkoop-waarde dekking &lt;br&gt;(32)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="yYa5gmls0bjg0UyGlrCh-1" vertex="1">
           <mxGeometry x="-3489" y="1225.9999999999995" width="87" height="75" as="geometry" />
         </mxCell>
         <mxCell id="8EmbFgdWQER7ruhx5VxX-102" value="&lt;span style=&quot;font-weight: 400&quot;&gt;Verlagen door aflossen (met depot restant)&lt;br&gt;(14)&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="yYa5gmls0bjg0UyGlrCh-1" vertex="1">
@@ -2600,13 +2600,13 @@
         <mxCell id="iXm3wZ4KZ5_gNYjlGgxD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="yYa5gmls0bjg0UyGlrCh-1" source="8EmbFgdWQER7ruhx5VxX-126" target="zj5OFeShpead-lrE86BT-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8EmbFgdWQER7ruhx5VxX-126" value="&lt;span style=&quot;font-weight: 400&quot;&gt;Wijzigen dekking&lt;br&gt;(afkoop) (25)&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="yYa5gmls0bjg0UyGlrCh-1" vertex="1">
+        <mxCell id="8EmbFgdWQER7ruhx5VxX-126" value="&lt;span style=&quot;font-weight: 400&quot;&gt;Wijzigen dekking&lt;br&gt;(afkoop) &lt;br&gt;(25)&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="yYa5gmls0bjg0UyGlrCh-1" vertex="1">
           <mxGeometry x="-3739" y="1225.9999999999995" width="87" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="8EmbFgdWQER7ruhx5VxX-168" value="&lt;span style=&quot;font-weight: 400&quot;&gt;Beëindigen&lt;/span&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;&amp;nbsp;door totaal aflossen (met depot restant) (33)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="yYa5gmls0bjg0UyGlrCh-1" vertex="1">
+        <mxCell id="8EmbFgdWQER7ruhx5VxX-168" value="&lt;span style=&quot;font-weight: 400&quot;&gt;Beëindigen&lt;/span&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;&amp;nbsp;door totaal aflossen (met depot restant) &lt;br&gt;(33)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="yYa5gmls0bjg0UyGlrCh-1" vertex="1">
           <mxGeometry x="-3226" y="1225.9999999999998" width="87" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="8EmbFgdWQER7ruhx5VxX-171" value="&lt;span style=&quot;font-weight: 400&quot;&gt;Verlagen door extra aflossing (uit eigen middelen) (xx)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="yYa5gmls0bjg0UyGlrCh-1" vertex="1">
+        <mxCell id="8EmbFgdWQER7ruhx5VxX-171" value="&lt;span style=&quot;font-weight: 400&quot;&gt;Verlagen door extra aflossing (uit eigen middelen) &lt;br&gt;(xx)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="yYa5gmls0bjg0UyGlrCh-1" vertex="1">
           <mxGeometry x="-3081.4900000000002" y="1225.9999999999995" width="87" height="75" as="geometry" />
         </mxCell>
         <mxCell id="8EmbFgdWQER7ruhx5VxX-172" value="&lt;span style=&quot;font-weight: 400&quot;&gt;Beëindigen&lt;/span&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;&amp;nbsp;door totale aflossing (uit eigen middelen) &lt;br&gt;(xx)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="yYa5gmls0bjg0UyGlrCh-1" vertex="1">
@@ -2615,7 +2615,7 @@
         <mxCell id="iXm3wZ4KZ5_gNYjlGgxD-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="yYa5gmls0bjg0UyGlrCh-1" source="8EmbFgdWQER7ruhx5VxX-71" target="zj5OFeShpead-lrE86BT-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8EmbFgdWQER7ruhx5VxX-71" value="&lt;span style=&quot;font-weight: 400&quot;&gt;Wijzigen dekking&lt;br&gt;(omzetten) (25)&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="yYa5gmls0bjg0UyGlrCh-1" vertex="1">
+        <mxCell id="8EmbFgdWQER7ruhx5VxX-71" value="&lt;span style=&quot;font-weight: 400&quot;&gt;Wijzigen dekking&lt;br&gt;(omzetten) &lt;br&gt;(25)&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="yYa5gmls0bjg0UyGlrCh-1" vertex="1">
           <mxGeometry x="-4198" y="1225.9999999999995" width="87" height="75" as="geometry" />
         </mxCell>
         <mxCell id="8EmbFgdWQER7ruhx5VxX-73" value="&lt;span style=&quot;font-weight: 400&quot;&gt;Splitsen bestaand&amp;nbsp; leningdeel&lt;br&gt;(12)&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="yYa5gmls0bjg0UyGlrCh-1" vertex="1">
@@ -2627,16 +2627,16 @@
         <mxCell id="8EmbFgdWQER7ruhx5VxX-75" value="&lt;span style=&quot;font-weight: 400&quot;&gt;Ongewijzigd&lt;/span&gt;&lt;br style=&quot;font-weight: 400&quot;&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;voortzetten (50)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="yYa5gmls0bjg0UyGlrCh-1" vertex="1">
           <mxGeometry x="-4857.5" y="1225.9999999999995" width="85" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="8EmbFgdWQER7ruhx5VxX-121" value="&lt;span style=&quot;font-weight: 400&quot;&gt;Nieuw leningdeel door splitsen&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="yYa5gmls0bjg0UyGlrCh-1" vertex="1">
+        <mxCell id="8EmbFgdWQER7ruhx5VxX-121" value="&lt;span style=&quot;font-weight: 400&quot;&gt;Nieuw leningdeel door splitsen&lt;br&gt;(1)&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="yYa5gmls0bjg0UyGlrCh-1" vertex="1">
           <mxGeometry x="-4450" y="1225.9999999999995" width="85" height="75" as="geometry" />
         </mxCell>
         <mxCell id="8EmbFgdWQER7ruhx5VxX-122" value="&lt;span style=&quot;font-weight: 400&quot;&gt;Omzetten Aflosvorm &lt;br&gt;(11)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="yYa5gmls0bjg0UyGlrCh-1" vertex="1">
           <mxGeometry x="-4701" y="1225.9999999999995" width="85" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="8EmbFgdWQER7ruhx5VxX-165" value="&lt;span style=&quot;font-weight: 400&quot;&gt;Nieuw leningdeel (aanvullende lening)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="yYa5gmls0bjg0UyGlrCh-1" vertex="1">
+        <mxCell id="8EmbFgdWQER7ruhx5VxX-165" value="&lt;span style=&quot;font-weight: 400&quot;&gt;Nieuw leningdeel (aanvullende lening) &lt;br&gt;(3)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="yYa5gmls0bjg0UyGlrCh-1" vertex="1">
           <mxGeometry x="-3888.25" y="1225.9999999999998" width="85" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="8EmbFgdWQER7ruhx5VxX-166" value="&lt;span style=&quot;font-weight: 400&quot;&gt;Nieuw leningdeel (verhoging)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="yYa5gmls0bjg0UyGlrCh-1" vertex="1">
+        <mxCell id="8EmbFgdWQER7ruhx5VxX-166" value="&lt;span style=&quot;font-weight: 400&quot;&gt;Nieuw leningdeel (verhoging)&lt;br&gt;(2)&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="yYa5gmls0bjg0UyGlrCh-1" vertex="1">
           <mxGeometry x="-4044.25" y="1225.9999999999998" width="85" height="75" as="geometry" />
         </mxCell>
         <mxCell id="iXm3wZ4KZ5_gNYjlGgxD-5" value="Omzetten leningdeel" style="text;whiteSpace=wrap;html=1;fontSize=15;align=center;labelBackgroundColor=none;verticalAlign=middle;fillColor=#ffffff;" vertex="1" parent="yYa5gmls0bjg0UyGlrCh-1">
