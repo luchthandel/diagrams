@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-15T09:58:34.122Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 Edg/85.0.564.51" etag="WzxvS7iEEPg481kk-QoQ" version="13.6.9" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-09-15T09:59:42.734Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 Edg/85.0.564.51" etag="lZZ4DmQkZMDlfvkCf8NU" version="13.6.9" type="github" pages="5">
   <diagram id="XsI-VP8F_wyI25iaynHB" name="DataModel">
     <mxGraphModel dx="3546" dy="-83" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -215,7 +215,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qgoBf74jqrj72FyVHccw" name="DataModel met Mutaties">
-    <mxGraphModel dx="5503" dy="-449" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5103" dy="-449" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="LfXIUhtY-mDyvml78Tgq-0" />
         <mxCell id="LfXIUhtY-mDyvml78Tgq-1" parent="LfXIUhtY-mDyvml78Tgq-0" />
@@ -223,7 +223,7 @@
           <mxGeometry x="-1181" y="2350" width="239" height="1407" as="geometry" />
         </mxCell>
         <mxCell id="cq_9L7egJ7RBUe7Lh6Wo-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;" parent="LfXIUhtY-mDyvml78Tgq-1" vertex="1">
-          <mxGeometry x="-2007" y="2351" width="820" height="1406" as="geometry" />
+          <mxGeometry x="-2036" y="2351" width="849" height="1406" as="geometry" />
         </mxCell>
         <mxCell id="cq_9L7egJ7RBUe7Lh6Wo-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="LfXIUhtY-mDyvml78Tgq-1" source="cq_9L7egJ7RBUe7Lh6Wo-2" target="cq_9L7egJ7RBUe7Lh6Wo-5" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -522,47 +522,44 @@
             <mxPoint x="-1136.5" y="2779.7799999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tb4f94jQb1sziyt6UfK2-0" value="&lt;p style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;Door AEGON toegestane &#39;te wijzigen entiteiten&#39; binnen &#39;Ontslag hoofdelijk&#39;&lt;br&gt;&lt;/b&gt;- Onderpand (objecten)&lt;br&gt;- Hypotheekgever(s) en&lt;br&gt;Hypothe(e)k(-en) met&lt;br&gt;- Hypotheek dekking(-en) (Financieel=ORV)&lt;br&gt;- Depot(s)&lt;br&gt;- Lening(-en)&lt;br&gt;- Leningde(e)l(-en)&lt;br&gt;- Leningdeel dekking(-en) (Financieel\Bancair)&lt;/p&gt;&lt;p style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;Door AEGON toegestane mutaties (mutatiecodes) binnen &#39;Omzetten Lening&#39; per onderdeel:&lt;br&gt;&lt;/b&gt;&lt;b&gt;BeheerVerzoek&lt;br&gt;&lt;/b&gt;21-Ontslag hoofdelijke aansprakelijkheid&lt;/p&gt;&lt;p style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;Onderpand\Object&lt;br&gt;&lt;/b&gt;25-Aanpassen (huidige) marktwaarde (wijzigen) - &lt;i&gt;meesturen kosten*&lt;br&gt;&lt;/i&gt;&lt;span&gt;50-Ongewijzigd voortzetten (bestaand)&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;Partij\Tussenpersoon&lt;br&gt;&lt;/b&gt;50-Ongewijzigd voortzetten (bestaand) - &lt;i&gt;meesturen contact info&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;Partij\Hypotheekgever&lt;br&gt;&lt;/b&gt;02-Nieuwe hypotheekgever OHA (nieuw) - toetreder&lt;br&gt;30-Ontslaan hypotheekgever (beëindigen) - vertrekker&lt;br&gt;50-Ongewijzigd voortzetten (bestaand) - achterblijver -&amp;nbsp;&lt;i&gt;meesturen contact info&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;Hypotheek&lt;br&gt;&lt;/b&gt;02-Aanvragen aanvullende hypotheek (nieuw)&lt;br&gt;&lt;span style=&quot;text-align: center&quot;&gt;21-Ontslag hoofdelijke aansprakelijkheid&amp;nbsp;(wijzigen)&lt;br&gt;&lt;/span&gt;27-Omzetten hypotheek (wijzigen)&lt;br&gt;&lt;span style=&quot;text-align: center&quot;&gt;? Beëindigen&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;hypotheek door totale aflossing&lt;br&gt;&lt;/span&gt;50-Ongewijzigd voortzetten (bestaand)&lt;/p&gt;&lt;p style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;Financiële&amp;nbsp;Hypotheek Dekking (ORV)&lt;br&gt;&lt;/b&gt;01-Nieuwe polis aanvragen (nieuw)&lt;br&gt;21-Aanpassen verzekerde waarde (wijzigen)&lt;br&gt;22-Aanpassen verzekerde personen (wijzigen)&lt;br&gt;30-Beëindigen polis (beëindigen)&lt;br&gt;50-Ongewijzigd voortzetten (bestaand)&lt;/p&gt;&lt;p style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;Depot&lt;br&gt;&lt;/b&gt;01-Nieuw bouwdepot aanvragen&lt;br&gt;02-Nieuw energiedepot aanvragen&lt;br&gt;31-Beëindigen bouwdepot met aflossing restant op leningdeel&lt;br&gt;32-Beëindigen&amp;nbsp;energiedepot met aflossing restant op leningdeel&lt;br&gt;35-Beëindigen premiedepot met storting op rekening hypotheekgever&lt;br&gt;50-Ongewijzigd voortzetten (bestaand)&lt;/p&gt;&lt;p style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;Lening&lt;br&gt;&lt;/b&gt;02-Aanvragen aanvullende lening (nieuw)&lt;br&gt;26-Verlagen lening (wijzigen)&lt;br&gt;27-Omzetten lening (wijzigen)&lt;br&gt;28-Verhogen lening (wijzigen)&lt;br&gt;&lt;span style=&quot;text-align: center&quot;&gt;? Beëindigen&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;hypotheek door totale aflossing (&lt;/span&gt;beëindigen)&lt;br&gt;50-Ongewijzigd voortzetten (bestaand)&lt;/p&gt;&lt;p style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;Leningdeel&lt;br&gt;&lt;/b&gt;01-Nieuw leningdeel voor 1e hypotheek (nieuw)&lt;br&gt;02-Nieuw leningdeel voor nieuwe aanvullende lening (nieuw)&lt;br&gt;03-Nieuw leningdeel voor verhogen bestaande lening (nieuw)&lt;br&gt;04-Nieuw leningdeel door splitsen bestaand leningdeel (nieuw)&lt;br&gt;11-Omzetten aflosvorm (wijzigen)&lt;br&gt;12-Splitsen leningdeel (wijzigen)&lt;br&gt;13-Verlagen door aflossing met afkoopwaarde dekking (wijzigen)&lt;br&gt;14-Verlagen door aflossing met restantwaarde depot (wijzigen)&lt;br&gt;15-Verlagen door aflossing uit eigen middelen (wijzigen)&lt;br&gt;17-Verkorten looptijd (wijzigen)&lt;br&gt;25-Wijzigen leningdeel dekking (wijzigen)&amp;nbsp;&lt;br&gt;31-Beëindigen door totale aflossing uit eigen middelen (beëindigen)&lt;br&gt;32-Beëindigen door totale aflossing met afkoopwaarde dekking (beëindigen)&lt;br&gt;33-Beëindigen door totale aflossing met restantwaarde depot&amp;nbsp;(beëindigen)&lt;br&gt;50-Ongewijzigd voortzetten (bestaand)&lt;/p&gt;&lt;p style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;Financiële Leningdeel Dekking&lt;br&gt;&lt;/b&gt;51-Fiscaal geruisloze voortzetting (wijzigen)&lt;br&gt;11-Beëindigen door afkoop financiële dekking (beëindigen)&lt;br&gt;50-Ongewijzigd voortzetten (bestaand)&lt;/p&gt;&lt;p style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;Bancaire Leningdeel Dekking&lt;br&gt;&lt;/b&gt;51-Fiscaal geruisloze voortzetting (wijzigen)&lt;br&gt;11-Beëindigen door afkoop bancaire dekking (beëindigen)&lt;br&gt;50-Ongewijzigd voortzetten (bestaand)&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;fontSize=12;verticalAlign=bottom;strokeColor=#000000;dashed=1;" parent="LfXIUhtY-mDyvml78Tgq-1" vertex="1">
-          <mxGeometry x="-2462" y="2351" width="445" height="1160" as="geometry" />
-        </mxCell>
         <mxCell id="tb4f94jQb1sziyt6UfK2-1" value="&lt;p style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;MutatieModel (entiteiten structuur)&lt;br&gt;&lt;/b&gt;Naast generiek waardelijst &#39;MutatieType&#39;, toevoegen van een &quot;Wijziging&quot; entiteit per onderdeel met maatschappij specifieke waardelijst voor MutatieCode en benodigde mutatie attributen.&lt;/p&gt;&lt;p style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;fontSize=12;verticalAlign=top;strokeColor=#000000;dashed=1;" parent="LfXIUhtY-mDyvml78Tgq-1" vertex="1">
-          <mxGeometry x="-2464" y="3516.5" width="445" height="239" as="geometry" />
+          <mxGeometry x="-2026.5" y="3508" width="445" height="239" as="geometry" />
         </mxCell>
         <mxCell id="tb4f94jQb1sziyt6UfK2-2" value="&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#000000&quot; face=&quot;helvetica&quot;&gt;ENTITEIT&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-weight: normal&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;0-99)&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontColor=#808080;align=center;" parent="LfXIUhtY-mDyvml78Tgq-1" vertex="1">
-          <mxGeometry x="-2334.003251953125" y="3630.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1896.503251953125" y="3622" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tb4f94jQb1sziyt6UfK2-3" value="&lt;div&gt;&lt;font color=&quot;#000000&quot; face=&quot;helvetica&quot;&gt;WIJZIGING&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot; face=&quot;helvetica&quot;&gt;(0-9)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontColor=#808080;align=center;" parent="LfXIUhtY-mDyvml78Tgq-1" vertex="1">
-          <mxGeometry x="-2216.503251953125" y="3692.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1779.003251953125" y="3684" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tb4f94jQb1sziyt6UfK2-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="LfXIUhtY-mDyvml78Tgq-1" source="tb4f94jQb1sziyt6UfK2-2" target="tb4f94jQb1sziyt6UfK2-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tb4f94jQb1sziyt6UfK2-5" value="&lt;i style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-weight: 400 ; letter-spacing: normal ; text-align: right ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;MutatieType*&lt;br&gt;&lt;/i&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#808080;" parent="LfXIUhtY-mDyvml78Tgq-1" vertex="1">
-          <mxGeometry x="-2228.501764705882" y="3603.4994117647057" width="87" height="28" as="geometry" />
+          <mxGeometry x="-1791.0017647058821" y="3594.9994117647057" width="87" height="28" as="geometry" />
         </mxCell>
         <mxCell id="tb4f94jQb1sziyt6UfK2-6" value="&lt;span style=&quot;font-weight: 400&quot;&gt;Beëindigen&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="LfXIUhtY-mDyvml78Tgq-1" vertex="1">
-          <mxGeometry x="-2226.5" y="3677.5" width="85" height="14" as="geometry" />
+          <mxGeometry x="-1789" y="3669" width="85" height="14" as="geometry" />
         </mxCell>
         <mxCell id="tb4f94jQb1sziyt6UfK2-7" value="&lt;span style=&quot;font-weight: 400&quot;&gt;Nieuw&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="LfXIUhtY-mDyvml78Tgq-1" vertex="1">
-          <mxGeometry x="-2226.5" y="3629.5" width="85" height="14" as="geometry" />
+          <mxGeometry x="-1789" y="3621" width="85" height="14" as="geometry" />
         </mxCell>
         <mxCell id="tb4f94jQb1sziyt6UfK2-8" value="&lt;span style=&quot;font-weight: 400&quot;&gt;Bestaand&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="LfXIUhtY-mDyvml78Tgq-1" vertex="1">
-          <mxGeometry x="-2226.5" y="3645.5" width="85" height="14" as="geometry" />
+          <mxGeometry x="-1789" y="3637" width="85" height="14" as="geometry" />
         </mxCell>
         <mxCell id="tb4f94jQb1sziyt6UfK2-9" value="&lt;span style=&quot;font-weight: 400&quot;&gt;Wijzigen&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="LfXIUhtY-mDyvml78Tgq-1" vertex="1">
-          <mxGeometry x="-2226.5" y="3661.5" width="85" height="14" as="geometry" />
+          <mxGeometry x="-1789" y="3653" width="85" height="14" as="geometry" />
         </mxCell>
         <mxCell id="tb4f94jQb1sziyt6UfK2-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="LfXIUhtY-mDyvml78Tgq-1" source="tb4f94jQb1sziyt6UfK2-11" target="tb4f94jQb1sziyt6UfK2-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tb4f94jQb1sziyt6UfK2-11" value="BEHEER&lt;br&gt;VERZOEK&lt;br&gt;(1-1)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" parent="LfXIUhtY-mDyvml78Tgq-1" vertex="1">
-          <mxGeometry x="-2453.003251953126" y="3578.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2015.503251953126" y="3570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tb4f94jQb1sziyt6UfK2-12" value="&lt;i style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-weight: 400 ; letter-spacing: normal ; text-align: right ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;MutatieCode*&lt;br&gt;&lt;/i&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#808080;" parent="LfXIUhtY-mDyvml78Tgq-1" vertex="1">
-          <mxGeometry x="-2114.001764705882" y="3677.4994117647057" width="87" height="28" as="geometry" />
+          <mxGeometry x="-1676.5017647058821" y="3668.9994117647057" width="87" height="28" as="geometry" />
         </mxCell>
         <mxCell id="tb4f94jQb1sziyt6UfK2-13" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;21-Ontslag hoofdelijke&lt;br&gt;aansprakelijkheid&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="LfXIUhtY-mDyvml78Tgq-1" vertex="1">
-          <mxGeometry x="-2114" y="3696.5" width="101" height="49" as="geometry" />
+          <mxGeometry x="-1676.5" y="3688" width="101" height="49" as="geometry" />
         </mxCell>
         <mxCell id="bv6oUX6vaotC4kRkLZzZ-0" value="&lt;span style=&quot;font-weight: 400&quot;&gt;Nieuw&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="LfXIUhtY-mDyvml78Tgq-1" vertex="1">
           <mxGeometry x="-1634" y="3122" width="85" height="14" as="geometry" />
@@ -583,7 +580,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="q-YgmyU-mv4xQ6OxyhIW" name="MutatieModel OHA">
-    <mxGraphModel dx="7327" dy="1358" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6854" dy="1086" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ORjnNxSoMWj9qvervMQA-0" />
         <mxCell id="ORjnNxSoMWj9qvervMQA-1" parent="ORjnNxSoMWj9qvervMQA-0" />
