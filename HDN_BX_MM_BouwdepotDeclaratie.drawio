@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-09-15T10:37:54.542Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 Edg/85.0.564.51" etag="r_MnR8yG56pVeF0ImZM1" version="13.6.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-09-15T10:40:15.012Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 Edg/85.0.564.51" etag="Yj0De6g3XvR1xNjXBUGh" version="13.6.9" type="github" pages="4">
   <diagram id="sHyo-HsOnBTXvbaH--nx" name="DataModel DB">
     <mxGraphModel dx="2404" dy="-264" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="D2LSu9hIvE2ZQXqcNUoY-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-812" y="1186" width="797" height="730" as="geometry" />
+          <mxGeometry x="-812" y="1186" width="797" height="612" as="geometry" />
         </mxCell>
         <mxCell id="wv3KcR0LM4bBvchN6MWp-4" value="DEPOT&lt;br&gt;(0-9)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="-538.0032519531255" y="1711" width="120" height="60" as="geometry" />
@@ -58,11 +58,11 @@
         <mxCell id="JXf9vZmwkOcOhgqJebvh-2" value="CONTACT&lt;br&gt;INFO" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="-538.003251953126" y="1590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j7eNeLo-KoBFPHYYIZsm-1" value="&lt;font style=&quot;font-size: 21px&quot;&gt;HDN BeheerBericht (BX)&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;&lt;i&gt;&lt;b&gt;Conceptueel Datamodel&lt;/b&gt;&lt;br&gt;Declaratie Bouwdepot&lt;br&gt;&lt;/i&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="j7eNeLo-KoBFPHYYIZsm-1" value="&lt;font style=&quot;font-size: 21px&quot;&gt;HDN BeheerBericht (BX)&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;&lt;i&gt;&lt;b&gt;Conceptueel Datamodel&lt;/b&gt;&lt;br&gt;&#39;Declaratie Bouwdepot&#39; (DB)&lt;br&gt;&lt;/i&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-515" y="1215" width="460" height="93" as="geometry" />
         </mxCell>
         <mxCell id="RyzWWjJ9MBmWIBpLD8zA-1" value="&lt;p&gt;&lt;b&gt;Door AEGON toegestane &#39;te wijzigen entiteiten&#39; binnen &#39;Declareren bouwdepot&#39;:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;Hypothe(e)k(-en) met een actief&lt;br&gt;- Bouw- of energiedepot&lt;/p&gt;" style="text;html=1;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-244" y="1784" width="204" height="111" as="geometry" />
+          <mxGeometry x="-377" y="1317.5" width="204" height="111" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -159,8 +159,11 @@
         <mxCell id="YT46GgTB2qL46BlUGU6R-36" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;22-Depot declaratie&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="Q8k3mvvSZgH3HEycwJfM-1" vertex="1">
           <mxGeometry x="-419" y="1731" width="149" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="P5zYkD7rexszqxHuDdwb-0" value="&lt;font style=&quot;font-size: 21px&quot;&gt;HDN BeheerBericht (BX)&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;&lt;i&gt;&lt;b&gt;Conceptueel Datamodel met Mutaties&lt;/b&gt;&lt;br&gt;Declaratie Bouwdepot&lt;br&gt;&lt;/i&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Q8k3mvvSZgH3HEycwJfM-1">
+        <mxCell id="P5zYkD7rexszqxHuDdwb-0" value="&lt;font style=&quot;font-size: 21px&quot;&gt;HDN BeheerBericht (BX)&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;&lt;i&gt;&lt;b&gt;Conceptueel Datamodel met mutaties&lt;/b&gt;&lt;br&gt;&#39;Declaratie Bouwdepot&#39; (DB)&lt;br&gt;&lt;/i&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Q8k3mvvSZgH3HEycwJfM-1">
           <mxGeometry x="-515" y="1215" width="460" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="HkSNotYldHO88U3lDWuX-0" value="&lt;p&gt;&lt;b&gt;Door AEGON toegestane &#39;te wijzigen entiteiten&#39; binnen &#39;Declareren bouwdepot&#39;:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;Hypothe(e)k(-en) met een actief&lt;br&gt;- Bouw- of energiedepot&lt;/p&gt;" style="text;html=1;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;" vertex="1" parent="Q8k3mvvSZgH3HEycwJfM-1">
+          <mxGeometry x="-377" y="1317.5" width="204" height="111" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -285,8 +288,8 @@
         <mxCell id="UaTL2o-_eGHc7rhei8X_-2" value="CONTACT&lt;br&gt;INFO" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;" parent="zjRz5vi4FMOX-iklKWLo-1" vertex="1">
           <mxGeometry x="-4380.003251953126" y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AGdBLcVN3IPgxUJNqGOw-0" value="&lt;font style=&quot;font-size: 21px&quot;&gt;HDN BeheerBericht (BX)&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;&lt;i&gt;&lt;b&gt;Conceptueel Datamodel met Mutaties&lt;/b&gt;&lt;br&gt;Declaratie Bouwdepot&lt;br&gt;&lt;/i&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zjRz5vi4FMOX-iklKWLo-1">
-          <mxGeometry x="-4920" y="47.5" width="290" height="93" as="geometry" />
+        <mxCell id="AGdBLcVN3IPgxUJNqGOw-0" value="&lt;font style=&quot;font-size: 21px&quot;&gt;HDN BeheerBericht (BX)&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;&lt;i&gt;&lt;b&gt;Conceptueel MutatieModel&lt;/b&gt;&lt;br&gt;&#39;Declaratie Bouwdepot&#39; (DB)&lt;br&gt;&lt;/i&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zjRz5vi4FMOX-iklKWLo-1">
+          <mxGeometry x="-4930" y="47.5" width="310" height="93" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -404,11 +407,11 @@
         <mxCell id="ypFpEEc3B-a0PxD1UqM6-7" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-weight: 400&quot;&gt;Indienen energiedepot declaratie&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-weight: 400 ; text-align: left&quot;&gt;(22)&lt;/span&gt;&lt;span style=&quot;font-weight: 400 ; text-align: left&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="AcrLOxefnbmeObc_XqNP-1">
           <mxGeometry x="-4752" y="1999.9999999999995" width="87" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="3en_DAhzvSF_k-zMyJWv-0" value="&lt;font style=&quot;font-size: 21px&quot;&gt;HDN BeheerBericht (BX)&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;&lt;i&gt;&lt;b&gt;Conceptueel Datamodel met Mutaties&lt;/b&gt;&lt;br&gt;Declaratie Bouwdepot&lt;br&gt;&lt;/i&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="AcrLOxefnbmeObc_XqNP-1">
-          <mxGeometry x="-4919.63" y="1228.5" width="290" height="93" as="geometry" />
-        </mxCell>
         <mxCell id="Q_KV6IpvHMNN_2x8jXFP-0" value="&lt;p&gt;&lt;b&gt;Door AEGON toegestane &#39;te wijzigen entiteiten&#39; binnen &#39;Extra Aflossen&#39;&lt;br&gt;&lt;/b&gt;Hypothe(e)k(-en) met&lt;br&gt;- Lening(-en)&lt;br&gt;- Leningde(e)l(-en)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Door AEGON toegestane mutaties (mutatiecodes) binnen &#39;Omzetten hypotheek&#39; per onderdeel:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;BeheerVerzoek&lt;br&gt;&lt;/b&gt;-Indienen depot declaratie&lt;/p&gt;&lt;p&gt;&lt;b&gt;Hypotheek&lt;br&gt;&lt;/b&gt;22-Depot declaratie (wijzigen)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Depot&lt;br&gt;&lt;/b&gt;21-Indienen bouwdepot declaratie (wijzigen)&lt;br&gt;22-Indienen energiedepot declaratie (wijzigen)&lt;/p&gt;" style="text;html=1;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;" vertex="1" parent="AcrLOxefnbmeObc_XqNP-1">
           <mxGeometry x="-4594" y="1840" width="408" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="Y383lsfQvFPOFaMZAPa0-0" value="&lt;font style=&quot;font-size: 21px&quot;&gt;HDN BeheerBericht (BX)&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;&lt;i&gt;&lt;b&gt;Conceptueel MutatieModel&lt;br&gt;met attributen&lt;/b&gt;&lt;br&gt;&#39;Declaratie Bouwdepot&#39; (DB)&lt;br&gt;&lt;/i&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="AcrLOxefnbmeObc_XqNP-1">
+          <mxGeometry x="-4940" y="1220" width="310" height="93" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
