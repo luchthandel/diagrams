@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-17T07:49:07.147Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="4TFuoyhlajM_FG3bCnXh" version="13.7.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2020-09-17T07:53:09.409Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="pQ9n8fRI2snHufXjt1_B" version="13.7.2" type="github" pages="9">
   <diagram name="DataModel BX" id="WH-oXVbnJABVDxn85V8X">
     <mxGraphModel dx="4951" dy="-899" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1021,7 +1021,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="q-YgmyU-mv4xQ6OxyhIW" name="MutatieModel OHA">
-    <mxGraphModel dx="8405" dy="1285" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6684" dy="643" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ORjnNxSoMWj9qvervMQA-0" />
         <mxCell id="ORjnNxSoMWj9qvervMQA-1" parent="ORjnNxSoMWj9qvervMQA-0" />
@@ -1702,11 +1702,17 @@
         <mxCell id="WAn0upk4j3gPBKXw4PRM-9" value="&lt;span style=&quot;font-weight: 400&quot;&gt;Beëindigen&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="ORjnNxSoMWj9qvervMQA-1">
           <mxGeometry x="-2591" y="1420" width="85" height="14" as="geometry" />
         </mxCell>
+        <mxCell id="GZwyWUrK0Ymy0NWvQOe8-0" value="&lt;i style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-weight: 400 ; letter-spacing: normal ; text-align: right ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;MutatieType*&lt;br&gt;&lt;/i&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#808080;" vertex="1" parent="ORjnNxSoMWj9qvervMQA-1">
+          <mxGeometry x="-2756.001764705882" y="1429.4994117647057" width="87" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="GZwyWUrK0Ymy0NWvQOe8-1" value="&lt;i style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-weight: 400 ; letter-spacing: normal ; text-align: right ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;MutatieCode*&lt;br&gt;&lt;/i&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#808080;" vertex="1" parent="ORjnNxSoMWj9qvervMQA-1">
+          <mxGeometry x="-2756.001764705882" y="1564.9994117647057" width="87" height="28" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="MutatieModel OHA met Attributen" id="woXwwJJjdvGIrEc_Eblh">
-    <mxGraphModel dx="11103" dy="2603" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7266" dy="1171" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="yYa5gmls0bjg0UyGlrCh-0" />
         <mxCell id="yYa5gmls0bjg0UyGlrCh-1" parent="yYa5gmls0bjg0UyGlrCh-0" />
@@ -2608,16 +2614,16 @@
         <mxCell id="-l8LA2U-SeGlwRb2lT2s-12" value="WIJZIGING&lt;br&gt;(0-9)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="yYa5gmls0bjg0UyGlrCh-1">
           <mxGeometry x="-2510" y="1950" width="109" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-l8LA2U-SeGlwRb2lT2s-13" value="&lt;span style=&quot;font-weight: 400&quot;&gt;Ongewijzigd&lt;br&gt;voortzetten&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="yYa5gmls0bjg0UyGlrCh-1">
+        <mxCell id="-l8LA2U-SeGlwRb2lT2s-13" value="&lt;span style=&quot;font-weight: 400&quot;&gt;Ongewijzigd&lt;br&gt;voortzetten&lt;br&gt;(50)&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="yYa5gmls0bjg0UyGlrCh-1">
           <mxGeometry x="-2719.5" y="1998.9999999999995" width="85" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="-l8LA2U-SeGlwRb2lT2s-14" value="&lt;span style=&quot;font-weight: 400&quot;&gt;Nieuw aanvragen met reden x&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="yYa5gmls0bjg0UyGlrCh-1">
+        <mxCell id="-l8LA2U-SeGlwRb2lT2s-14" value="&lt;span style=&quot;font-weight: 400&quot;&gt;Nieuw aanvragen met reden &lt;br&gt;(x)&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="yYa5gmls0bjg0UyGlrCh-1">
           <mxGeometry x="-2825.5" y="1998.9999999999998" width="85" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="-l8LA2U-SeGlwRb2lT2s-15" value="&lt;span style=&quot;font-weight: 400&quot;&gt;Beëindigen door mutatie z&lt;/span&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="yYa5gmls0bjg0UyGlrCh-1">
+        <mxCell id="-l8LA2U-SeGlwRb2lT2s-15" value="&lt;span style=&quot;font-weight: 400&quot;&gt;Beëindigen door mutatie z&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;(z)&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="yYa5gmls0bjg0UyGlrCh-1">
           <mxGeometry x="-2496" y="1998.9999999999995" width="87" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="-l8LA2U-SeGlwRb2lT2s-16" value="&lt;span style=&quot;font-weight: 400&quot;&gt;Wijzigen door mutatie y&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="yYa5gmls0bjg0UyGlrCh-1">
+        <mxCell id="-l8LA2U-SeGlwRb2lT2s-16" value="&lt;span style=&quot;font-weight: 400&quot;&gt;Wijzigen door mutatie y&lt;br&gt;(y)&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="yYa5gmls0bjg0UyGlrCh-1">
           <mxGeometry x="-2609" y="1998.9999999999995" width="85" height="75" as="geometry" />
         </mxCell>
         <mxCell id="-l8LA2U-SeGlwRb2lT2s-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="yYa5gmls0bjg0UyGlrCh-1" source="-l8LA2U-SeGlwRb2lT2s-18" target="-l8LA2U-SeGlwRb2lT2s-10">
@@ -2637,6 +2643,12 @@
         </mxCell>
         <mxCell id="-l8LA2U-SeGlwRb2lT2s-22" value="&lt;span style=&quot;font-weight: 400&quot;&gt;Beëindigen&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="yYa5gmls0bjg0UyGlrCh-1">
           <mxGeometry x="-2494" y="1901" width="85" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="Vhqvs3I1roigtiQlfBQF-0" value="&lt;i style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-weight: 400 ; letter-spacing: normal ; text-align: right ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;MutatieType*&lt;br&gt;&lt;/i&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#808080;" vertex="1" parent="yYa5gmls0bjg0UyGlrCh-1">
+          <mxGeometry x="-2659.001764705882" y="1906.4994117647057" width="87" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="Vhqvs3I1roigtiQlfBQF-1" value="&lt;i style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-weight: 400 ; letter-spacing: normal ; text-align: right ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;MutatieCode*&lt;br&gt;&lt;/i&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#808080;" vertex="1" parent="yYa5gmls0bjg0UyGlrCh-1">
+          <mxGeometry x="-2659.001764705882" y="2041.9994117647057" width="87" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
