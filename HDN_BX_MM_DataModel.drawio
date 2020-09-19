@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-19T19:30:15.855Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 Edg/85.0.564.51" etag="B27-CtJRuRDSKUbpnixM" version="13.7.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-09-19T19:37:40.053Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 Edg/85.0.564.51" etag="gD5_2EXBfk1dH7uVoNSA" version="13.7.3" type="github" pages="2">
   <diagram id="2k5GwR18x-p9Us8SoRmZ" name="Conceptueel">
-    <mxGraphModel dx="3113" dy="-1209" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3577" dy="-880" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="2dTIugfBSpXKrui5Yzou-0" />
         <mxCell id="2dTIugfBSpXKrui5Yzou-1" parent="2dTIugfBSpXKrui5Yzou-0" />
@@ -22,13 +22,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2dTIugfBSpXKrui5Yzou-10" value="LENINGDEEL&lt;br&gt;(0-25)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="2dTIugfBSpXKrui5Yzou-1">
-          <mxGeometry x="-1265.003251953126" y="3285" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1265.0032519531253" y="3285" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2dTIugfBSpXKrui5Yzou-11" value="FINANCIELE DEKKING (0-9)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="2dTIugfBSpXKrui5Yzou-1">
-          <mxGeometry x="-1147.0032519531255" y="3352" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1138.003251953125" y="3352" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2dTIugfBSpXKrui5Yzou-12" value="BANCAIRE DEKKING (0-9)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="2dTIugfBSpXKrui5Yzou-1">
-          <mxGeometry x="-1147.0032519531255" y="3418.6400000000003" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1138.003251953125" y="3418.6400000000003" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2dTIugfBSpXKrui5Yzou-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2dTIugfBSpXKrui5Yzou-1" source="2dTIugfBSpXKrui5Yzou-14" target="2dTIugfBSpXKrui5Yzou-65">
           <mxGeometry relative="1" as="geometry" />
@@ -93,7 +93,7 @@
         <mxCell id="2dTIugfBSpXKrui5Yzou-33" value="OBJECT&lt;br&gt;(0-9)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="2dTIugfBSpXKrui5Yzou-1">
           <mxGeometry x="-1516.003251953126" y="2912" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2dTIugfBSpXKrui5Yzou-34" value="PERSOONLIJKE&lt;br&gt;GEGEVENS*" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;" vertex="1" parent="2dTIugfBSpXKrui5Yzou-1">
+        <mxCell id="2dTIugfBSpXKrui5Yzou-34" value="ADRES" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;" vertex="1" parent="2dTIugfBSpXKrui5Yzou-1">
           <mxGeometry x="-1265.003251953125" y="2852" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2dTIugfBSpXKrui5Yzou-35" value="DEPOT&lt;br&gt;(0-9)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="2dTIugfBSpXKrui5Yzou-1">
@@ -103,9 +103,9 @@
           <mxGeometry x="-1392.003251953125" y="2971" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2dTIugfBSpXKrui5Yzou-37" value="FINANCIELE&lt;br&gt;GEGEVENS*&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;(zie AX)&lt;/i&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;" vertex="1" parent="2dTIugfBSpXKrui5Yzou-1">
-          <mxGeometry x="-1138.003251953126" y="2852" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1138.003251953125" y="2852" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2dTIugfBSpXKrui5Yzou-38" value="CONTACT&lt;br&gt;INFO*" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;" vertex="1" parent="2dTIugfBSpXKrui5Yzou-1">
+        <mxCell id="2dTIugfBSpXKrui5Yzou-38" value="CONTACT&lt;br&gt;PERSOON*" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;" vertex="1" parent="2dTIugfBSpXKrui5Yzou-1">
           <mxGeometry x="-1392.003251953125" y="2723" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2dTIugfBSpXKrui5Yzou-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2dTIugfBSpXKrui5Yzou-1" source="2dTIugfBSpXKrui5Yzou-59" target="2dTIugfBSpXKrui5Yzou-60">
@@ -114,23 +114,35 @@
         <mxCell id="2dTIugfBSpXKrui5Yzou-59" value="NOTARIS&lt;br&gt;(0-1)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="2dTIugfBSpXKrui5Yzou-1">
           <mxGeometry x="-1516.003251953126" y="2550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2dTIugfBSpXKrui5Yzou-60" value="CONTACT&lt;br&gt;INFO*" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;" vertex="1" parent="2dTIugfBSpXKrui5Yzou-1">
+        <mxCell id="2dTIugfBSpXKrui5Yzou-60" value="CONTACT&lt;br&gt;PERSOON*" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;" vertex="1" parent="2dTIugfBSpXKrui5Yzou-1">
           <mxGeometry x="-1392.003251953125" y="2611" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2dTIugfBSpXKrui5Yzou-61" value="DEBITEUR&lt;br&gt;(1-9)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;" vertex="1" parent="2dTIugfBSpXKrui5Yzou-1">
           <mxGeometry x="-1392.003251953125" y="2788" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2dTIugfBSpXKrui5Yzou-62" value="DEPOTHOUDER&lt;br&gt;(0-1)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;" vertex="1" parent="2dTIugfBSpXKrui5Yzou-1">
-          <mxGeometry x="-1265.003251953126" y="2788" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1265.0032519531253" y="2788" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2dTIugfBSpXKrui5Yzou-65" value="CONTACT&lt;br&gt;INFO*" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;" vertex="1" parent="2dTIugfBSpXKrui5Yzou-1">
+        <mxCell id="2dTIugfBSpXKrui5Yzou-65" value="PERSOONLIJKE&lt;br&gt;GEGEVENS*" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;" vertex="1" parent="2dTIugfBSpXKrui5Yzou-1">
           <mxGeometry x="-1392.003251953125" y="2852" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XGtOY1751qsnxN64WQr6-0" value="TARIEFKLASSE" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;" vertex="1" parent="2dTIugfBSpXKrui5Yzou-1">
+          <mxGeometry x="-1138.003251953125" y="3285" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LfQNmJZ2KakwMwxXXTek-0" value="INCASSO&lt;br&gt;AFSPRAAK" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;" vertex="1" parent="2dTIugfBSpXKrui5Yzou-1">
+          <mxGeometry x="-1265.003251953125" y="3219" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LfQNmJZ2KakwMwxXXTek-1" value="WONING&lt;br&gt;WAARDE&lt;br&gt;VERHOUDING" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;" vertex="1" parent="2dTIugfBSpXKrui5Yzou-1">
+          <mxGeometry x="-1265.003251953125" y="2971" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kyzOzqV7m9u7pfytno87-0" value="ADRES /&amp;nbsp;&lt;br&gt;KADASTRALE AANDUIDING" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;" vertex="1" parent="2dTIugfBSpXKrui5Yzou-1">
+          <mxGeometry x="-1138.003251953125" y="2971" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="9AT7JnX1zXT0VslW_CJV" name="Page-1">
-    <mxGraphModel dx="7852" dy="463" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="9AT7JnX1zXT0VslW_CJV" name="ERD">
+    <mxGraphModel dx="8777" dy="1120" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
