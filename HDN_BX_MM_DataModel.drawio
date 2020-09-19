@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-19T18:19:47.457Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 Edg/85.0.564.51" etag="5tyc_qzPqH6V6d8EU6TV" version="13.7.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-09-19T18:39:35.711Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 Edg/85.0.564.51" etag="PZinG9t3cRKHYLzItlxG" version="13.7.3" type="github" pages="2">
   <diagram id="2k5GwR18x-p9Us8SoRmZ" name="Conceptueel">
     <mxGraphModel dx="3113" dy="-1209" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -130,7 +130,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9AT7JnX1zXT0VslW_CJV" name="Page-1">
-    <mxGraphModel dx="8692" dy="1344" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="8377" dy="1520" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -143,7 +143,7 @@
         <mxCell id="HXOMVxGDbbJaBRu_FrNp-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="HXOMVxGDbbJaBRu_FrNp-32" target="HXOMVxGDbbJaBRu_FrNp-65" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HXOMVxGDbbJaBRu_FrNp-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontStyle=1" parent="1" source="HXOMVxGDbbJaBRu_FrNp-8" target="HXOMVxGDbbJaBRu_FrNp-27" edge="1">
+        <mxCell id="HXOMVxGDbbJaBRu_FrNp-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" parent="1" source="HXOMVxGDbbJaBRu_FrNp-8" target="HXOMVxGDbbJaBRu_FrNp-26" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-6327" y="244" as="sourcePoint" />
           </mxGeometry>
@@ -337,12 +337,60 @@
         <mxCell id="Bok9iATOm-FQe15UoB1A-24" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HXOMVxGDbbJaBRu_FrNp-68" target="HXOMVxGDbbJaBRu_FrNp-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="HXOMVxGDbbJaBRu_FrNp-20" value="Debiteur" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;fillColor=#f5f5f5;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="-5128" y="266" width="160" height="30" as="geometry">
+            <mxRectangle x="-5731" y="351" width="160" height="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HXOMVxGDbbJaBRu_FrNp-21" value="DebiteurNr*&#xa;MutatieType*&#xa;HypotheekgeverNrRef&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;labelBackgroundColor=#ffffff;" parent="HXOMVxGDbbJaBRu_FrNp-20" vertex="1">
+          <mxGeometry y="30" width="160" as="geometry" />
+        </mxCell>
+        <mxCell id="HXOMVxGDbbJaBRu_FrNp-22" value="Depothouder" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;fillColor=#f5f5f5;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="-5128" y="303.25" width="160" height="30" as="geometry">
+            <mxRectangle x="-5257" y="588" width="160" height="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HXOMVxGDbbJaBRu_FrNp-23" value="DepothouderNr*&#xa;MutatieType*&#xa;HypotheekgeverNrRef&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;labelBackgroundColor=#ffffff;" parent="HXOMVxGDbbJaBRu_FrNp-22" vertex="1">
+          <mxGeometry y="30" width="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Bok9iATOm-FQe15UoB1A-28" value="Notaris" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;fillColor=#f5f5f5;rounded=1;fontSize=14;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;strokeColor=#666666;fontColor=#333333;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="-5128" y="229" width="160" height="30" as="geometry">
+            <mxRectangle x="-5110" y="-8" width="191" height="134" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bok9iATOm-FQe15UoB1A-29" value="NotarisNr*&#xa;MutatieType*&#xa;Bedrijfsnaam&#xa;TelefoonNrWerk&#xa;Mobiele nummer&#xa;E-mailadres*" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontStyle=0" vertex="1" parent="Bok9iATOm-FQe15UoB1A-28">
+          <mxGeometry y="30" width="160" as="geometry" />
+        </mxCell>
+        <mxCell id="HXOMVxGDbbJaBRu_FrNp-57" value="Kosten" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;fillColor=#f5f5f5;rounded=1;fontSize=14;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="-6699" y="262" width="160" height="30" as="geometry">
+            <mxRectangle x="-6460" y="323.75" width="160" height="112" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HXOMVxGDbbJaBRu_FrNp-58" value="Financiering overbedeling (uitkoop)&#xa;Kosten verkrijgen in eigendom&#xa;Kosten energiebudget&#xa;Kosten energiebesparende maatregelen&#xa;Kosten kwaliteitsverbetering" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="HXOMVxGDbbJaBRu_FrNp-57" vertex="1">
+          <mxGeometry y="30" width="160" as="geometry" />
+        </mxCell>
         <mxCell id="HXOMVxGDbbJaBRu_FrNp-68" value="Bancaire Dekking" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;fillColor=#f5f5f5;rounded=1;fontSize=14;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="-5917" y="958.0000000000002" width="160" height="30" as="geometry">
             <mxRectangle x="-5917" y="932.0000000000002" width="160" height="157" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HXOMVxGDbbJaBRu_FrNp-69" value="Dekkingnr*&#xa;MutatieType*&#xa;ContractNr*&#xa;Dekking Soort  &#xa;Dekking Code&#xa;Dekking Type&#xa;ProductNaam&#xa;Maatschappij" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="HXOMVxGDbbJaBRu_FrNp-68" vertex="1">
+          <mxGeometry y="30" width="160" as="geometry" />
+        </mxCell>
+        <mxCell id="HXOMVxGDbbJaBRu_FrNp-18" value="KadastraleAanduiding" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;fillColor=#f5f5f5;rounded=1;fontSize=14;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="-6699" y="296" width="160" height="30" as="geometry">
+            <mxRectangle x="-6648" y="411" width="160" height="125.25" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HXOMVxGDbbJaBRu_FrNp-19" value="..." style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="HXOMVxGDbbJaBRu_FrNp-18" vertex="1">
+          <mxGeometry y="30" width="160" as="geometry" />
+        </mxCell>
+        <mxCell id="HXOMVxGDbbJaBRu_FrNp-16" value="Adres" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;fillColor=#f5f5f5;rounded=1;fontSize=14;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="-6699" y="330" width="160" height="30" as="geometry">
+            <mxRectangle x="-6633" y="338.75" width="160" height="125.25" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HXOMVxGDbbJaBRu_FrNp-17" value="StraatNaam&#xa;HuisNr&#xa;HuisNrToevoeging&#xa;Postcode&#xa;Plaats&#xa;Land" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="HXOMVxGDbbJaBRu_FrNp-16" vertex="1">
           <mxGeometry y="30" width="160" as="geometry" />
         </mxCell>
         <mxCell id="HXOMVxGDbbJaBRu_FrNp-70" value="Wijziging" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;fillColor=#fff2cc;rounded=1;fontSize=14;fontStyle=2;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;strokeColor=#d6b656;" parent="1" vertex="1" collapsed="1">
@@ -396,30 +444,6 @@
         <mxCell id="HXOMVxGDbbJaBRu_FrNp-64" value="WijzigingsNr*&#xa;DekkingNr*&#xa;Prioriteit\Volgorde*&#xa;WijzigingsDatum*&#xa;MutatieCode*&#xa;VerzekerdePersonen&#xa;VerzekerdeSom&#xa;Afkoopwaarde" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="HXOMVxGDbbJaBRu_FrNp-63" vertex="1">
           <mxGeometry y="30" width="160" as="geometry" />
         </mxCell>
-        <mxCell id="HXOMVxGDbbJaBRu_FrNp-16" value="Adres" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;fillColor=#f5f5f5;rounded=1;fontSize=14;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="-6699" y="374.75" width="160" height="30" as="geometry">
-            <mxRectangle x="-6633" y="338.75" width="160" height="125.25" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HXOMVxGDbbJaBRu_FrNp-17" value="StraatNaam&#xa;HuisNr&#xa;HuisNrToevoeging&#xa;Postcode&#xa;Plaats&#xa;Land" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="HXOMVxGDbbJaBRu_FrNp-16" vertex="1">
-          <mxGeometry y="30" width="160" as="geometry" />
-        </mxCell>
-        <mxCell id="HXOMVxGDbbJaBRu_FrNp-18" value="KadastraleAanduiding" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;fillColor=#f5f5f5;rounded=1;fontSize=14;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="-6699" y="326" width="160" height="30" as="geometry">
-            <mxRectangle x="-6648" y="411" width="160" height="125.25" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HXOMVxGDbbJaBRu_FrNp-19" value="..." style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="HXOMVxGDbbJaBRu_FrNp-18" vertex="1">
-          <mxGeometry y="30" width="160" as="geometry" />
-        </mxCell>
-        <mxCell id="HXOMVxGDbbJaBRu_FrNp-57" value="Kosten" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;fillColor=#f5f5f5;rounded=1;fontSize=14;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="-6699" y="277" width="160" height="30" as="geometry">
-            <mxRectangle x="-6460" y="323.75" width="160" height="112" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HXOMVxGDbbJaBRu_FrNp-58" value="Financiering overbedeling (uitkoop)&#xa;Kosten verkrijgen in eigendom&#xa;Kosten energiebudget&#xa;Kosten energiebesparende maatregelen&#xa;Kosten kwaliteitsverbetering" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="HXOMVxGDbbJaBRu_FrNp-57" vertex="1">
-          <mxGeometry y="30" width="160" as="geometry" />
-        </mxCell>
         <mxCell id="Bok9iATOm-FQe15UoB1A-10" value="WoningWaardeVerh." style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;fillColor=#f5f5f5;rounded=1;fontSize=14;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;strokeColor=#666666;fontColor=#333333;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="-6699" y="228" width="160" height="30" as="geometry">
             <mxRectangle x="-6681" y="114" width="182" height="112" as="alternateBounds" />
@@ -454,26 +478,10 @@
         </mxCell>
         <mxCell id="HXOMVxGDbbJaBRu_FrNp-8" value="Object" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;fillColor=#f5f5f5;rounded=1;fontSize=14;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="-6493" y="229" width="160" height="30" as="geometry">
-            <mxRectangle x="-6488" y="207" width="160" height="139" as="alternateBounds" />
+            <mxRectangle x="-6493" y="229" width="160" height="139" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HXOMVxGDbbJaBRu_FrNp-9" value="ObjectNr*&#xa;Mutatietype*&#xa;ObjectCode&#xa;MarktWaarde bedrag&#xa;TaxatieDatum&#xa;WOZWaarde bedrag&#xa;DatumBeschikking" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="HXOMVxGDbbJaBRu_FrNp-8" vertex="1">
-          <mxGeometry y="30" width="160" as="geometry" />
-        </mxCell>
-        <mxCell id="HXOMVxGDbbJaBRu_FrNp-20" value="Debiteur" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;fillColor=#f5f5f5;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="-5127" y="229" width="160" height="30" as="geometry">
-            <mxRectangle x="-5731" y="351" width="160" height="90" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HXOMVxGDbbJaBRu_FrNp-21" value="DebiteurNr*&#xa;MutatieType*&#xa;HypotheekgeverNrRef&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;labelBackgroundColor=#ffffff;" parent="HXOMVxGDbbJaBRu_FrNp-20" vertex="1">
-          <mxGeometry y="30" width="160" as="geometry" />
-        </mxCell>
-        <mxCell id="HXOMVxGDbbJaBRu_FrNp-22" value="Depothouder" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;fillColor=#f5f5f5;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="-5127" y="266.25" width="160" height="30" as="geometry">
-            <mxRectangle x="-5257" y="588" width="160" height="90" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HXOMVxGDbbJaBRu_FrNp-23" value="DepothouderNr*&#xa;MutatieType*&#xa;HypotheekgeverNrRef&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;labelBackgroundColor=#ffffff;" parent="HXOMVxGDbbJaBRu_FrNp-22" vertex="1">
           <mxGeometry y="30" width="160" as="geometry" />
         </mxCell>
         <mxCell id="HXOMVxGDbbJaBRu_FrNp-24" value="Adres" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;fillColor=#f5f5f5;rounded=1;fontSize=14;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1" collapsed="1">
@@ -491,6 +499,105 @@
         </mxCell>
         <mxCell id="HXOMVxGDbbJaBRu_FrNp-77" value="Inkomsten&#xa;Verplichtingen&#xa;Bezittingen" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;labelBackgroundColor=#ffffff;" parent="HXOMVxGDbbJaBRu_FrNp-76" vertex="1">
           <mxGeometry y="30" width="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Bok9iATOm-FQe15UoB1A-30" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Bok9iATOm-FQe15UoB1A-26" target="Bok9iATOm-FQe15UoB1A-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bok9iATOm-FQe15UoB1A-33" value="MutatieCode BeheerVerzoek" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;fillColor=#dae8fc;rounded=1;fontSize=14;fontStyle=2;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-6156" y="-130" width="302" height="84" as="geometry">
+            <mxRectangle x="-6757" y="633" width="160" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bok9iATOm-FQe15UoB1A-34" value="21 Ontslag hoofdelijke aansprakelijkheid&#xa;27 Omzetten lening" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="Bok9iATOm-FQe15UoB1A-33">
+          <mxGeometry y="30" width="302" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="Bok9iATOm-FQe15UoB1A-26" value="MutatieCode Object" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;fillColor=#dae8fc;rounded=1;fontSize=14;fontStyle=2;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-6556" y="-130" width="302" height="207" as="geometry">
+            <mxRectangle x="-6757" y="633" width="160" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bok9iATOm-FQe15UoB1A-27" value="01 Toevoegen object/kavel/perceel (nieuw)&#xa;02 Toevoegen overbruggingspand (nieuw)&#xa;20 Aanpassen marktwaarde (wijzigen)&#xa;21 Aanpassen WOZ waarde (wijzigen)&#xa;22 Aanpassen woningwaardeverhouding (wijzigen)&#xa;23 Wijzigen adres (wijzigen)&#xa;24 Wijzigen kadastrale gegevens (wijzigen)&#xa;25 Toewijzen adres aan kavel (wijzigen)&#xa;31 Gedeeltelijk royement (beëindigen)&#xa;50 Ongewijzigd voortzetten (bestaand)&#xa;55 Aanvragen toestemming zakelijk gebruik&#xa;56 Aanvragen toestemming verhuur" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="Bok9iATOm-FQe15UoB1A-26">
+          <mxGeometry y="30" width="302" height="177" as="geometry" />
+        </mxCell>
+        <mxCell id="Bok9iATOm-FQe15UoB1A-31" value="MutatieCode Hypotheekgever" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;fillColor=#dae8fc;rounded=1;fontSize=14;fontStyle=2;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-5806" y="-125" width="302" height="122" as="geometry">
+            <mxRectangle x="-6757" y="633" width="160" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bok9iATOm-FQe15UoB1A-32" value="02 Toevoegen hypotheekgever (nieuw)&#xa;30 Ontslaan hypotheekgever (beëindigen)&#xa;50 Ongewijzigd voortzetten (bestaand)&#xa;xx Wijzigen persoonsgegevens / rectificatie (wijzigen)&#xa;xx Wijzigen adres (wijzigen)" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="Bok9iATOm-FQe15UoB1A-31">
+          <mxGeometry y="30" width="302" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="Bok9iATOm-FQe15UoB1A-36" value="MutatieCode Hypotheek Dekking" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;fillColor=#dae8fc;rounded=1;fontSize=14;fontStyle=2;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-6786" y="710" width="302" height="207" as="geometry">
+            <mxRectangle x="-6757" y="633" width="160" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bok9iATOm-FQe15UoB1A-37" value="01 Toevoegen object/kavel/perceel (nieuw)&#xa;02 Toevoegen overbruggingspand (nieuw)&#xa;20 Aanpassen marktwaarde (wijzigen)&#xa;21 Aanpassen WOZ waarde (wijzigen)&#xa;22 Aanpassen woningwaardeverhouding (wijzigen)&#xa;23 Wijzigen adres (wijzigen)&#xa;24 Wijzigen kadastrale gegevens (wijzigen)&#xa;25 Toewijzen adres aan kavel (wijzigen)&#xa;31 Gedeeltelijk royement (beëindigen)&#xa;50 Ongewijzigd voortzetten (bestaand)&#xa;55 Aanvragen toestemming zakelijk gebruik&#xa;56 Aanvragen toestemming verhuur" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="Bok9iATOm-FQe15UoB1A-36">
+          <mxGeometry y="30" width="302" height="177" as="geometry" />
+        </mxCell>
+        <mxCell id="Bok9iATOm-FQe15UoB1A-39" value="MutatieCode Debiteur" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;fillColor=#dae8fc;rounded=1;fontSize=14;fontStyle=2;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-5216" y="-120" width="302" height="94" as="geometry">
+            <mxRectangle x="-6757" y="633" width="160" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bok9iATOm-FQe15UoB1A-40" value="23 Wijzigen debiteur&#xa;24 Wijzigen rekeningnummer&#xa;55 Verklaring van betalingsgedrag" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="Bok9iATOm-FQe15UoB1A-39">
+          <mxGeometry y="30" width="302" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="Bok9iATOm-FQe15UoB1A-41" value="MutatieCode Depothouder" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;fillColor=#dae8fc;rounded=1;fontSize=14;fontStyle=2;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-5186" y="23" width="302" height="74" as="geometry">
+            <mxRectangle x="-6757" y="633" width="160" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bok9iATOm-FQe15UoB1A-42" value="23 Wijzigen depothouder&#xa;24 Wijzigen rekeningnummer" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="Bok9iATOm-FQe15UoB1A-41">
+          <mxGeometry y="30" width="302" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="Bok9iATOm-FQe15UoB1A-44" value="MutatieCode Hypotheek" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;fillColor=#dae8fc;rounded=1;fontSize=14;fontStyle=2;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-5373" y="616" width="302" height="329" as="geometry">
+            <mxRectangle x="-6757" y="633" width="160" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bok9iATOm-FQe15UoB1A-45" value="01 Aanvragen hypotheek (nieuw)&#xa;02 Aanvragen aanvullende hypotheek (nieuw)&#xa;05 Oversluiten hypotheek (nieuw)&#xa;20 Wijzigen depot (wijzigen)&#xa;21 Ontslag hoofdelijke aansprakelijke (wijzigen)&#xa;22 Toevoegen hoofdelijke aansprakelijke&#xa;23 Overlijden hoofdelijke aansprakelijke (wijzigen)&#xa;24 Wijzigen incasso (wijzigen)&#xa;25 Wijzigen hypotheek dekking (wijzigen)&#xa;26 Omzetten hypotheek (wijzigen)&#xa;27 Omzetten lening (wijzigen)&#xa;28 Verlagen hypotheek (wijzigen)&#xa;29 Verhogen hypotheek (wijzigen)&#xa;30 Beëindigen door totale aflossing (beëindigen)&#xa;31 Doorhalen hypotheek (royement) (beëindigen)&#xa;33 Beëindigen door verkoop onderpand (beëindigen)&#xa;33 Beëindigen door overlijden hoofdelijke aanspr&#xa;50 Ongewijzigd voortzetten (bestaand)&#xa;55 Aanvragen indicatieve aflosnota volledige aflossing&#xa;56 Aanvragen definitieve aflosnota volledige aflossing&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="Bok9iATOm-FQe15UoB1A-44">
+          <mxGeometry y="30" width="302" height="299" as="geometry" />
+        </mxCell>
+        <mxCell id="Bok9iATOm-FQe15UoB1A-46" value="MutatieCode Depot" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;fillColor=#dae8fc;rounded=1;fontSize=14;fontStyle=2;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-4993" y="668" width="302" height="222" as="geometry">
+            <mxRectangle x="-6757" y="633" width="160" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bok9iATOm-FQe15UoB1A-47" value="01 Nieuw bouwdepot aanvragen (nieuw)&#xa;02 Nieuw energiedepot aanvragen (nieuw)&#xa;20 Verlengen looptijd (wijzigen)&#xa;21 Aanpassen bouwplan (wijzigen)&#xa;30 Beëindigen depot (beëindigen)&#xa;31 Beëindigen bouwdepot met aflossing restant &#xa;     op leningdeel (beëindigen)&#xa;32 Beëindigen energiedepot met aflossing restant &#xa;     op leningdeel (beëindigen)&#xa;35 Beëindigen premiedepot met storting &#xa;     op rekening hypotheekgever (beëindigen)&#xa;50 Ongewijzigd voortzetten (bestaand)" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="Bok9iATOm-FQe15UoB1A-46">
+          <mxGeometry y="30" width="302" height="192" as="geometry" />
+        </mxCell>
+        <mxCell id="Bok9iATOm-FQe15UoB1A-48" value="MutatieCode Lening" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;fillColor=#dae8fc;rounded=1;fontSize=14;fontStyle=2;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-5716" y="619" width="302" height="178" as="geometry">
+            <mxRectangle x="-6757" y="633" width="160" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bok9iATOm-FQe15UoB1A-49" value="01 Aanvragen nieuwe lening (nieuw)&#xa;02 Aanvragen aanvullende lening (nieuw)&#xa;21 Wijzigen incasso afspraak (wijzigen)&#xa;23 Oversluiten lening naar NHG (wijzigen)&#xa;24 Aanpassen rente (wijzigen)&#xa;26 Verlagen lening (wijzigen)&#xa;27 Omzetten lening (wijzigen)&#xa;28 Verhogen lening (wijzigen)&#xa;30 Beëindigen lening door totale aflossing (beëindigen)&#xa;50 Ongewijzigd voortzetten (bestaand)" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="Bok9iATOm-FQe15UoB1A-48">
+          <mxGeometry y="30" width="302" height="148" as="geometry" />
+        </mxCell>
+        <mxCell id="Bok9iATOm-FQe15UoB1A-50" value="MutatieCode Leningdeel" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;fillColor=#dae8fc;rounded=1;fontSize=14;fontStyle=2;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-5408" y="1020" width="302" height="354" as="geometry">
+            <mxRectangle x="-6757" y="633" width="160" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bok9iATOm-FQe15UoB1A-51" value="01 Nieuw leningdeel voor 1e hypotheek (nieuw)&#xa;02 Nieuw leningdeel voor aanvullende lening (nieuw)&#xa;03 Nieuw leningdeel voor verhogen bestaande lening&#xa;04 Nieuw leningdeel door splitsen bestaand leningdeel&#xa;11 Omzetten aflosvorm (wijzigen)&#xa;12 Splitsen leningdeel (wijzigen)&#xa;13 Samenvoegen leningdeel (wijzigen)&#xa;14 Aflossen met afkoopwaarde dekking (wijzigen)&#xa;15 Aflossen met restantwaarde depot (wijzigen)&#xa;16  Aflossen uit eigen middelen (wijzigen)&#xa;17 Verkorten looptijd (wijzigen)&#xa;20 Herzien rentevastperiode (wijzigen)&#xa;21 Omzetten naar marktrente (wijzigen)&#xa;22 Vastzetten variabele rente (wijzigen)&#xa;23 Aanpassen tariefklasse (wijzigen)&#xa;24 Middelen rente (wijzigen)&#xa;25 Aanpassen rente aan tariefklasse (wijzigen)&#xa;26 Wijzigen leningdeel dekking (wijzigen) &#xa;31 Totaal aflossen uit eigen middelen (beëindigen)&#xa;32 Totaal aflossen met afkoopwaarde dekking (beëind)&#xa;33 Totaal aflossen met restantwaarde depot (beëind)&#xa;50 Ongewijzigd voortzetten (bestaand)" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="Bok9iATOm-FQe15UoB1A-50">
+          <mxGeometry y="30" width="302" height="324" as="geometry" />
+        </mxCell>
+        <mxCell id="Bok9iATOm-FQe15UoB1A-54" value="MutatieCode Bancaire Dekking" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;fillColor=#dae8fc;rounded=1;fontSize=14;fontStyle=2;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-5894" y="1186" width="302" height="143" as="geometry">
+            <mxRectangle x="-6757" y="633" width="160" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bok9iATOm-FQe15UoB1A-55" value="11 Afkoop bancaire dekking met aflossing &#xa;     op leningdeel (beëindigen)&#xa;12 Afkoop bancaire dekking met uitkering &#xa;     opgebouwde waarde  door storting &#xa;     op rekening klant(beëindigen)&#xa;50 Ongewijzigd voortzetten (bestaand)&#xa;51 Fiscaal geruisloze voortzetting (wijzigen)" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="Bok9iATOm-FQe15UoB1A-54">
+          <mxGeometry y="30" width="302" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="Bok9iATOm-FQe15UoB1A-52" value="MutatieCode Financiele Dekking" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;fillColor=#dae8fc;rounded=1;fontSize=14;fontStyle=2;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-6447" y="1155" width="302" height="153" as="geometry">
+            <mxRectangle x="-6757" y="633" width="160" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bok9iATOm-FQe15UoB1A-53" value="02 Verpanden bestaande dekking (nieuw)&#xa;11 Afkoop financiële dekking met aflossing &#xa;     op leningdeel (beëindigen)&#xa;12 Afkoop financiële dekking met uitkering &#xa;     opgebouwde waarde door storting &#xa;     op rekening klant(beëindigen)&#xa;50 Ongewijzigd voortzetten (bestaand)&#xa;51 Fiscaal geruisloze voortzetting (wijzigen)" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="Bok9iATOm-FQe15UoB1A-52">
+          <mxGeometry y="30" width="302" height="123" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
