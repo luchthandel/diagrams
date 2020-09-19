@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-18T21:43:35.339Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 Edg/85.0.564.51" etag="YtQiWrH6-ZNkvYRCwijH" version="13.7.3" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2020-09-19T07:24:45.444Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 Edg/85.0.564.51" etag="BA-DNumjO-3PFQhWF8mH" version="13.7.3" type="github" pages="10">
   <diagram name="DataModel BX" id="WH-oXVbnJABVDxn85V8X">
     <mxGraphModel dx="2946" dy="-1377" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2667,14 +2667,14 @@
         <mxCell id="berDGwb42OPregLxoamF-291" value="Object" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;fillColor=#f5f5f5;rounded=1;fontSize=14;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="berDGwb42OPregLxoamF-1">
           <mxGeometry x="-5336.9962068965515" y="38" width="160" height="99" as="geometry" />
         </mxCell>
-        <mxCell id="berDGwb42OPregLxoamF-292" value="ObjectNr*&#xa;Mutatietype*" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="berDGwb42OPregLxoamF-291">
+        <mxCell id="berDGwb42OPregLxoamF-292" value="ObjectNr*&#xa;Mutatietype*&#xa;MarktWaarde&#xa;WOZWaarde" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="berDGwb42OPregLxoamF-291">
           <mxGeometry y="30" width="160" height="69" as="geometry" />
         </mxCell>
         <mxCell id="berDGwb42OPregLxoamF-293" value="Wijziging" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;fillColor=#f5f5f5;rounded=1;fontSize=14;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;" vertex="1" parent="berDGwb42OPregLxoamF-1">
-          <mxGeometry x="-5337" y="178" width="160" height="132" as="geometry" />
+          <mxGeometry x="-5337" y="178" width="160" height="116" as="geometry" />
         </mxCell>
-        <mxCell id="berDGwb42OPregLxoamF-294" value="WijzigingsNr*&#xa;ObjectNr*&#xa;MutatieCode*&#xa;MarktWaarde&#xa;WOZWaarde&#xa;RegistratieNrNWWIRef" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;labelBackgroundColor=#ffffff;fontStyle=0" vertex="1" parent="berDGwb42OPregLxoamF-293">
-          <mxGeometry y="30" width="160" height="102" as="geometry" />
+        <mxCell id="berDGwb42OPregLxoamF-294" value="WijzigingsNr*&#xa;ObjectNr*&#xa;MutatieCode*&#xa;MarktWaarde&#xa;RegistratieNrNWWIRef" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;labelBackgroundColor=#ffffff;fontStyle=0" vertex="1" parent="berDGwb42OPregLxoamF-293">
+          <mxGeometry y="30" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="berDGwb42OPregLxoamF-3" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#666666;fillColor=#f5f5f5;fontSize=10;fontColor=#333333;" vertex="1" parent="berDGwb42OPregLxoamF-1">
           <mxGeometry x="-4985.4" y="1028" width="2136.4" height="450" as="geometry" />
